@@ -1,0 +1,211 @@
+dhb,age_group,population
+Total New Zealand,0 to 9,631080
+Total New Zealand,10 to 19,652420
+Total New Zealand,20 to 29,705290
+Total New Zealand,30 to 39,725220
+Total New Zealand,40 to 49,636090
+Total New Zealand,50 to 59,655350
+Total New Zealand,60 to 69,551680
+Total New Zealand,70 to 79,370740
+Total New Zealand,80 to 89,160180
+Total New Zealand,90+,34580
+Northland,0 to 9,25800
+Northland,10 to 19,25430
+Northland,20 to 29,20070
+Northland,30 to 39,22730
+Northland,40 to 49,21500
+Northland,50 to 59,27200
+Northland,60 to 69,27480
+Northland,70 to 79,19180
+Northland,80 to 89,7210
+Northland,90+,1360
+Waitemata,0 to 9,82280
+Waitemata,10 to 19,79410
+Waitemata,20 to 29,83240
+Waitemata,30 to 39,98820
+Waitemata,40 to 49,86720
+Waitemata,50 to 59,82660
+Waitemata,60 to 69,63090
+Waitemata,70 to 79,40660
+Waitemata,80 to 89,18360
+Waitemata,90+,4150
+Auckland,0 to 9,51350
+Auckland,10 to 19,56500
+Auckland,20 to 29,90250
+Auckland,30 to 39,87820
+Auckland,40 to 49,64650
+Auckland,50 to 59,60750
+Auckland,60 to 69,45510
+Auckland,70 to 79,27030
+Auckland,80 to 89,12150
+Auckland,90+,3050
+Counties Manukau,0 to 9,89910
+Counties Manukau,10 to 19,86570
+Counties Manukau,20 to 29,87620
+Counties Manukau,30 to 39,90920
+Counties Manukau,40 to 49,74760
+Counties Manukau,50 to 59,72350
+Counties Manukau,60 to 69,52750
+Counties Manukau,70 to 79,31120
+Counties Manukau,80 to 89,12760
+Counties Manukau,90+,2530
+Waikato,0 to 9,59170
+Waikato,10 to 19,59540
+Waikato,20 to 29,60110
+Waikato,30 to 39,58870
+Waikato,40 to 49,52540
+Waikato,50 to 59,54600
+Waikato,60 to 69,48720
+Waikato,70 to 79,34150
+Waikato,80 to 89,14470
+Waikato,90+,3020
+Lakes,0 to 9,15970
+Lakes,10 to 19,16040
+Lakes,20 to 29,14420
+Lakes,30 to 39,15260
+Lakes,40 to 49,14260
+Lakes,50 to 59,15300
+Lakes,60 to 69,13450
+Lakes,70 to 79,9300
+Lakes,80 to 89,3720
+Lakes,90+,700
+Bay of Plenty,0 to 9,34320
+Bay of Plenty,10 to 19,34060
+Bay of Plenty,20 to 29,29940
+Bay of Plenty,30 to 39,33890
+Bay of Plenty,40 to 49,31800
+Bay of Plenty,50 to 59,34220
+Bay of Plenty,60 to 69,32660
+Bay of Plenty,70 to 79,25260
+Bay of Plenty,80 to 89,11250
+Bay of Plenty,90+,2360
+Tairawhiti,0 to 9,7440
+Tairawhiti,10 to 19,7590
+Tairawhiti,20 to 29,6120
+Tairawhiti,30 to 39,6350
+Tairawhiti,40 to 49,5960
+Tairawhiti,50 to 59,6450
+Tairawhiti,60 to 69,6000
+Tairawhiti,70 to 79,3690
+Tairawhiti,80 to 89,1540
+Tairawhiti,90+,320
+Taranaki,0 to 9,16780
+Taranaki,10 to 19,16770
+Taranaki,20 to 29,13690
+Taranaki,30 to 39,16060
+Taranaki,40 to 49,15650
+Taranaki,50 to 59,16550
+Taranaki,60 to 69,15080
+Taranaki,70 to 79,10340
+Taranaki,80 to 89,4620
+Taranaki,90+,1050
+Hawke's Bay,0 to 9,23140
+Hawke's Bay,10 to 19,23990
+Hawke's Bay,20 to 29,21080
+Hawke's Bay,30 to 39,22130
+Hawke's Bay,40 to 49,21770
+Hawke's Bay,50 to 59,23830
+Hawke's Bay,60 to 69,21610
+Hawke's Bay,70 to 79,15760
+Hawke's Bay,80 to 89,6700
+Hawke's Bay,90+,1410
+Whanganui,0 to 9,8740
+Whanganui,10 to 19,8900
+Whanganui,20 to 29,7710
+Whanganui,30 to 39,7990
+Whanganui,40 to 49,7570
+Whanganui,50 to 59,9210
+Whanganui,60 to 69,9050
+Whanganui,70 to 79,6470
+Whanganui,80 to 89,2810
+Whanganui,90+,600
+MidCentral,0 to 9,23700
+MidCentral,10 to 19,24910
+MidCentral,20 to 29,25740
+MidCentral,30 to 39,23180
+MidCentral,40 to 49,21240
+MidCentral,50 to 59,23880
+MidCentral,60 to 69,21890
+MidCentral,70 to 79,16090
+MidCentral,80 to 89,7060
+MidCentral,90+,1450
+Hutt Valley,0 to 9,20730
+Hutt Valley,10 to 19,20050
+Hutt Valley,20 to 29,20830
+Hutt Valley,30 to 39,24210
+Hutt Valley,40 to 49,21290
+Hutt Valley,50 to 59,20760
+Hutt Valley,60 to 69,16510
+Hutt Valley,70 to 79,10170
+Hutt Valley,80 to 89,4710
+Hutt Valley,90+,1000
+Capital and Coast,0 to 9,34100
+Capital and Coast,10 to 19,41110
+Capital and Coast,20 to 29,58250
+Capital and Coast,30 to 39,47510
+Capital and Coast,40 to 49,43170
+Capital and Coast,50 to 59,41710
+Capital and Coast,60 to 69,30380
+Capital and Coast,70 to 79,19880
+Capital and Coast,80 to 89,8760
+Capital and Coast,90+,1900
+Wairarapa,0 to 9,5780
+Wairarapa,10 to 19,6020
+Wairarapa,20 to 29,4920
+Wairarapa,30 to 39,5440
+Wairarapa,40 to 49,5840
+Wairarapa,50 to 59,6970
+Wairarapa,60 to 69,7000
+Wairarapa,70 to 79,5340
+Wairarapa,80 to 89,2170
+Wairarapa,90+,440
+Nelson Marlborough,0 to 9,16760
+Nelson Marlborough,10 to 19,19290
+Nelson Marlborough,20 to 29,17130
+Nelson Marlborough,30 to 39,19120
+Nelson Marlborough,40 to 49,20190
+Nelson Marlborough,50 to 59,23800
+Nelson Marlborough,60 to 69,22580
+Nelson Marlborough,70 to 79,17070
+Nelson Marlborough,80 to 89,6820
+Nelson Marlborough,90+,1350
+West Coast,0 to 9,3520
+West Coast,10 to 19,3610
+West Coast,20 to 29,3190
+West Coast,30 to 39,3690
+West Coast,40 to 49,3560
+West Coast,50 to 59,5110
+West Coast,60 to 69,5140
+West Coast,70 to 79,3370
+West Coast,80 to 89,1260
+West Coast,90+,250
+Canterbury,0 to 9,67140
+Canterbury,10 to 19,71230
+Canterbury,20 to 29,83700
+Canterbury,30 to 39,84900
+Canterbury,40 to 49,74100
+Canterbury,50 to 59,76420
+Canterbury,60 to 69,63400
+Canterbury,70 to 79,42210
+Canterbury,80 to 89,18860
+Canterbury,90+,4410
+South Canterbury,0 to 9,6790
+South Canterbury,10 to 19,7110
+South Canterbury,20 to 29,6770
+South Canterbury,30 to 39,7500
+South Canterbury,40 to 49,7190
+South Canterbury,50 to 59,8650
+South Canterbury,60 to 69,8440
+South Canterbury,70 to 79,6310
+South Canterbury,80 to 89,2900
+South Canterbury,90+,560
+Southern,0 to 9,37670
+Southern,10 to 19,44290
+Southern,20 to 29,50450
+Southern,30 to 39,48800
+Southern,40 to 49,42310
+Southern,50 to 59,44920
+Southern,60 to 69,40910
+Southern,70 to 79,27310
+Southern,80 to 89,12060
+Southern,90+,2650
