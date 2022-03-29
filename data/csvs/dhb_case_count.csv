@@ -39,89 +39,296 @@ Auckland,2020-04-30,2
 Auckland,2020-05-01,2
 Auckland,2020-05-05,1
 Auckland,2020-05-22,1
+Auckland,2020-06-19,2
+Auckland,2020-06-20,1
+Auckland,2020-06-21,2
+Auckland,2020-06-22,1
+Auckland,2020-06-23,1
+Auckland,2020-06-25,1
+Auckland,2020-06-26,1
+Auckland,2020-06-27,4
+Auckland,2020-06-28,1
+Auckland,2020-07-01,1
+Auckland,2020-07-07,2
+Auckland,2020-07-08,1
+Auckland,2020-07-19,1
+Auckland,2020-07-20,1
+Auckland,2020-08-01,1
+Auckland,2020-08-04,1
+Auckland,2020-08-11,1
+Auckland,2020-08-12,1
 Auckland,2020-08-13,3
 Auckland,2020-08-14,4
-Auckland,2020-08-15,4
+Auckland,2020-08-15,5
 Auckland,2020-08-16,8
 Auckland,2020-08-17,3
 Auckland,2020-08-18,5
 Auckland,2020-08-20,1
 Auckland,2020-08-21,1
-Auckland,2020-08-23,1
+Auckland,2020-08-22,1
+Auckland,2020-08-23,2
 Auckland,2020-08-24,3
-Auckland,2020-08-26,1
-Auckland,2020-08-28,1
+Auckland,2020-08-26,3
+Auckland,2020-08-28,10
 Auckland,2020-08-29,1
 Auckland,2020-08-30,3
 Auckland,2020-09-02,2
+Auckland,2020-09-04,1
+Auckland,2020-09-05,2
 Auckland,2020-09-08,2
 Auckland,2020-09-10,1
-Auckland,2020-09-18,1
+Auckland,2020-09-16,4
+Auckland,2020-09-18,2
+Auckland,2020-09-19,1
 Auckland,2020-09-22,3
+Auckland,2020-09-23,1
+Auckland,2020-09-24,1
+Auckland,2020-09-25,1
+Auckland,2020-09-26,2
+Auckland,2020-09-28,1
+Auckland,2020-09-30,4
+Auckland,2020-10-01,6
+Auckland,2020-10-03,1
+Auckland,2020-10-04,1
+Auckland,2020-10-05,1
+Auckland,2020-10-07,1
+Auckland,2020-10-08,2
+Auckland,2020-10-15,3
+Auckland,2020-10-17,2
+Auckland,2020-10-19,1
+Auckland,2020-10-20,1
+Auckland,2020-10-23,4
+Auckland,2020-10-25,1
+Auckland,2020-10-27,2
+Auckland,2020-10-28,5
+Auckland,2020-10-30,1
+Auckland,2020-10-31,2
+Auckland,2020-11-01,1
+Auckland,2020-11-04,2
+Auckland,2020-11-05,1
 Auckland,2020-11-06,1
-Auckland,2020-11-12,1
-Auckland,2021-08-18,1
-Auckland,2021-08-19,4
-Auckland,2021-08-20,4
+Auckland,2020-11-07,4
+Auckland,2020-11-08,1
+Auckland,2020-11-09,2
+Auckland,2020-11-12,3
+Auckland,2020-11-13,1
+Auckland,2020-11-18,4
+Auckland,2020-11-20,2
+Auckland,2020-11-21,3
+Auckland,2020-11-23,3
+Auckland,2020-11-25,1
+Auckland,2020-11-26,1
+Auckland,2020-11-27,1
+Auckland,2020-11-28,2
+Auckland,2020-11-30,1
+Auckland,2020-12-02,1
+Auckland,2020-12-03,2
+Auckland,2020-12-04,5
+Auckland,2020-12-07,2
+Auckland,2020-12-09,1
+Auckland,2020-12-11,1
+Auckland,2020-12-12,2
+Auckland,2020-12-16,1
+Auckland,2020-12-17,2
+Auckland,2020-12-19,4
+Auckland,2020-12-20,3
+Auckland,2020-12-21,1
+Auckland,2020-12-22,1
+Auckland,2020-12-23,3
+Auckland,2020-12-24,4
+Auckland,2020-12-27,2
+Auckland,2020-12-28,3
+Auckland,2020-12-30,3
+Auckland,2020-12-31,1
+Auckland,2021-01-01,4
+Auckland,2021-01-02,7
+Auckland,2021-01-03,2
+Auckland,2021-01-06,1
+Auckland,2021-01-07,3
+Auckland,2021-01-09,4
+Auckland,2021-01-10,2
+Auckland,2021-01-12,1
+Auckland,2021-01-13,4
+Auckland,2021-01-15,2
+Auckland,2021-01-16,2
+Auckland,2021-01-17,2
+Auckland,2021-01-19,1
+Auckland,2021-01-21,1
+Auckland,2021-01-23,3
+Auckland,2021-01-24,4
+Auckland,2021-01-25,1
+Auckland,2021-01-26,1
+Auckland,2021-01-27,1
+Auckland,2021-01-28,4
+Auckland,2021-02-01,1
+Auckland,2021-02-02,1
+Auckland,2021-02-03,2
+Auckland,2021-02-04,1
+Auckland,2021-02-06,1
+Auckland,2021-02-09,1
+Auckland,2021-02-10,1
+Auckland,2021-02-11,1
+Auckland,2021-02-12,1
+Auckland,2021-02-14,4
+Auckland,2021-02-16,1
+Auckland,2021-02-22,3
+Auckland,2021-02-23,1
+Auckland,2021-02-28,1
+Auckland,2021-03-01,4
+Auckland,2021-03-02,1
+Auckland,2021-03-03,6
+Auckland,2021-03-05,1
+Auckland,2021-03-07,3
+Auckland,2021-03-09,1
+Auckland,2021-03-10,1
+Auckland,2021-03-11,1
+Auckland,2021-03-12,2
+Auckland,2021-03-13,1
+Auckland,2021-03-14,4
+Auckland,2021-03-15,1
+Auckland,2021-03-16,1
+Auckland,2021-03-17,5
+Auckland,2021-03-19,4
+Auckland,2021-03-20,4
+Auckland,2021-03-21,4
+Auckland,2021-03-22,4
+Auckland,2021-03-23,1
+Auckland,2021-03-24,5
+Auckland,2021-03-25,1
+Auckland,2021-03-27,1
+Auckland,2021-03-28,8
+Auckland,2021-03-30,2
+Auckland,2021-03-31,2
+Auckland,2021-04-02,3
+Auckland,2021-04-04,7
+Auckland,2021-04-05,8
+Auckland,2021-04-06,6
+Auckland,2021-04-07,15
+Auckland,2021-04-08,4
+Auckland,2021-04-09,3
+Auckland,2021-04-10,4
+Auckland,2021-04-11,2
+Auckland,2021-04-13,1
+Auckland,2021-04-14,1
+Auckland,2021-04-17,1
+Auckland,2021-04-21,1
+Auckland,2021-04-23,2
+Auckland,2021-04-25,4
+Auckland,2021-04-28,2
+Auckland,2021-04-30,3
+Auckland,2021-05-01,1
+Auckland,2021-05-02,2
+Auckland,2021-05-03,1
+Auckland,2021-05-04,2
+Auckland,2021-05-05,1
+Auckland,2021-05-06,2
+Auckland,2021-05-07,2
+Auckland,2021-05-09,1
+Auckland,2021-05-17,1
+Auckland,2021-05-19,1
+Auckland,2021-05-24,1
+Auckland,2021-05-27,1
+Auckland,2021-05-30,2
+Auckland,2021-06-01,5
+Auckland,2021-06-06,2
+Auckland,2021-06-07,1
+Auckland,2021-06-08,4
+Auckland,2021-06-10,5
+Auckland,2021-06-11,1
+Auckland,2021-06-12,2
+Auckland,2021-06-20,1
+Auckland,2021-06-22,1
+Auckland,2021-06-24,1
+Auckland,2021-06-25,1
+Auckland,2021-06-28,2
+Auckland,2021-06-29,1
+Auckland,2021-07-03,1
+Auckland,2021-07-04,7
+Auckland,2021-07-06,1
+Auckland,2021-07-07,1
+Auckland,2021-07-10,1
+Auckland,2021-07-11,1
+Auckland,2021-07-14,3
+Auckland,2021-07-16,1
+Auckland,2021-07-17,4
+Auckland,2021-07-18,1
+Auckland,2021-07-23,1
+Auckland,2021-07-26,1
+Auckland,2021-07-30,1
+Auckland,2021-08-05,1
+Auckland,2021-08-06,1
+Auckland,2021-08-08,1
+Auckland,2021-08-09,1
+Auckland,2021-08-10,1
+Auckland,2021-08-11,2
+Auckland,2021-08-13,1
+Auckland,2021-08-14,2
+Auckland,2021-08-15,3
+Auckland,2021-08-17,1
+Auckland,2021-08-18,6
+Auckland,2021-08-19,5
+Auckland,2021-08-20,5
 Auckland,2021-08-21,8
 Auckland,2021-08-22,7
 Auckland,2021-08-23,5
 Auckland,2021-08-24,15
-Auckland,2021-08-25,13
+Auckland,2021-08-25,14
 Auckland,2021-08-26,19
 Auckland,2021-08-27,18
 Auckland,2021-08-28,6
-Auckland,2021-08-29,7
+Auckland,2021-08-29,8
 Auckland,2021-08-30,15
 Auckland,2021-08-31,9
-Auckland,2021-09-01,8
+Auckland,2021-09-01,9
 Auckland,2021-09-02,8
 Auckland,2021-09-03,4
-Auckland,2021-09-04,3
-Auckland,2021-09-05,5
-Auckland,2021-09-06,3
+Auckland,2021-09-04,4
+Auckland,2021-09-05,7
+Auckland,2021-09-06,4
 Auckland,2021-09-07,1
-Auckland,2021-09-08,3
+Auckland,2021-09-08,11
 Auckland,2021-09-09,1
-Auckland,2021-09-10,1
-Auckland,2021-09-12,1
+Auckland,2021-09-10,2
+Auckland,2021-09-11,2
+Auckland,2021-09-12,2
+Auckland,2021-09-13,1
 Auckland,2021-09-14,3
-Auckland,2021-09-16,1
-Auckland,2021-09-17,5
+Auckland,2021-09-16,4
+Auckland,2021-09-17,6
 Auckland,2021-09-18,2
 Auckland,2021-09-19,5
 Auckland,2021-09-20,2
 Auckland,2021-09-21,4
-Auckland,2021-09-22,6
+Auckland,2021-09-22,7
 Auckland,2021-09-24,1
 Auckland,2021-09-25,2
-Auckland,2021-09-26,1
-Auckland,2021-09-27,2
+Auckland,2021-09-26,2
+Auckland,2021-09-27,3
 Auckland,2021-09-28,9
-Auckland,2021-09-29,5
+Auckland,2021-09-29,6
 Auckland,2021-09-30,3
 Auckland,2021-10-01,9
 Auckland,2021-10-02,10
-Auckland,2021-10-03,5
+Auckland,2021-10-03,7
 Auckland,2021-10-04,4
 Auckland,2021-10-05,7
 Auckland,2021-10-06,6
-Auckland,2021-10-07,7
+Auckland,2021-10-07,8
 Auckland,2021-10-08,4
 Auckland,2021-10-09,9
 Auckland,2021-10-10,7
 Auckland,2021-10-11,9
 Auckland,2021-10-12,7
-Auckland,2021-10-13,12
+Auckland,2021-10-13,13
 Auckland,2021-10-14,7
 Auckland,2021-10-15,12
-Auckland,2021-10-16,12
-Auckland,2021-10-17,8
-Auckland,2021-10-18,12
-Auckland,2021-10-19,16
+Auckland,2021-10-16,13
+Auckland,2021-10-17,15
+Auckland,2021-10-18,15
+Auckland,2021-10-19,18
 Auckland,2021-10-20,27
 Auckland,2021-10-21,23
-Auckland,2021-10-22,15
+Auckland,2021-10-22,16
 Auckland,2021-10-23,23
 Auckland,2021-10-24,24
 Auckland,2021-10-25,18
@@ -130,152 +337,155 @@ Auckland,2021-10-27,15
 Auckland,2021-10-28,29
 Auckland,2021-10-29,27
 Auckland,2021-10-30,48
-Auckland,2021-10-31,45
-Auckland,2021-11-01,20
+Auckland,2021-10-31,46
+Auckland,2021-11-01,21
 Auckland,2021-11-02,25
-Auckland,2021-11-03,47
+Auckland,2021-11-03,49
 Auckland,2021-11-04,29
 Auckland,2021-11-05,34
-Auckland,2021-11-06,45
-Auckland,2021-11-07,39
-Auckland,2021-11-08,28
+Auckland,2021-11-06,46
+Auckland,2021-11-07,40
+Auckland,2021-11-08,29
 Auckland,2021-11-09,32
 Auckland,2021-11-10,41
 Auckland,2021-11-11,46
-Auckland,2021-11-12,39
+Auckland,2021-11-12,40
 Auckland,2021-11-13,31
 Auckland,2021-11-14,55
 Auckland,2021-11-15,53
 Auckland,2021-11-16,28
-Auckland,2021-11-17,40
+Auckland,2021-11-17,41
 Auckland,2021-11-18,40
-Auckland,2021-11-19,24
-Auckland,2021-11-20,35
-Auckland,2021-11-21,23
+Auckland,2021-11-19,26
+Auckland,2021-11-20,36
+Auckland,2021-11-21,24
 Auckland,2021-11-22,36
 Auckland,2021-11-23,35
-Auckland,2021-11-24,43
+Auckland,2021-11-24,45
 Auckland,2021-11-25,47
-Auckland,2021-11-26,35
+Auckland,2021-11-26,38
 Auckland,2021-11-27,28
-Auckland,2021-11-28,40
-Auckland,2021-11-29,19
-Auckland,2021-11-30,23
+Auckland,2021-11-28,43
+Auckland,2021-11-29,21
+Auckland,2021-11-30,24
 Auckland,2021-12-01,22
 Auckland,2021-12-02,27
 Auckland,2021-12-03,32
 Auckland,2021-12-04,23
 Auckland,2021-12-05,21
 Auckland,2021-12-06,28
-Auckland,2021-12-07,18
+Auckland,2021-12-07,19
 Auckland,2021-12-08,22
-Auckland,2021-12-09,18
+Auckland,2021-12-09,19
 Auckland,2021-12-10,18
 Auckland,2021-12-11,9
 Auckland,2021-12-12,14
 Auckland,2021-12-13,13
-Auckland,2021-12-14,18
+Auckland,2021-12-14,19
 Auckland,2021-12-15,15
-Auckland,2021-12-16,15
-Auckland,2021-12-17,12
-Auckland,2021-12-18,17
-Auckland,2021-12-19,11
-Auckland,2021-12-20,4
-Auckland,2021-12-21,3
-Auckland,2021-12-22,9
-Auckland,2021-12-23,5
+Auckland,2021-12-16,16
+Auckland,2021-12-17,20
+Auckland,2021-12-18,18
+Auckland,2021-12-19,13
+Auckland,2021-12-20,9
+Auckland,2021-12-21,4
+Auckland,2021-12-22,11
+Auckland,2021-12-23,7
 Auckland,2021-12-24,5
 Auckland,2021-12-25,14
-Auckland,2021-12-26,4
-Auckland,2021-12-27,2
-Auckland,2021-12-28,3
-Auckland,2021-12-30,10
-Auckland,2021-12-31,13
-Auckland,2022-01-01,11
-Auckland,2022-01-02,3
-Auckland,2022-01-03,2
-Auckland,2022-01-04,4
-Auckland,2022-01-05,1
-Auckland,2022-01-06,7
-Auckland,2022-01-07,12
-Auckland,2022-01-08,5
-Auckland,2022-01-09,11
-Auckland,2022-01-10,7
-Auckland,2022-01-11,7
-Auckland,2022-01-12,4
-Auckland,2022-01-13,5
-Auckland,2022-01-14,6
-Auckland,2022-01-15,4
-Auckland,2022-01-17,2
-Auckland,2022-01-18,9
-Auckland,2022-01-19,4
-Auckland,2022-01-20,8
-Auckland,2022-01-21,2
-Auckland,2022-01-22,7
-Auckland,2022-01-23,3
-Auckland,2022-01-24,6
-Auckland,2022-01-25,5
-Auckland,2022-01-26,2
-Auckland,2022-01-27,11
-Auckland,2022-01-28,10
-Auckland,2022-01-29,25
-Auckland,2022-01-30,12
-Auckland,2022-01-31,17
-Auckland,2022-02-01,25
-Auckland,2022-02-02,20
-Auckland,2022-02-03,32
-Auckland,2022-02-04,26
-Auckland,2022-02-05,21
-Auckland,2022-02-06,23
-Auckland,2022-02-07,23
-Auckland,2022-02-08,26
-Auckland,2022-02-09,75
-Auckland,2022-02-10,65
-Auckland,2022-02-11,91
-Auckland,2022-02-12,154
-Auckland,2022-02-13,122
+Auckland,2021-12-26,10
+Auckland,2021-12-27,7
+Auckland,2021-12-28,9
+Auckland,2021-12-29,8
+Auckland,2021-12-30,16
+Auckland,2021-12-31,26
+Auckland,2022-01-01,21
+Auckland,2022-01-02,20
+Auckland,2022-01-03,13
+Auckland,2022-01-04,15
+Auckland,2022-01-05,28
+Auckland,2022-01-06,14
+Auckland,2022-01-07,22
+Auckland,2022-01-08,8
+Auckland,2022-01-09,27
+Auckland,2022-01-10,31
+Auckland,2022-01-11,19
+Auckland,2022-01-12,24
+Auckland,2022-01-13,16
+Auckland,2022-01-14,14
+Auckland,2022-01-15,46
+Auckland,2022-01-16,14
+Auckland,2022-01-17,42
+Auckland,2022-01-18,28
+Auckland,2022-01-19,15
+Auckland,2022-01-20,32
+Auckland,2022-01-21,16
+Auckland,2022-01-22,22
+Auckland,2022-01-23,19
+Auckland,2022-01-24,20
+Auckland,2022-01-25,14
+Auckland,2022-01-26,41
+Auckland,2022-01-27,29
+Auckland,2022-01-28,53
+Auckland,2022-01-29,52
+Auckland,2022-01-30,46
+Auckland,2022-01-31,40
+Auckland,2022-02-01,38
+Auckland,2022-02-02,42
+Auckland,2022-02-03,41
+Auckland,2022-02-04,30
+Auckland,2022-02-05,26
+Auckland,2022-02-06,28
+Auckland,2022-02-07,60
+Auckland,2022-02-08,33
+Auckland,2022-02-09,96
+Auckland,2022-02-10,73
+Auckland,2022-02-11,96
+Auckland,2022-02-12,157
+Auckland,2022-02-13,121
 Auckland,2022-02-14,90
-Auckland,2022-02-15,233
-Auckland,2022-02-16,310
-Auckland,2022-02-17,343
-Auckland,2022-02-18,486
+Auckland,2022-02-15,239
+Auckland,2022-02-16,309
+Auckland,2022-02-17,340
+Auckland,2022-02-18,485
 Auckland,2022-02-19,828
-Auckland,2022-02-20,766
-Auckland,2022-02-21,1394
+Auckland,2022-02-20,765
+Auckland,2022-02-21,1395
 Auckland,2022-02-22,1390
-Auckland,2022-02-23,1069
-Auckland,2022-02-24,1961
+Auckland,2022-02-23,1070
+Auckland,2022-02-24,1962
 Auckland,2022-02-25,2285
-Auckland,2022-02-26,1636
-Auckland,2022-02-27,1783
-Auckland,2022-02-28,3074
-Auckland,2022-03-01,3650
+Auckland,2022-02-26,1635
+Auckland,2022-02-27,1787
+Auckland,2022-02-28,3073
+Auckland,2022-03-01,3649
 Auckland,2022-03-02,3680
-Auckland,2022-03-03,4013
-Auckland,2022-03-04,2770
-Auckland,2022-03-05,2030
-Auckland,2022-03-06,2024
-Auckland,2022-03-07,2807
+Auckland,2022-03-03,4010
+Auckland,2022-03-04,2767
+Auckland,2022-03-05,2029
+Auckland,2022-03-06,2023
+Auckland,2022-03-07,2806
 Auckland,2022-03-08,2360
-Auckland,2022-03-09,2043
-Auckland,2022-03-10,2021
-Auckland,2022-03-11,1685
-Auckland,2022-03-12,1272
-Auckland,2022-03-13,1308
-Auckland,2022-03-14,1642
-Auckland,2022-03-15,1510
-Auckland,2022-03-16,1339
-Auckland,2022-03-17,966
-Auckland,2022-03-18,1056
+Auckland,2022-03-09,2042
+Auckland,2022-03-10,2019
+Auckland,2022-03-11,1686
+Auckland,2022-03-12,1273
+Auckland,2022-03-13,1307
+Auckland,2022-03-14,1643
+Auckland,2022-03-15,1512
+Auckland,2022-03-16,1338
+Auckland,2022-03-17,965
+Auckland,2022-03-18,1057
 Auckland,2022-03-19,926
 Auckland,2022-03-20,899
 Auckland,2022-03-21,1148
-Auckland,2022-03-22,1144
+Auckland,2022-03-22,1145
 Auckland,2022-03-23,1074
-Auckland,2022-03-24,850
+Auckland,2022-03-24,849
 Auckland,2022-03-25,710
-Auckland,2022-03-26,531
-Auckland,2022-03-27,599
+Auckland,2022-03-26,534
+Auckland,2022-03-27,596
+Auckland,2022-03-28,788
 Bay of Plenty,2020-03-21,1
 Bay of Plenty,2020-03-24,3
 Bay of Plenty,2020-03-25,2
@@ -295,6 +505,8 @@ Bay of Plenty,2020-04-10,2
 Bay of Plenty,2020-04-14,3
 Bay of Plenty,2020-04-17,1
 Bay of Plenty,2020-04-19,2
+Bay of Plenty,2021-01-27,1
+Bay of Plenty,2021-08-08,11
 Bay of Plenty,2021-11-17,1
 Bay of Plenty,2021-11-18,2
 Bay of Plenty,2021-11-19,7
@@ -303,7 +515,7 @@ Bay of Plenty,2021-11-21,3
 Bay of Plenty,2021-11-22,2
 Bay of Plenty,2021-11-23,11
 Bay of Plenty,2021-11-24,10
-Bay of Plenty,2021-11-25,1
+Bay of Plenty,2021-11-25,2
 Bay of Plenty,2021-11-26,4
 Bay of Plenty,2021-11-27,4
 Bay of Plenty,2021-11-29,9
@@ -355,17 +567,17 @@ Bay of Plenty,2022-01-20,1
 Bay of Plenty,2022-01-24,2
 Bay of Plenty,2022-01-26,6
 Bay of Plenty,2022-01-27,6
-Bay of Plenty,2022-01-28,7
+Bay of Plenty,2022-01-28,11
 Bay of Plenty,2022-01-29,10
 Bay of Plenty,2022-01-30,4
 Bay of Plenty,2022-01-31,4
 Bay of Plenty,2022-02-01,5
 Bay of Plenty,2022-02-02,9
 Bay of Plenty,2022-02-03,15
-Bay of Plenty,2022-02-04,17
+Bay of Plenty,2022-02-04,18
 Bay of Plenty,2022-02-05,4
 Bay of Plenty,2022-02-06,16
-Bay of Plenty,2022-02-07,10
+Bay of Plenty,2022-02-07,21
 Bay of Plenty,2022-02-08,13
 Bay of Plenty,2022-02-09,2
 Bay of Plenty,2022-02-10,14
@@ -383,20 +595,20 @@ Bay of Plenty,2022-02-21,93
 Bay of Plenty,2022-02-22,198
 Bay of Plenty,2022-02-23,208
 Bay of Plenty,2022-02-24,642
-Bay of Plenty,2022-02-25,719
+Bay of Plenty,2022-02-25,718
 Bay of Plenty,2022-02-26,672
-Bay of Plenty,2022-02-27,719
+Bay of Plenty,2022-02-27,718
 Bay of Plenty,2022-02-28,1092
-Bay of Plenty,2022-03-01,1320
-Bay of Plenty,2022-03-02,1315
+Bay of Plenty,2022-03-01,1319
+Bay of Plenty,2022-03-02,1314
 Bay of Plenty,2022-03-03,1300
 Bay of Plenty,2022-03-04,1225
-Bay of Plenty,2022-03-05,940
+Bay of Plenty,2022-03-05,941
 Bay of Plenty,2022-03-06,1174
 Bay of Plenty,2022-03-07,1683
 Bay of Plenty,2022-03-08,1428
-Bay of Plenty,2022-03-09,1388
-Bay of Plenty,2022-03-10,1350
+Bay of Plenty,2022-03-09,1387
+Bay of Plenty,2022-03-10,1351
 Bay of Plenty,2022-03-11,1251
 Bay of Plenty,2022-03-12,954
 Bay of Plenty,2022-03-13,1025
@@ -404,16 +616,17 @@ Bay of Plenty,2022-03-14,1422
 Bay of Plenty,2022-03-15,1342
 Bay of Plenty,2022-03-16,1266
 Bay of Plenty,2022-03-17,954
-Bay of Plenty,2022-03-18,1065
+Bay of Plenty,2022-03-18,1066
 Bay of Plenty,2022-03-19,954
 Bay of Plenty,2022-03-20,892
 Bay of Plenty,2022-03-21,1219
 Bay of Plenty,2022-03-22,1288
-Bay of Plenty,2022-03-23,986
+Bay of Plenty,2022-03-23,987
 Bay of Plenty,2022-03-24,1024
 Bay of Plenty,2022-03-25,880
 Bay of Plenty,2022-03-26,630
-Bay of Plenty,2022-03-27,650
+Bay of Plenty,2022-03-27,649
+Bay of Plenty,2022-03-28,969
 Canterbury,2020-03-17,1
 Canterbury,2020-03-18,1
 Canterbury,2020-03-20,2
@@ -453,38 +666,208 @@ Canterbury,2020-04-23,2
 Canterbury,2020-04-24,2
 Canterbury,2020-05-01,2
 Canterbury,2020-05-15,1
+Canterbury,2020-06-24,2
+Canterbury,2020-07-05,3
+Canterbury,2020-07-06,2
+Canterbury,2020-07-08,1
+Canterbury,2020-07-09,1
+Canterbury,2020-07-11,1
+Canterbury,2020-07-13,1
+Canterbury,2020-07-14,1
+Canterbury,2020-07-17,1
+Canterbury,2020-08-02,1
+Canterbury,2020-08-25,1
+Canterbury,2020-08-30,1
+Canterbury,2020-08-31,5
+Canterbury,2020-09-02,1
+Canterbury,2020-09-04,1
+Canterbury,2020-09-09,2
+Canterbury,2020-09-12,1
+Canterbury,2020-09-16,1
+Canterbury,2020-09-30,1
 Canterbury,2020-10-02,1
+Canterbury,2020-10-07,1
+Canterbury,2020-10-12,1
+Canterbury,2020-10-14,1
+Canterbury,2020-10-15,1
+Canterbury,2020-10-16,1
+Canterbury,2020-10-20,21
+Canterbury,2020-10-23,12
+Canterbury,2020-10-25,3
+Canterbury,2020-10-29,1
+Canterbury,2020-11-01,1
 Canterbury,2020-11-02,1
 Canterbury,2020-11-03,1
-Canterbury,2021-10-27,2
-Canterbury,2021-10-29,2
+Canterbury,2020-11-11,2
+Canterbury,2020-11-12,1
+Canterbury,2020-11-18,2
+Canterbury,2020-11-20,1
+Canterbury,2020-11-21,1
+Canterbury,2020-11-23,6
+Canterbury,2020-11-24,1
+Canterbury,2020-11-26,6
+Canterbury,2020-11-27,1
+Canterbury,2020-11-28,1
+Canterbury,2020-11-30,3
+Canterbury,2020-12-01,3
+Canterbury,2020-12-04,1
+Canterbury,2020-12-06,1
+Canterbury,2020-12-09,1
+Canterbury,2020-12-12,2
+Canterbury,2020-12-14,4
+Canterbury,2020-12-18,2
+Canterbury,2020-12-19,3
+Canterbury,2020-12-20,1
+Canterbury,2020-12-21,4
+Canterbury,2020-12-24,1
+Canterbury,2020-12-25,2
+Canterbury,2020-12-27,1
+Canterbury,2020-12-28,3
+Canterbury,2020-12-31,1
+Canterbury,2021-01-07,11
+Canterbury,2021-01-08,1
+Canterbury,2021-01-10,6
+Canterbury,2021-01-11,4
+Canterbury,2021-01-12,1
+Canterbury,2021-01-13,3
+Canterbury,2021-01-15,2
+Canterbury,2021-01-16,1
+Canterbury,2021-01-18,1
+Canterbury,2021-01-20,2
+Canterbury,2021-01-24,1
+Canterbury,2021-01-29,1
+Canterbury,2021-02-02,2
+Canterbury,2021-02-05,1
+Canterbury,2021-02-09,1
+Canterbury,2021-02-10,1
+Canterbury,2021-02-15,1
+Canterbury,2021-02-19,3
+Canterbury,2021-02-20,1
+Canterbury,2021-04-09,1
+Canterbury,2021-04-15,1
+Canterbury,2021-04-26,1
+Canterbury,2021-05-01,1
+Canterbury,2021-05-02,1
+Canterbury,2021-05-06,3
+Canterbury,2021-05-24,1
+Canterbury,2021-05-25,1
+Canterbury,2021-06-03,1
+Canterbury,2021-06-06,1
+Canterbury,2021-06-07,1
+Canterbury,2021-06-14,1
+Canterbury,2021-06-16,1
+Canterbury,2021-06-19,1
+Canterbury,2021-06-26,1
+Canterbury,2021-07-03,1
+Canterbury,2021-07-14,16
+Canterbury,2021-07-20,1
+Canterbury,2021-07-22,2
+Canterbury,2021-07-23,2
+Canterbury,2021-07-30,2
+Canterbury,2021-08-01,2
+Canterbury,2021-08-02,2
+Canterbury,2021-08-03,1
+Canterbury,2021-08-10,1
+Canterbury,2021-08-11,1
+Canterbury,2021-08-15,1
+Canterbury,2021-08-17,2
+Canterbury,2021-08-19,1
+Canterbury,2021-08-20,1
+Canterbury,2021-08-21,2
+Canterbury,2021-08-22,1
+Canterbury,2021-08-23,1
+Canterbury,2021-08-26,2
+Canterbury,2021-08-27,1
+Canterbury,2021-09-09,3
+Canterbury,2021-09-10,2
+Canterbury,2021-09-12,1
+Canterbury,2021-09-13,2
+Canterbury,2021-09-14,1
+Canterbury,2021-09-15,1
+Canterbury,2021-09-18,1
+Canterbury,2021-09-23,1
+Canterbury,2021-09-24,1
+Canterbury,2021-09-26,1
+Canterbury,2021-10-06,1
+Canterbury,2021-10-12,2
+Canterbury,2021-10-20,1
+Canterbury,2021-10-22,4
+Canterbury,2021-10-23,2
+Canterbury,2021-10-26,2
+Canterbury,2021-10-27,6
+Canterbury,2021-10-28,3
+Canterbury,2021-10-29,3
+Canterbury,2021-10-30,2
+Canterbury,2021-11-09,1
+Canterbury,2021-11-11,2
+Canterbury,2021-11-13,1
 Canterbury,2021-11-16,1
 Canterbury,2021-11-17,1
 Canterbury,2021-11-19,1
 Canterbury,2021-11-21,1
-Canterbury,2021-11-26,1
-Canterbury,2021-12-04,1
+Canterbury,2021-11-24,2
+Canterbury,2021-11-25,2
+Canterbury,2021-11-26,5
+Canterbury,2021-12-02,1
+Canterbury,2021-12-03,1
+Canterbury,2021-12-04,3
 Canterbury,2021-12-05,2
 Canterbury,2021-12-08,1
 Canterbury,2021-12-09,1
-Canterbury,2021-12-10,3
-Canterbury,2021-12-11,2
+Canterbury,2021-12-10,4
+Canterbury,2021-12-11,4
 Canterbury,2021-12-13,1
+Canterbury,2021-12-15,2
+Canterbury,2021-12-16,2
+Canterbury,2021-12-20,3
+Canterbury,2021-12-22,4
 Canterbury,2021-12-23,2
-Canterbury,2021-12-27,1
-Canterbury,2021-12-29,1
-Canterbury,2022-01-11,3
-Canterbury,2022-01-12,1
-Canterbury,2022-01-13,2
-Canterbury,2022-01-18,1
-Canterbury,2022-01-26,1
-Canterbury,2022-01-27,4
-Canterbury,2022-01-29,1
-Canterbury,2022-01-30,1
-Canterbury,2022-01-31,2
-Canterbury,2022-02-05,3
-Canterbury,2022-02-07,1
-Canterbury,2022-02-08,2
+Canterbury,2021-12-24,1
+Canterbury,2021-12-25,1
+Canterbury,2021-12-26,4
+Canterbury,2021-12-27,4
+Canterbury,2021-12-29,2
+Canterbury,2021-12-30,2
+Canterbury,2021-12-31,2
+Canterbury,2022-01-01,5
+Canterbury,2022-01-02,4
+Canterbury,2022-01-03,2
+Canterbury,2022-01-04,3
+Canterbury,2022-01-05,1
+Canterbury,2022-01-08,8
+Canterbury,2022-01-10,5
+Canterbury,2022-01-11,7
+Canterbury,2022-01-12,2
+Canterbury,2022-01-13,5
+Canterbury,2022-01-14,3
+Canterbury,2022-01-15,7
+Canterbury,2022-01-16,5
+Canterbury,2022-01-17,10
+Canterbury,2022-01-18,2
+Canterbury,2022-01-19,1
+Canterbury,2022-01-20,4
+Canterbury,2022-01-21,2
+Canterbury,2022-01-22,2
+Canterbury,2022-01-23,11
+Canterbury,2022-01-24,8
+Canterbury,2022-01-25,13
+Canterbury,2022-01-26,8
+Canterbury,2022-01-27,8
+Canterbury,2022-01-28,5
+Canterbury,2022-01-29,8
+Canterbury,2022-01-30,4
+Canterbury,2022-01-31,4
+Canterbury,2022-02-01,21
+Canterbury,2022-02-02,6
+Canterbury,2022-02-03,15
+Canterbury,2022-02-04,27
+Canterbury,2022-02-05,24
+Canterbury,2022-02-06,4
+Canterbury,2022-02-07,4
+Canterbury,2022-02-08,11
+Canterbury,2022-02-09,3
+Canterbury,2022-02-10,5
+Canterbury,2022-02-11,11
 Canterbury,2022-02-12,2
 Canterbury,2022-02-13,2
 Canterbury,2022-02-14,3
@@ -496,39 +879,40 @@ Canterbury,2022-02-19,69
 Canterbury,2022-02-20,108
 Canterbury,2022-02-21,134
 Canterbury,2022-02-22,571
-Canterbury,2022-02-23,472
-Canterbury,2022-02-24,550
+Canterbury,2022-02-23,473
+Canterbury,2022-02-24,552
 Canterbury,2022-02-25,479
 Canterbury,2022-02-26,347
-Canterbury,2022-02-27,435
+Canterbury,2022-02-27,434
 Canterbury,2022-02-28,639
-Canterbury,2022-03-01,1018
+Canterbury,2022-03-01,1017
 Canterbury,2022-03-02,1286
-Canterbury,2022-03-03,1200
-Canterbury,2022-03-04,1175
+Canterbury,2022-03-03,1201
+Canterbury,2022-03-04,1176
 Canterbury,2022-03-05,1025
-Canterbury,2022-03-06,1312
-Canterbury,2022-03-07,1903
+Canterbury,2022-03-06,1311
+Canterbury,2022-03-07,1905
 Canterbury,2022-03-08,2021
 Canterbury,2022-03-09,2029
-Canterbury,2022-03-10,2158
-Canterbury,2022-03-11,2036
+Canterbury,2022-03-10,2157
+Canterbury,2022-03-11,2035
 Canterbury,2022-03-12,1661
-Canterbury,2022-03-13,1896
-Canterbury,2022-03-14,2653
+Canterbury,2022-03-13,1897
+Canterbury,2022-03-14,2654
 Canterbury,2022-03-15,2386
-Canterbury,2022-03-16,2497
+Canterbury,2022-03-16,2496
 Canterbury,2022-03-17,1944
-Canterbury,2022-03-18,2293
-Canterbury,2022-03-19,2299
+Canterbury,2022-03-18,2294
+Canterbury,2022-03-19,2300
 Canterbury,2022-03-20,2264
 Canterbury,2022-03-21,3490
-Canterbury,2022-03-22,3473
-Canterbury,2022-03-23,3155
+Canterbury,2022-03-22,3475
+Canterbury,2022-03-23,3157
 Canterbury,2022-03-24,2660
 Canterbury,2022-03-25,2403
-Canterbury,2022-03-26,1814
-Canterbury,2022-03-27,2058
+Canterbury,2022-03-26,1815
+Canterbury,2022-03-27,2060
+Canterbury,2022-03-28,2819
 Capital and Coast,2020-03-14,1
 Capital and Coast,2020-03-16,2
 Capital and Coast,2020-03-17,1
@@ -557,7 +941,16 @@ Capital and Coast,2020-04-15,3
 Capital and Coast,2020-04-16,1
 Capital and Coast,2020-04-17,1
 Capital and Coast,2020-04-20,2
+Capital and Coast,2020-08-31,1
+Capital and Coast,2020-09-16,1
+Capital and Coast,2020-10-15,1
 Capital and Coast,2020-11-11,1
+Capital and Coast,2021-02-12,1
+Capital and Coast,2021-02-23,1
+Capital and Coast,2021-07-05,1
+Capital and Coast,2021-07-06,2
+Capital and Coast,2021-07-12,13
+Capital and Coast,2021-07-16,3
 Capital and Coast,2021-08-20,4
 Capital and Coast,2021-08-21,2
 Capital and Coast,2021-08-22,5
@@ -566,50 +959,65 @@ Capital and Coast,2021-08-25,2
 Capital and Coast,2021-08-28,1
 Capital and Coast,2021-08-31,1
 Capital and Coast,2021-09-02,1
+Capital and Coast,2021-09-29,1
+Capital and Coast,2021-10-09,1
+Capital and Coast,2021-11-01,2
+Capital and Coast,2021-11-06,1
 Capital and Coast,2021-11-19,1
+Capital and Coast,2021-11-23,1
+Capital and Coast,2021-12-02,2
+Capital and Coast,2021-12-03,1
+Capital and Coast,2021-12-18,1
+Capital and Coast,2021-12-30,1
 Capital and Coast,2022-01-08,1
 Capital and Coast,2022-01-09,1
 Capital and Coast,2022-01-10,1
 Capital and Coast,2022-01-11,1
+Capital and Coast,2022-01-13,3
+Capital and Coast,2022-01-14,1
 Capital and Coast,2022-01-15,1
 Capital and Coast,2022-01-17,1
+Capital and Coast,2022-01-19,1
 Capital and Coast,2022-01-25,1
-Capital and Coast,2022-01-29,1
+Capital and Coast,2022-01-27,12
+Capital and Coast,2022-01-28,1
+Capital and Coast,2022-01-29,2
 Capital and Coast,2022-01-30,1
+Capital and Coast,2022-01-31,3
 Capital and Coast,2022-02-02,4
 Capital and Coast,2022-02-03,2
 Capital and Coast,2022-02-05,6
 Capital and Coast,2022-02-07,4
 Capital and Coast,2022-02-08,3
 Capital and Coast,2022-02-09,4
-Capital and Coast,2022-02-10,4
+Capital and Coast,2022-02-10,5
 Capital and Coast,2022-02-11,3
 Capital and Coast,2022-02-12,15
 Capital and Coast,2022-02-13,3
 Capital and Coast,2022-02-14,5
-Capital and Coast,2022-02-15,33
+Capital and Coast,2022-02-15,32
 Capital and Coast,2022-02-16,20
 Capital and Coast,2022-02-17,37
 Capital and Coast,2022-02-18,30
 Capital and Coast,2022-02-19,46
-Capital and Coast,2022-02-20,82
+Capital and Coast,2022-02-20,81
 Capital and Coast,2022-02-21,117
 Capital and Coast,2022-02-22,310
-Capital and Coast,2022-02-23,303
-Capital and Coast,2022-02-24,404
-Capital and Coast,2022-02-25,356
-Capital and Coast,2022-02-26,395
-Capital and Coast,2022-02-27,496
+Capital and Coast,2022-02-23,302
+Capital and Coast,2022-02-24,402
+Capital and Coast,2022-02-25,355
+Capital and Coast,2022-02-26,393
+Capital and Coast,2022-02-27,497
 Capital and Coast,2022-02-28,664
 Capital and Coast,2022-03-01,1168
-Capital and Coast,2022-03-02,1538
-Capital and Coast,2022-03-03,1451
-Capital and Coast,2022-03-04,1314
+Capital and Coast,2022-03-02,1540
+Capital and Coast,2022-03-03,1452
+Capital and Coast,2022-03-04,1316
 Capital and Coast,2022-03-05,1204
-Capital and Coast,2022-03-06,1542
-Capital and Coast,2022-03-07,1784
+Capital and Coast,2022-03-06,1543
+Capital and Coast,2022-03-07,1783
 Capital and Coast,2022-03-08,1893
-Capital and Coast,2022-03-09,1849
+Capital and Coast,2022-03-09,1850
 Capital and Coast,2022-03-10,1751
 Capital and Coast,2022-03-11,1544
 Capital and Coast,2022-03-12,1194
@@ -618,16 +1026,17 @@ Capital and Coast,2022-03-14,1588
 Capital and Coast,2022-03-15,1313
 Capital and Coast,2022-03-16,1405
 Capital and Coast,2022-03-17,907
-Capital and Coast,2022-03-18,1043
-Capital and Coast,2022-03-19,996
+Capital and Coast,2022-03-18,1044
+Capital and Coast,2022-03-19,994
 Capital and Coast,2022-03-20,950
-Capital and Coast,2022-03-21,1379
+Capital and Coast,2022-03-21,1380
 Capital and Coast,2022-03-22,1262
-Capital and Coast,2022-03-23,1204
+Capital and Coast,2022-03-23,1205
 Capital and Coast,2022-03-24,1064
-Capital and Coast,2022-03-25,870
+Capital and Coast,2022-03-25,871
 Capital and Coast,2022-03-26,721
-Capital and Coast,2022-03-27,890
+Capital and Coast,2022-03-27,891
+Capital and Coast,2022-03-28,1035
 Counties Manukau,2020-03-04,1
 Counties Manukau,2020-03-05,1
 Counties Manukau,2020-03-06,1
@@ -668,17 +1077,39 @@ Counties Manukau,2020-04-24,1
 Counties Manukau,2020-04-28,1
 Counties Manukau,2020-04-29,1
 Counties Manukau,2020-05-03,1
+Counties Manukau,2020-06-17,1
+Counties Manukau,2020-06-21,1
+Counties Manukau,2020-06-22,1
+Counties Manukau,2020-06-24,1
+Counties Manukau,2020-06-27,1
+Counties Manukau,2020-06-29,1
+Counties Manukau,2020-07-02,1
+Counties Manukau,2020-07-06,1
+Counties Manukau,2020-07-09,2
+Counties Manukau,2020-07-14,2
+Counties Manukau,2020-07-16,1
+Counties Manukau,2020-07-17,1
+Counties Manukau,2020-07-18,2
+Counties Manukau,2020-07-24,1
+Counties Manukau,2020-07-27,2
+Counties Manukau,2020-07-28,1
+Counties Manukau,2020-07-29,1
+Counties Manukau,2020-07-31,2
+Counties Manukau,2020-08-01,1
+Counties Manukau,2020-08-02,2
+Counties Manukau,2020-08-04,1
 Counties Manukau,2020-08-11,4
-Counties Manukau,2020-08-12,9
+Counties Manukau,2020-08-12,10
 Counties Manukau,2020-08-13,7
 Counties Manukau,2020-08-14,1
 Counties Manukau,2020-08-15,6
 Counties Manukau,2020-08-16,4
 Counties Manukau,2020-08-17,6
-Counties Manukau,2020-08-18,4
+Counties Manukau,2020-08-18,5
 Counties Manukau,2020-08-19,1
-Counties Manukau,2020-08-20,3
+Counties Manukau,2020-08-20,5
 Counties Manukau,2020-08-21,5
+Counties Manukau,2020-08-22,1
 Counties Manukau,2020-08-23,5
 Counties Manukau,2020-08-24,2
 Counties Manukau,2020-08-25,1
@@ -686,35 +1117,235 @@ Counties Manukau,2020-08-27,1
 Counties Manukau,2020-08-28,5
 Counties Manukau,2020-08-29,2
 Counties Manukau,2020-08-30,1
-Counties Manukau,2020-08-31,1
-Counties Manukau,2020-09-01,4
+Counties Manukau,2020-08-31,7
+Counties Manukau,2020-09-01,6
 Counties Manukau,2020-09-02,1
-Counties Manukau,2020-09-03,2
-Counties Manukau,2020-09-04,1
+Counties Manukau,2020-09-03,3
+Counties Manukau,2020-09-04,2
+Counties Manukau,2020-09-06,1
+Counties Manukau,2020-09-07,2
 Counties Manukau,2020-09-08,1
 Counties Manukau,2020-09-10,1
 Counties Manukau,2020-09-13,1
+Counties Manukau,2020-09-14,4
+Counties Manukau,2020-09-16,1
+Counties Manukau,2020-09-18,1
 Counties Manukau,2020-09-19,2
 Counties Manukau,2020-09-21,1
-Counties Manukau,2020-10-21,1
-Counties Manukau,2020-11-14,1
+Counties Manukau,2020-09-23,2
+Counties Manukau,2020-09-27,2
+Counties Manukau,2020-09-30,1
+Counties Manukau,2020-10-02,1
+Counties Manukau,2020-10-03,3
+Counties Manukau,2020-10-04,1
+Counties Manukau,2020-10-05,2
+Counties Manukau,2020-10-06,2
+Counties Manukau,2020-10-07,1
+Counties Manukau,2020-10-08,1
+Counties Manukau,2020-10-09,4
+Counties Manukau,2020-10-11,3
+Counties Manukau,2020-10-13,2
+Counties Manukau,2020-10-17,1
+Counties Manukau,2020-10-18,1
+Counties Manukau,2020-10-21,3
+Counties Manukau,2020-10-22,2
+Counties Manukau,2020-10-23,1
+Counties Manukau,2020-10-26,1
+Counties Manukau,2020-10-27,1
+Counties Manukau,2020-10-28,1
+Counties Manukau,2020-10-30,5
+Counties Manukau,2020-10-31,2
+Counties Manukau,2020-11-01,1
+Counties Manukau,2020-11-02,3
+Counties Manukau,2020-11-07,1
+Counties Manukau,2020-11-09,2
+Counties Manukau,2020-11-10,1
+Counties Manukau,2020-11-13,2
+Counties Manukau,2020-11-14,3
+Counties Manukau,2020-11-15,1
+Counties Manukau,2020-11-16,3
+Counties Manukau,2020-11-17,1
+Counties Manukau,2020-11-18,1
+Counties Manukau,2020-11-19,1
+Counties Manukau,2020-11-20,1
+Counties Manukau,2020-11-21,2
+Counties Manukau,2020-11-22,2
+Counties Manukau,2020-11-23,1
+Counties Manukau,2020-11-24,2
+Counties Manukau,2020-11-27,1
+Counties Manukau,2020-11-28,1
+Counties Manukau,2020-11-29,3
+Counties Manukau,2020-11-30,1
+Counties Manukau,2020-12-03,1
+Counties Manukau,2020-12-04,3
+Counties Manukau,2020-12-06,1
+Counties Manukau,2020-12-07,4
+Counties Manukau,2020-12-08,2
+Counties Manukau,2020-12-10,3
+Counties Manukau,2020-12-12,1
+Counties Manukau,2020-12-16,3
+Counties Manukau,2020-12-17,2
+Counties Manukau,2020-12-22,1
+Counties Manukau,2020-12-24,1
+Counties Manukau,2020-12-26,3
+Counties Manukau,2020-12-29,4
+Counties Manukau,2020-12-30,4
+Counties Manukau,2020-12-31,1
+Counties Manukau,2021-01-02,1
+Counties Manukau,2021-01-03,1
+Counties Manukau,2021-01-04,1
+Counties Manukau,2021-01-05,1
+Counties Manukau,2021-01-06,1
+Counties Manukau,2021-01-07,4
+Counties Manukau,2021-01-08,2
+Counties Manukau,2021-01-09,3
+Counties Manukau,2021-01-10,1
+Counties Manukau,2021-01-11,2
+Counties Manukau,2021-01-13,1
+Counties Manukau,2021-01-14,5
+Counties Manukau,2021-01-15,2
+Counties Manukau,2021-01-16,2
+Counties Manukau,2021-01-18,1
+Counties Manukau,2021-01-19,1
+Counties Manukau,2021-01-20,1
+Counties Manukau,2021-01-21,3
+Counties Manukau,2021-01-22,3
+Counties Manukau,2021-01-23,2
+Counties Manukau,2021-01-24,1
+Counties Manukau,2021-01-25,1
+Counties Manukau,2021-01-27,2
+Counties Manukau,2021-01-28,1
+Counties Manukau,2021-01-29,1
+Counties Manukau,2021-02-02,1
+Counties Manukau,2021-02-03,1
+Counties Manukau,2021-02-04,2
+Counties Manukau,2021-02-06,1
+Counties Manukau,2021-02-08,1
+Counties Manukau,2021-02-12,2
 Counties Manukau,2021-02-13,2
 Counties Manukau,2021-02-14,1
 Counties Manukau,2021-02-16,1
-Counties Manukau,2021-02-17,2
-Counties Manukau,2021-02-19,1
+Counties Manukau,2021-02-17,5
+Counties Manukau,2021-02-19,4
+Counties Manukau,2021-02-20,1
 Counties Manukau,2021-02-21,1
-Counties Manukau,2021-02-23,3
-Counties Manukau,2021-02-25,1
+Counties Manukau,2021-02-22,2
+Counties Manukau,2021-02-23,5
+Counties Manukau,2021-02-24,2
+Counties Manukau,2021-02-25,2
 Counties Manukau,2021-02-26,1
-Counties Manukau,2021-02-27,2
-Counties Manukau,2021-02-28,1
-Counties Manukau,2021-08-19,3
+Counties Manukau,2021-02-27,4
+Counties Manukau,2021-02-28,2
+Counties Manukau,2021-03-05,8
+Counties Manukau,2021-03-06,1
+Counties Manukau,2021-03-07,3
+Counties Manukau,2021-03-08,3
+Counties Manukau,2021-03-10,5
+Counties Manukau,2021-03-12,1
+Counties Manukau,2021-03-14,3
+Counties Manukau,2021-03-16,1
+Counties Manukau,2021-03-17,2
+Counties Manukau,2021-03-18,1
+Counties Manukau,2021-03-19,1
+Counties Manukau,2021-03-20,1
+Counties Manukau,2021-03-21,1
+Counties Manukau,2021-03-22,3
+Counties Manukau,2021-03-23,2
+Counties Manukau,2021-03-25,2
+Counties Manukau,2021-03-26,1
+Counties Manukau,2021-03-27,1
+Counties Manukau,2021-03-28,2
+Counties Manukau,2021-03-29,2
+Counties Manukau,2021-03-31,3
+Counties Manukau,2021-04-02,1
+Counties Manukau,2021-04-03,1
+Counties Manukau,2021-04-05,2
+Counties Manukau,2021-04-06,1
+Counties Manukau,2021-04-07,4
+Counties Manukau,2021-04-08,1
+Counties Manukau,2021-04-09,4
+Counties Manukau,2021-04-10,1
+Counties Manukau,2021-04-11,6
+Counties Manukau,2021-04-12,4
+Counties Manukau,2021-04-14,1
+Counties Manukau,2021-04-15,2
+Counties Manukau,2021-04-16,2
+Counties Manukau,2021-04-17,1
+Counties Manukau,2021-04-18,2
+Counties Manukau,2021-04-20,1
+Counties Manukau,2021-04-21,3
+Counties Manukau,2021-04-26,3
+Counties Manukau,2021-04-27,2
+Counties Manukau,2021-04-29,1
+Counties Manukau,2021-05-01,1
+Counties Manukau,2021-05-02,1
+Counties Manukau,2021-05-07,1
+Counties Manukau,2021-05-08,1
+Counties Manukau,2021-05-11,1
+Counties Manukau,2021-05-12,1
+Counties Manukau,2021-05-15,1
+Counties Manukau,2021-05-16,5
+Counties Manukau,2021-05-18,6
+Counties Manukau,2021-05-20,1
+Counties Manukau,2021-05-21,3
+Counties Manukau,2021-05-23,4
+Counties Manukau,2021-05-29,1
+Counties Manukau,2021-06-02,2
+Counties Manukau,2021-06-04,2
+Counties Manukau,2021-06-07,1
+Counties Manukau,2021-06-08,2
+Counties Manukau,2021-06-09,1
+Counties Manukau,2021-06-11,3
+Counties Manukau,2021-06-12,1
+Counties Manukau,2021-06-16,1
+Counties Manukau,2021-06-17,1
+Counties Manukau,2021-06-18,2
+Counties Manukau,2021-06-19,1
+Counties Manukau,2021-06-20,1
+Counties Manukau,2021-06-22,3
+Counties Manukau,2021-06-23,1
+Counties Manukau,2021-06-24,1
+Counties Manukau,2021-06-25,2
+Counties Manukau,2021-06-26,1
+Counties Manukau,2021-06-27,5
+Counties Manukau,2021-06-28,2
+Counties Manukau,2021-06-30,1
+Counties Manukau,2021-07-01,3
+Counties Manukau,2021-07-02,3
+Counties Manukau,2021-07-03,1
+Counties Manukau,2021-07-04,2
+Counties Manukau,2021-07-06,2
+Counties Manukau,2021-07-10,2
+Counties Manukau,2021-07-11,2
+Counties Manukau,2021-07-12,2
+Counties Manukau,2021-07-14,2
+Counties Manukau,2021-07-15,2
+Counties Manukau,2021-07-16,2
+Counties Manukau,2021-07-18,2
+Counties Manukau,2021-07-19,2
+Counties Manukau,2021-07-20,1
+Counties Manukau,2021-07-21,3
+Counties Manukau,2021-07-24,1
+Counties Manukau,2021-07-27,1
+Counties Manukau,2021-07-28,6
+Counties Manukau,2021-07-30,1
+Counties Manukau,2021-08-01,2
+Counties Manukau,2021-08-03,1
+Counties Manukau,2021-08-06,1
+Counties Manukau,2021-08-07,4
+Counties Manukau,2021-08-09,2
+Counties Manukau,2021-08-10,1
+Counties Manukau,2021-08-11,5
+Counties Manukau,2021-08-13,2
+Counties Manukau,2021-08-14,1
+Counties Manukau,2021-08-17,4
+Counties Manukau,2021-08-18,2
+Counties Manukau,2021-08-19,5
 Counties Manukau,2021-08-20,8
-Counties Manukau,2021-08-21,12
-Counties Manukau,2021-08-22,13
-Counties Manukau,2021-08-23,26
-Counties Manukau,2021-08-24,22
+Counties Manukau,2021-08-21,13
+Counties Manukau,2021-08-22,15
+Counties Manukau,2021-08-23,27
+Counties Manukau,2021-08-24,23
 Counties Manukau,2021-08-25,46
 Counties Manukau,2021-08-26,46
 Counties Manukau,2021-08-27,46
@@ -722,43 +1353,43 @@ Counties Manukau,2021-08-28,57
 Counties Manukau,2021-08-29,30
 Counties Manukau,2021-08-30,34
 Counties Manukau,2021-08-31,28
-Counties Manukau,2021-09-01,32
-Counties Manukau,2021-09-02,17
-Counties Manukau,2021-09-03,8
-Counties Manukau,2021-09-04,16
-Counties Manukau,2021-09-05,8
+Counties Manukau,2021-09-01,35
+Counties Manukau,2021-09-02,18
+Counties Manukau,2021-09-03,10
+Counties Manukau,2021-09-04,18
+Counties Manukau,2021-09-05,10
 Counties Manukau,2021-09-06,19
-Counties Manukau,2021-09-07,9
+Counties Manukau,2021-09-07,10
 Counties Manukau,2021-09-08,3
 Counties Manukau,2021-09-09,9
 Counties Manukau,2021-09-10,20
-Counties Manukau,2021-09-11,15
+Counties Manukau,2021-09-11,16
 Counties Manukau,2021-09-12,36
 Counties Manukau,2021-09-13,12
 Counties Manukau,2021-09-14,7
-Counties Manukau,2021-09-15,15
-Counties Manukau,2021-09-16,9
-Counties Manukau,2021-09-17,15
+Counties Manukau,2021-09-15,18
+Counties Manukau,2021-09-16,10
+Counties Manukau,2021-09-17,16
 Counties Manukau,2021-09-18,21
-Counties Manukau,2021-09-19,19
+Counties Manukau,2021-09-19,20
 Counties Manukau,2021-09-20,8
-Counties Manukau,2021-09-21,18
-Counties Manukau,2021-09-22,9
+Counties Manukau,2021-09-21,19
+Counties Manukau,2021-09-22,10
 Counties Manukau,2021-09-23,11
 Counties Manukau,2021-09-24,8
-Counties Manukau,2021-09-25,13
+Counties Manukau,2021-09-25,14
 Counties Manukau,2021-09-26,12
 Counties Manukau,2021-09-27,4
 Counties Manukau,2021-09-28,30
-Counties Manukau,2021-09-29,18
+Counties Manukau,2021-09-29,20
 Counties Manukau,2021-09-30,12
 Counties Manukau,2021-10-01,17
 Counties Manukau,2021-10-02,12
 Counties Manukau,2021-10-03,8
-Counties Manukau,2021-10-04,13
-Counties Manukau,2021-10-05,15
-Counties Manukau,2021-10-06,14
-Counties Manukau,2021-10-07,16
+Counties Manukau,2021-10-04,14
+Counties Manukau,2021-10-05,17
+Counties Manukau,2021-10-06,15
+Counties Manukau,2021-10-07,17
 Counties Manukau,2021-10-08,22
 Counties Manukau,2021-10-09,26
 Counties Manukau,2021-10-10,21
@@ -769,166 +1400,168 @@ Counties Manukau,2021-10-14,22
 Counties Manukau,2021-10-15,12
 Counties Manukau,2021-10-16,20
 Counties Manukau,2021-10-17,23
-Counties Manukau,2021-10-18,17
+Counties Manukau,2021-10-18,19
 Counties Manukau,2021-10-19,30
-Counties Manukau,2021-10-20,28
+Counties Manukau,2021-10-20,31
 Counties Manukau,2021-10-21,44
-Counties Manukau,2021-10-22,31
+Counties Manukau,2021-10-22,32
 Counties Manukau,2021-10-23,32
 Counties Manukau,2021-10-24,33
-Counties Manukau,2021-10-25,27
+Counties Manukau,2021-10-25,28
 Counties Manukau,2021-10-26,20
-Counties Manukau,2021-10-27,42
+Counties Manukau,2021-10-27,43
 Counties Manukau,2021-10-28,58
 Counties Manukau,2021-10-29,36
-Counties Manukau,2021-10-30,47
+Counties Manukau,2021-10-30,48
 Counties Manukau,2021-10-31,49
-Counties Manukau,2021-11-01,38
-Counties Manukau,2021-11-02,44
-Counties Manukau,2021-11-03,54
-Counties Manukau,2021-11-04,75
-Counties Manukau,2021-11-05,57
+Counties Manukau,2021-11-01,39
+Counties Manukau,2021-11-02,47
+Counties Manukau,2021-11-03,55
+Counties Manukau,2021-11-04,76
+Counties Manukau,2021-11-05,59
 Counties Manukau,2021-11-06,58
-Counties Manukau,2021-11-07,54
+Counties Manukau,2021-11-07,55
 Counties Manukau,2021-11-08,37
 Counties Manukau,2021-11-09,71
 Counties Manukau,2021-11-10,84
 Counties Manukau,2021-11-11,84
-Counties Manukau,2021-11-12,79
+Counties Manukau,2021-11-12,80
 Counties Manukau,2021-11-13,63
 Counties Manukau,2021-11-14,97
 Counties Manukau,2021-11-15,79
 Counties Manukau,2021-11-16,87
 Counties Manukau,2021-11-17,87
 Counties Manukau,2021-11-18,90
-Counties Manukau,2021-11-19,65
+Counties Manukau,2021-11-19,66
 Counties Manukau,2021-11-20,120
 Counties Manukau,2021-11-21,135
-Counties Manukau,2021-11-22,94
+Counties Manukau,2021-11-22,98
 Counties Manukau,2021-11-23,81
-Counties Manukau,2021-11-24,93
+Counties Manukau,2021-11-24,96
 Counties Manukau,2021-11-25,90
 Counties Manukau,2021-11-26,64
-Counties Manukau,2021-11-27,70
+Counties Manukau,2021-11-27,71
 Counties Manukau,2021-11-28,88
-Counties Manukau,2021-11-29,61
+Counties Manukau,2021-11-29,62
 Counties Manukau,2021-11-30,70
-Counties Manukau,2021-12-01,63
+Counties Manukau,2021-12-01,64
 Counties Manukau,2021-12-02,45
-Counties Manukau,2021-12-03,50
+Counties Manukau,2021-12-03,51
 Counties Manukau,2021-12-04,41
-Counties Manukau,2021-12-05,52
+Counties Manukau,2021-12-05,53
 Counties Manukau,2021-12-06,30
-Counties Manukau,2021-12-07,44
-Counties Manukau,2021-12-08,54
+Counties Manukau,2021-12-07,45
+Counties Manukau,2021-12-08,55
 Counties Manukau,2021-12-09,44
-Counties Manukau,2021-12-10,43
+Counties Manukau,2021-12-10,44
 Counties Manukau,2021-12-11,52
 Counties Manukau,2021-12-12,33
 Counties Manukau,2021-12-13,26
-Counties Manukau,2021-12-14,26
+Counties Manukau,2021-12-14,27
 Counties Manukau,2021-12-15,39
 Counties Manukau,2021-12-16,25
 Counties Manukau,2021-12-17,24
-Counties Manukau,2021-12-18,39
+Counties Manukau,2021-12-18,41
 Counties Manukau,2021-12-19,20
 Counties Manukau,2021-12-20,10
-Counties Manukau,2021-12-21,26
-Counties Manukau,2021-12-22,41
-Counties Manukau,2021-12-23,16
-Counties Manukau,2021-12-24,41
-Counties Manukau,2021-12-25,16
-Counties Manukau,2021-12-26,10
-Counties Manukau,2021-12-27,7
-Counties Manukau,2021-12-28,22
+Counties Manukau,2021-12-21,28
+Counties Manukau,2021-12-22,43
+Counties Manukau,2021-12-23,19
+Counties Manukau,2021-12-24,46
+Counties Manukau,2021-12-25,17
+Counties Manukau,2021-12-26,11
+Counties Manukau,2021-12-27,8
+Counties Manukau,2021-12-28,25
 Counties Manukau,2021-12-29,18
-Counties Manukau,2021-12-30,14
-Counties Manukau,2021-12-31,14
-Counties Manukau,2022-01-01,19
-Counties Manukau,2022-01-02,4
-Counties Manukau,2022-01-03,3
-Counties Manukau,2022-01-04,1
-Counties Manukau,2022-01-05,4
-Counties Manukau,2022-01-06,17
-Counties Manukau,2022-01-07,7
-Counties Manukau,2022-01-08,10
-Counties Manukau,2022-01-09,4
-Counties Manukau,2022-01-10,3
-Counties Manukau,2022-01-11,3
-Counties Manukau,2022-01-12,1
-Counties Manukau,2022-01-13,1
-Counties Manukau,2022-01-14,2
-Counties Manukau,2022-01-15,3
-Counties Manukau,2022-01-17,1
-Counties Manukau,2022-01-18,5
-Counties Manukau,2022-01-19,5
-Counties Manukau,2022-01-20,9
-Counties Manukau,2022-01-21,5
-Counties Manukau,2022-01-22,8
-Counties Manukau,2022-01-23,5
-Counties Manukau,2022-01-24,3
-Counties Manukau,2022-01-25,8
-Counties Manukau,2022-01-26,22
-Counties Manukau,2022-01-27,47
-Counties Manukau,2022-01-28,35
-Counties Manukau,2022-01-29,58
-Counties Manukau,2022-01-30,41
-Counties Manukau,2022-01-31,48
-Counties Manukau,2022-02-01,58
-Counties Manukau,2022-02-02,74
-Counties Manukau,2022-02-03,65
-Counties Manukau,2022-02-04,103
-Counties Manukau,2022-02-05,78
-Counties Manukau,2022-02-06,75
-Counties Manukau,2022-02-07,103
-Counties Manukau,2022-02-08,77
-Counties Manukau,2022-02-09,212
-Counties Manukau,2022-02-10,193
+Counties Manukau,2021-12-30,18
+Counties Manukau,2021-12-31,17
+Counties Manukau,2022-01-01,23
+Counties Manukau,2022-01-02,12
+Counties Manukau,2022-01-03,8
+Counties Manukau,2022-01-04,11
+Counties Manukau,2022-01-05,11
+Counties Manukau,2022-01-06,30
+Counties Manukau,2022-01-07,24
+Counties Manukau,2022-01-08,27
+Counties Manukau,2022-01-09,7
+Counties Manukau,2022-01-10,7
+Counties Manukau,2022-01-11,19
+Counties Manukau,2022-01-12,7
+Counties Manukau,2022-01-13,8
+Counties Manukau,2022-01-14,19
+Counties Manukau,2022-01-15,14
+Counties Manukau,2022-01-16,1
+Counties Manukau,2022-01-17,14
+Counties Manukau,2022-01-18,12
+Counties Manukau,2022-01-19,13
+Counties Manukau,2022-01-20,19
+Counties Manukau,2022-01-21,15
+Counties Manukau,2022-01-22,28
+Counties Manukau,2022-01-23,23
+Counties Manukau,2022-01-24,9
+Counties Manukau,2022-01-25,11
+Counties Manukau,2022-01-26,28
+Counties Manukau,2022-01-27,55
+Counties Manukau,2022-01-28,43
+Counties Manukau,2022-01-29,67
+Counties Manukau,2022-01-30,46
+Counties Manukau,2022-01-31,79
+Counties Manukau,2022-02-01,75
+Counties Manukau,2022-02-02,93
+Counties Manukau,2022-02-03,78
+Counties Manukau,2022-02-04,114
+Counties Manukau,2022-02-05,85
+Counties Manukau,2022-02-06,86
+Counties Manukau,2022-02-07,115
+Counties Manukau,2022-02-08,85
+Counties Manukau,2022-02-09,217
+Counties Manukau,2022-02-10,194
 Counties Manukau,2022-02-11,261
-Counties Manukau,2022-02-12,404
-Counties Manukau,2022-02-13,323
+Counties Manukau,2022-02-12,403
+Counties Manukau,2022-02-13,324
 Counties Manukau,2022-02-14,324
-Counties Manukau,2022-02-15,527
+Counties Manukau,2022-02-15,526
 Counties Manukau,2022-02-16,621
-Counties Manukau,2022-02-17,1005
+Counties Manukau,2022-02-17,1004
 Counties Manukau,2022-02-18,1102
 Counties Manukau,2022-02-19,1626
 Counties Manukau,2022-02-20,1455
-Counties Manukau,2022-02-21,2223
+Counties Manukau,2022-02-21,2221
 Counties Manukau,2022-02-22,2176
 Counties Manukau,2022-02-23,1631
-Counties Manukau,2022-02-24,2823
-Counties Manukau,2022-02-25,3550
-Counties Manukau,2022-02-26,2949
+Counties Manukau,2022-02-24,2822
+Counties Manukau,2022-02-25,3551
+Counties Manukau,2022-02-26,2950
 Counties Manukau,2022-02-27,3159
 Counties Manukau,2022-02-28,4680
-Counties Manukau,2022-03-01,6347
+Counties Manukau,2022-03-01,6348
 Counties Manukau,2022-03-02,6179
-Counties Manukau,2022-03-03,6704
-Counties Manukau,2022-03-04,4408
-Counties Manukau,2022-03-05,3190
-Counties Manukau,2022-03-06,3339
+Counties Manukau,2022-03-03,6705
+Counties Manukau,2022-03-04,4409
+Counties Manukau,2022-03-05,3191
+Counties Manukau,2022-03-06,3341
 Counties Manukau,2022-03-07,4272
-Counties Manukau,2022-03-08,3579
-Counties Manukau,2022-03-09,2894
+Counties Manukau,2022-03-08,3580
+Counties Manukau,2022-03-09,2892
 Counties Manukau,2022-03-10,2994
-Counties Manukau,2022-03-11,2475
+Counties Manukau,2022-03-11,2473
 Counties Manukau,2022-03-12,1737
-Counties Manukau,2022-03-13,1861
-Counties Manukau,2022-03-14,2462
-Counties Manukau,2022-03-15,2021
+Counties Manukau,2022-03-13,1860
+Counties Manukau,2022-03-14,2461
+Counties Manukau,2022-03-15,2018
 Counties Manukau,2022-03-16,1878
 Counties Manukau,2022-03-17,1311
-Counties Manukau,2022-03-18,1384
+Counties Manukau,2022-03-18,1382
 Counties Manukau,2022-03-19,1204
-Counties Manukau,2022-03-20,1202
-Counties Manukau,2022-03-21,1556
-Counties Manukau,2022-03-22,1431
+Counties Manukau,2022-03-20,1200
+Counties Manukau,2022-03-21,1554
+Counties Manukau,2022-03-22,1425
 Counties Manukau,2022-03-23,1267
 Counties Manukau,2022-03-24,1054
-Counties Manukau,2022-03-25,902
-Counties Manukau,2022-03-26,658
-Counties Manukau,2022-03-27,724
+Counties Manukau,2022-03-25,904
+Counties Manukau,2022-03-26,659
+Counties Manukau,2022-03-27,723
+Counties Manukau,2022-03-28,988
 Hawke's Bay,2020-03-19,1
 Hawke's Bay,2020-03-24,2
 Hawke's Bay,2020-03-25,3
@@ -984,21 +1617,21 @@ Hawke's Bay,2022-02-18,21
 Hawke's Bay,2022-02-19,20
 Hawke's Bay,2022-02-20,25
 Hawke's Bay,2022-02-21,25
-Hawke's Bay,2022-02-22,36
+Hawke's Bay,2022-02-22,37
 Hawke's Bay,2022-02-23,58
-Hawke's Bay,2022-02-24,96
-Hawke's Bay,2022-02-25,128
-Hawke's Bay,2022-02-26,91
+Hawke's Bay,2022-02-24,95
+Hawke's Bay,2022-02-25,127
+Hawke's Bay,2022-02-26,88
 Hawke's Bay,2022-02-27,125
 Hawke's Bay,2022-02-28,160
 Hawke's Bay,2022-03-01,272
 Hawke's Bay,2022-03-02,304
-Hawke's Bay,2022-03-03,333
+Hawke's Bay,2022-03-03,332
 Hawke's Bay,2022-03-04,323
 Hawke's Bay,2022-03-05,337
-Hawke's Bay,2022-03-06,432
+Hawke's Bay,2022-03-06,433
 Hawke's Bay,2022-03-07,706
-Hawke's Bay,2022-03-08,707
+Hawke's Bay,2022-03-08,706
 Hawke's Bay,2022-03-09,700
 Hawke's Bay,2022-03-10,851
 Hawke's Bay,2022-03-11,732
@@ -1006,18 +1639,19 @@ Hawke's Bay,2022-03-12,600
 Hawke's Bay,2022-03-13,681
 Hawke's Bay,2022-03-14,1112
 Hawke's Bay,2022-03-15,1043
-Hawke's Bay,2022-03-16,1099
+Hawke's Bay,2022-03-16,1100
 Hawke's Bay,2022-03-17,838
-Hawke's Bay,2022-03-18,981
+Hawke's Bay,2022-03-18,982
 Hawke's Bay,2022-03-19,804
 Hawke's Bay,2022-03-20,797
 Hawke's Bay,2022-03-21,1244
 Hawke's Bay,2022-03-22,1063
-Hawke's Bay,2022-03-23,1057
+Hawke's Bay,2022-03-23,1055
 Hawke's Bay,2022-03-24,875
 Hawke's Bay,2022-03-25,770
 Hawke's Bay,2022-03-26,554
 Hawke's Bay,2022-03-27,690
+Hawke's Bay,2022-03-28,1016
 Hutt Valley,2020-03-19,2
 Hutt Valley,2020-03-22,1
 Hutt Valley,2020-03-23,2
@@ -1031,11 +1665,14 @@ Hutt Valley,2020-04-05,1
 Hutt Valley,2020-06-16,2
 Hutt Valley,2020-11-07,1
 Hutt Valley,2020-11-18,1
+Hutt Valley,2021-03-07,1
 Hutt Valley,2021-11-30,1
+Hutt Valley,2021-12-20,1
 Hutt Valley,2021-12-21,1
 Hutt Valley,2022-01-08,1
 Hutt Valley,2022-01-12,2
 Hutt Valley,2022-01-18,1
+Hutt Valley,2022-01-19,1
 Hutt Valley,2022-01-29,1
 Hutt Valley,2022-01-31,1
 Hutt Valley,2022-02-06,2
@@ -1061,33 +1698,34 @@ Hutt Valley,2022-02-25,132
 Hutt Valley,2022-02-26,81
 Hutt Valley,2022-02-27,189
 Hutt Valley,2022-02-28,282
-Hutt Valley,2022-03-01,426
+Hutt Valley,2022-03-01,425
 Hutt Valley,2022-03-02,602
 Hutt Valley,2022-03-03,595
 Hutt Valley,2022-03-04,580
 Hutt Valley,2022-03-05,620
-Hutt Valley,2022-03-06,836
+Hutt Valley,2022-03-06,837
 Hutt Valley,2022-03-07,1063
 Hutt Valley,2022-03-08,1061
 Hutt Valley,2022-03-09,1107
 Hutt Valley,2022-03-10,1047
 Hutt Valley,2022-03-11,952
-Hutt Valley,2022-03-12,790
+Hutt Valley,2022-03-12,789
 Hutt Valley,2022-03-13,752
 Hutt Valley,2022-03-14,989
 Hutt Valley,2022-03-15,786
 Hutt Valley,2022-03-16,879
 Hutt Valley,2022-03-17,552
-Hutt Valley,2022-03-18,609
+Hutt Valley,2022-03-18,608
 Hutt Valley,2022-03-19,528
 Hutt Valley,2022-03-20,581
 Hutt Valley,2022-03-21,811
 Hutt Valley,2022-03-22,721
 Hutt Valley,2022-03-23,628
 Hutt Valley,2022-03-24,566
-Hutt Valley,2022-03-25,478
-Hutt Valley,2022-03-26,368
+Hutt Valley,2022-03-25,477
+Hutt Valley,2022-03-26,367
 Hutt Valley,2022-03-27,482
+Hutt Valley,2022-03-28,619
 Lakes,2020-03-17,1
 Lakes,2020-03-20,1
 Lakes,2020-03-23,1
@@ -1100,6 +1738,13 @@ Lakes,2020-04-04,1
 Lakes,2020-04-10,1
 Lakes,2020-04-12,2
 Lakes,2020-04-17,1
+Lakes,2021-10-11,1
+Lakes,2021-10-29,2
+Lakes,2021-10-31,1
+Lakes,2021-11-01,1
+Lakes,2021-11-02,2
+Lakes,2021-11-04,1
+Lakes,2021-11-08,2
 Lakes,2021-11-12,1
 Lakes,2021-11-13,4
 Lakes,2021-11-14,2
@@ -1110,24 +1755,25 @@ Lakes,2021-11-19,5
 Lakes,2021-11-22,3
 Lakes,2021-11-24,1
 Lakes,2021-11-25,1
-Lakes,2021-12-01,2
+Lakes,2021-12-01,3
 Lakes,2021-12-02,1
 Lakes,2021-12-03,1
 Lakes,2021-12-07,1
 Lakes,2021-12-08,1
 Lakes,2021-12-09,1
 Lakes,2021-12-11,1
-Lakes,2021-12-13,1
+Lakes,2021-12-13,2
 Lakes,2021-12-14,1
-Lakes,2021-12-15,1
+Lakes,2021-12-15,3
 Lakes,2021-12-16,1
-Lakes,2021-12-17,2
+Lakes,2021-12-17,3
 Lakes,2021-12-21,4
 Lakes,2021-12-22,4
 Lakes,2021-12-23,5
 Lakes,2021-12-24,7
 Lakes,2021-12-25,4
-Lakes,2021-12-26,3
+Lakes,2021-12-26,4
+Lakes,2021-12-27,3
 Lakes,2021-12-28,4
 Lakes,2021-12-29,1
 Lakes,2021-12-30,4
@@ -1135,13 +1781,13 @@ Lakes,2021-12-31,3
 Lakes,2022-01-01,1
 Lakes,2022-01-02,1
 Lakes,2022-01-03,4
-Lakes,2022-01-05,1
-Lakes,2022-01-06,2
-Lakes,2022-01-07,1
-Lakes,2022-01-08,1
-Lakes,2022-01-09,1
-Lakes,2022-01-10,1
-Lakes,2022-01-11,4
+Lakes,2022-01-05,2
+Lakes,2022-01-06,4
+Lakes,2022-01-07,2
+Lakes,2022-01-08,2
+Lakes,2022-01-09,11
+Lakes,2022-01-10,2
+Lakes,2022-01-11,6
 Lakes,2022-01-12,1
 Lakes,2022-01-13,7
 Lakes,2022-01-14,7
@@ -1149,29 +1795,29 @@ Lakes,2022-01-15,2
 Lakes,2022-01-16,7
 Lakes,2022-01-17,6
 Lakes,2022-01-18,13
-Lakes,2022-01-19,9
-Lakes,2022-01-20,4
-Lakes,2022-01-21,6
-Lakes,2022-01-22,5
-Lakes,2022-01-23,1
-Lakes,2022-01-24,2
-Lakes,2022-01-25,5
-Lakes,2022-01-26,7
-Lakes,2022-01-27,7
-Lakes,2022-01-28,6
+Lakes,2022-01-19,14
+Lakes,2022-01-20,9
+Lakes,2022-01-21,15
+Lakes,2022-01-22,13
+Lakes,2022-01-23,13
+Lakes,2022-01-24,11
+Lakes,2022-01-25,6
+Lakes,2022-01-26,10
+Lakes,2022-01-27,13
+Lakes,2022-01-28,7
 Lakes,2022-01-29,8
 Lakes,2022-01-30,3
 Lakes,2022-01-31,1
 Lakes,2022-02-01,2
 Lakes,2022-02-02,9
-Lakes,2022-02-03,15
-Lakes,2022-02-04,2
+Lakes,2022-02-03,20
+Lakes,2022-02-04,4
 Lakes,2022-02-05,2
 Lakes,2022-02-06,9
 Lakes,2022-02-07,3
-Lakes,2022-02-08,2
+Lakes,2022-02-08,4
 Lakes,2022-02-09,6
-Lakes,2022-02-10,14
+Lakes,2022-02-10,15
 Lakes,2022-02-11,7
 Lakes,2022-02-12,12
 Lakes,2022-02-13,8
@@ -1184,18 +1830,18 @@ Lakes,2022-02-19,7
 Lakes,2022-02-20,61
 Lakes,2022-02-21,101
 Lakes,2022-02-22,105
-Lakes,2022-02-23,64
+Lakes,2022-02-23,63
 Lakes,2022-02-24,135
 Lakes,2022-02-25,158
 Lakes,2022-02-26,150
-Lakes,2022-02-27,241
+Lakes,2022-02-27,240
 Lakes,2022-02-28,329
 Lakes,2022-03-01,420
 Lakes,2022-03-02,531
-Lakes,2022-03-03,487
+Lakes,2022-03-03,486
 Lakes,2022-03-04,456
-Lakes,2022-03-05,434
-Lakes,2022-03-06,474
+Lakes,2022-03-05,435
+Lakes,2022-03-06,473
 Lakes,2022-03-07,660
 Lakes,2022-03-08,632
 Lakes,2022-03-09,632
@@ -1207,539 +1853,75 @@ Lakes,2022-03-14,636
 Lakes,2022-03-15,584
 Lakes,2022-03-16,622
 Lakes,2022-03-17,413
-Lakes,2022-03-18,467
-Lakes,2022-03-19,400
-Lakes,2022-03-20,459
+Lakes,2022-03-18,464
+Lakes,2022-03-19,401
+Lakes,2022-03-20,458
 Lakes,2022-03-21,594
 Lakes,2022-03-22,506
-Lakes,2022-03-23,482
+Lakes,2022-03-23,481
 Lakes,2022-03-24,420
 Lakes,2022-03-25,391
 Lakes,2022-03-26,317
 Lakes,2022-03-27,351
-Managed Isolation & Quarantine,2020-06-17,1
-Managed Isolation & Quarantine,2020-06-19,2
-Managed Isolation & Quarantine,2020-06-20,1
-Managed Isolation & Quarantine,2020-06-21,3
-Managed Isolation & Quarantine,2020-06-22,2
-Managed Isolation & Quarantine,2020-06-23,1
-Managed Isolation & Quarantine,2020-06-24,3
-Managed Isolation & Quarantine,2020-06-25,1
-Managed Isolation & Quarantine,2020-06-26,1
-Managed Isolation & Quarantine,2020-06-27,5
-Managed Isolation & Quarantine,2020-06-28,1
-Managed Isolation & Quarantine,2020-06-29,1
-Managed Isolation & Quarantine,2020-07-01,1
-Managed Isolation & Quarantine,2020-07-02,1
-Managed Isolation & Quarantine,2020-07-05,3
-Managed Isolation & Quarantine,2020-07-06,3
-Managed Isolation & Quarantine,2020-07-07,2
-Managed Isolation & Quarantine,2020-07-08,2
-Managed Isolation & Quarantine,2020-07-09,3
-Managed Isolation & Quarantine,2020-07-11,1
-Managed Isolation & Quarantine,2020-07-13,1
-Managed Isolation & Quarantine,2020-07-14,3
-Managed Isolation & Quarantine,2020-07-16,1
-Managed Isolation & Quarantine,2020-07-17,2
-Managed Isolation & Quarantine,2020-07-18,2
-Managed Isolation & Quarantine,2020-07-19,1
-Managed Isolation & Quarantine,2020-07-20,1
-Managed Isolation & Quarantine,2020-07-24,1
-Managed Isolation & Quarantine,2020-07-27,2
-Managed Isolation & Quarantine,2020-07-28,1
-Managed Isolation & Quarantine,2020-07-29,1
-Managed Isolation & Quarantine,2020-07-31,2
-Managed Isolation & Quarantine,2020-08-01,2
-Managed Isolation & Quarantine,2020-08-02,3
-Managed Isolation & Quarantine,2020-08-04,2
-Managed Isolation & Quarantine,2020-08-11,1
-Managed Isolation & Quarantine,2020-08-12,2
-Managed Isolation & Quarantine,2020-08-15,1
-Managed Isolation & Quarantine,2020-08-18,1
-Managed Isolation & Quarantine,2020-08-20,2
-Managed Isolation & Quarantine,2020-08-22,2
-Managed Isolation & Quarantine,2020-08-23,1
-Managed Isolation & Quarantine,2020-08-25,1
-Managed Isolation & Quarantine,2020-08-26,2
-Managed Isolation & Quarantine,2020-08-28,9
-Managed Isolation & Quarantine,2020-08-30,1
-Managed Isolation & Quarantine,2020-08-31,12
-Managed Isolation & Quarantine,2020-09-01,2
-Managed Isolation & Quarantine,2020-09-02,1
-Managed Isolation & Quarantine,2020-09-03,1
-Managed Isolation & Quarantine,2020-09-04,3
-Managed Isolation & Quarantine,2020-09-05,2
-Managed Isolation & Quarantine,2020-09-06,1
-Managed Isolation & Quarantine,2020-09-07,2
-Managed Isolation & Quarantine,2020-09-09,2
-Managed Isolation & Quarantine,2020-09-12,1
-Managed Isolation & Quarantine,2020-09-14,4
-Managed Isolation & Quarantine,2020-09-16,7
-Managed Isolation & Quarantine,2020-09-18,2
-Managed Isolation & Quarantine,2020-09-19,1
-Managed Isolation & Quarantine,2020-09-23,3
-Managed Isolation & Quarantine,2020-09-24,1
-Managed Isolation & Quarantine,2020-09-25,1
-Managed Isolation & Quarantine,2020-09-26,2
-Managed Isolation & Quarantine,2020-09-27,2
-Managed Isolation & Quarantine,2020-09-28,1
-Managed Isolation & Quarantine,2020-09-30,6
-Managed Isolation & Quarantine,2020-10-01,6
-Managed Isolation & Quarantine,2020-10-02,1
-Managed Isolation & Quarantine,2020-10-03,4
-Managed Isolation & Quarantine,2020-10-04,2
-Managed Isolation & Quarantine,2020-10-05,3
-Managed Isolation & Quarantine,2020-10-06,2
-Managed Isolation & Quarantine,2020-10-07,3
-Managed Isolation & Quarantine,2020-10-08,3
-Managed Isolation & Quarantine,2020-10-09,4
-Managed Isolation & Quarantine,2020-10-11,3
-Managed Isolation & Quarantine,2020-10-12,1
-Managed Isolation & Quarantine,2020-10-13,2
-Managed Isolation & Quarantine,2020-10-14,1
-Managed Isolation & Quarantine,2020-10-15,5
-Managed Isolation & Quarantine,2020-10-16,1
-Managed Isolation & Quarantine,2020-10-17,3
-Managed Isolation & Quarantine,2020-10-18,1
-Managed Isolation & Quarantine,2020-10-19,1
-Managed Isolation & Quarantine,2020-10-20,22
-Managed Isolation & Quarantine,2020-10-21,2
-Managed Isolation & Quarantine,2020-10-22,2
-Managed Isolation & Quarantine,2020-10-23,18
-Managed Isolation & Quarantine,2020-10-25,4
-Managed Isolation & Quarantine,2020-10-26,1
-Managed Isolation & Quarantine,2020-10-27,3
-Managed Isolation & Quarantine,2020-10-28,6
-Managed Isolation & Quarantine,2020-10-29,1
-Managed Isolation & Quarantine,2020-10-30,6
-Managed Isolation & Quarantine,2020-10-31,5
-Managed Isolation & Quarantine,2020-11-01,3
-Managed Isolation & Quarantine,2020-11-02,4
-Managed Isolation & Quarantine,2020-11-04,3
-Managed Isolation & Quarantine,2020-11-05,1
-Managed Isolation & Quarantine,2020-11-07,5
-Managed Isolation & Quarantine,2020-11-08,1
-Managed Isolation & Quarantine,2020-11-09,4
-Managed Isolation & Quarantine,2020-11-10,1
-Managed Isolation & Quarantine,2020-11-11,2
-Managed Isolation & Quarantine,2020-11-12,3
-Managed Isolation & Quarantine,2020-11-13,3
-Managed Isolation & Quarantine,2020-11-14,2
-Managed Isolation & Quarantine,2020-11-15,1
-Managed Isolation & Quarantine,2020-11-16,3
-Managed Isolation & Quarantine,2020-11-17,1
-Managed Isolation & Quarantine,2020-11-18,7
-Managed Isolation & Quarantine,2020-11-19,1
-Managed Isolation & Quarantine,2020-11-20,4
-Managed Isolation & Quarantine,2020-11-21,6
-Managed Isolation & Quarantine,2020-11-22,2
-Managed Isolation & Quarantine,2020-11-23,10
-Managed Isolation & Quarantine,2020-11-24,3
-Managed Isolation & Quarantine,2020-11-25,1
-Managed Isolation & Quarantine,2020-11-26,7
-Managed Isolation & Quarantine,2020-11-27,3
-Managed Isolation & Quarantine,2020-11-28,4
-Managed Isolation & Quarantine,2020-11-29,3
-Managed Isolation & Quarantine,2020-11-30,6
-Managed Isolation & Quarantine,2020-12-01,3
-Managed Isolation & Quarantine,2020-12-02,2
-Managed Isolation & Quarantine,2020-12-03,3
-Managed Isolation & Quarantine,2020-12-04,9
-Managed Isolation & Quarantine,2020-12-06,2
-Managed Isolation & Quarantine,2020-12-07,6
-Managed Isolation & Quarantine,2020-12-08,2
-Managed Isolation & Quarantine,2020-12-09,2
-Managed Isolation & Quarantine,2020-12-10,3
-Managed Isolation & Quarantine,2020-12-11,1
-Managed Isolation & Quarantine,2020-12-12,5
-Managed Isolation & Quarantine,2020-12-14,4
-Managed Isolation & Quarantine,2020-12-16,4
-Managed Isolation & Quarantine,2020-12-17,4
-Managed Isolation & Quarantine,2020-12-18,2
-Managed Isolation & Quarantine,2020-12-19,7
-Managed Isolation & Quarantine,2020-12-20,4
-Managed Isolation & Quarantine,2020-12-21,5
-Managed Isolation & Quarantine,2020-12-22,2
-Managed Isolation & Quarantine,2020-12-23,3
-Managed Isolation & Quarantine,2020-12-24,6
-Managed Isolation & Quarantine,2020-12-25,2
-Managed Isolation & Quarantine,2020-12-26,3
-Managed Isolation & Quarantine,2020-12-27,3
-Managed Isolation & Quarantine,2020-12-28,6
-Managed Isolation & Quarantine,2020-12-29,4
-Managed Isolation & Quarantine,2020-12-30,7
-Managed Isolation & Quarantine,2020-12-31,3
-Managed Isolation & Quarantine,2021-01-01,6
-Managed Isolation & Quarantine,2021-01-02,8
-Managed Isolation & Quarantine,2021-01-03,3
-Managed Isolation & Quarantine,2021-01-04,1
-Managed Isolation & Quarantine,2021-01-05,2
-Managed Isolation & Quarantine,2021-01-06,2
-Managed Isolation & Quarantine,2021-01-07,18
-Managed Isolation & Quarantine,2021-01-08,4
-Managed Isolation & Quarantine,2021-01-09,8
-Managed Isolation & Quarantine,2021-01-10,9
-Managed Isolation & Quarantine,2021-01-11,6
-Managed Isolation & Quarantine,2021-01-12,2
-Managed Isolation & Quarantine,2021-01-13,8
-Managed Isolation & Quarantine,2021-01-14,6
-Managed Isolation & Quarantine,2021-01-15,6
-Managed Isolation & Quarantine,2021-01-16,5
-Managed Isolation & Quarantine,2021-01-17,2
-Managed Isolation & Quarantine,2021-01-18,2
-Managed Isolation & Quarantine,2021-01-19,2
-Managed Isolation & Quarantine,2021-01-20,4
-Managed Isolation & Quarantine,2021-01-21,4
-Managed Isolation & Quarantine,2021-01-22,3
-Managed Isolation & Quarantine,2021-01-23,6
-Managed Isolation & Quarantine,2021-01-24,6
-Managed Isolation & Quarantine,2021-01-25,2
-Managed Isolation & Quarantine,2021-01-26,1
-Managed Isolation & Quarantine,2021-01-27,4
-Managed Isolation & Quarantine,2021-01-28,5
-Managed Isolation & Quarantine,2021-01-29,2
-Managed Isolation & Quarantine,2021-02-01,1
-Managed Isolation & Quarantine,2021-02-02,4
-Managed Isolation & Quarantine,2021-02-03,3
-Managed Isolation & Quarantine,2021-02-04,3
-Managed Isolation & Quarantine,2021-02-05,2
-Managed Isolation & Quarantine,2021-02-06,2
-Managed Isolation & Quarantine,2021-02-08,1
-Managed Isolation & Quarantine,2021-02-09,2
-Managed Isolation & Quarantine,2021-02-10,2
-Managed Isolation & Quarantine,2021-02-11,1
-Managed Isolation & Quarantine,2021-02-12,4
-Managed Isolation & Quarantine,2021-02-14,4
-Managed Isolation & Quarantine,2021-02-15,1
-Managed Isolation & Quarantine,2021-02-16,1
-Managed Isolation & Quarantine,2021-02-17,3
-Managed Isolation & Quarantine,2021-02-19,6
-Managed Isolation & Quarantine,2021-02-20,2
-Managed Isolation & Quarantine,2021-02-22,5
-Managed Isolation & Quarantine,2021-02-23,4
-Managed Isolation & Quarantine,2021-02-24,2
-Managed Isolation & Quarantine,2021-02-25,1
-Managed Isolation & Quarantine,2021-02-27,2
-Managed Isolation & Quarantine,2021-02-28,2
-Managed Isolation & Quarantine,2021-03-01,4
-Managed Isolation & Quarantine,2021-03-02,1
-Managed Isolation & Quarantine,2021-03-03,6
-Managed Isolation & Quarantine,2021-03-05,9
-Managed Isolation & Quarantine,2021-03-06,1
-Managed Isolation & Quarantine,2021-03-07,7
-Managed Isolation & Quarantine,2021-03-08,3
-Managed Isolation & Quarantine,2021-03-09,1
-Managed Isolation & Quarantine,2021-03-10,8
-Managed Isolation & Quarantine,2021-03-11,1
-Managed Isolation & Quarantine,2021-03-12,3
-Managed Isolation & Quarantine,2021-03-13,1
-Managed Isolation & Quarantine,2021-03-14,7
-Managed Isolation & Quarantine,2021-03-15,1
-Managed Isolation & Quarantine,2021-03-16,2
-Managed Isolation & Quarantine,2021-03-17,7
-Managed Isolation & Quarantine,2021-03-18,1
-Managed Isolation & Quarantine,2021-03-19,5
-Managed Isolation & Quarantine,2021-03-20,5
-Managed Isolation & Quarantine,2021-03-21,5
-Managed Isolation & Quarantine,2021-03-22,7
-Managed Isolation & Quarantine,2021-03-23,3
-Managed Isolation & Quarantine,2021-03-24,5
-Managed Isolation & Quarantine,2021-03-25,3
-Managed Isolation & Quarantine,2021-03-26,1
-Managed Isolation & Quarantine,2021-03-27,2
-Managed Isolation & Quarantine,2021-03-28,10
-Managed Isolation & Quarantine,2021-03-29,2
-Managed Isolation & Quarantine,2021-03-30,2
-Managed Isolation & Quarantine,2021-03-31,5
-Managed Isolation & Quarantine,2021-04-02,4
-Managed Isolation & Quarantine,2021-04-03,1
-Managed Isolation & Quarantine,2021-04-04,7
-Managed Isolation & Quarantine,2021-04-05,10
-Managed Isolation & Quarantine,2021-04-06,7
-Managed Isolation & Quarantine,2021-04-07,19
-Managed Isolation & Quarantine,2021-04-08,5
-Managed Isolation & Quarantine,2021-04-09,8
-Managed Isolation & Quarantine,2021-04-10,5
-Managed Isolation & Quarantine,2021-04-11,8
-Managed Isolation & Quarantine,2021-04-12,4
-Managed Isolation & Quarantine,2021-04-13,1
-Managed Isolation & Quarantine,2021-04-14,2
-Managed Isolation & Quarantine,2021-04-15,3
-Managed Isolation & Quarantine,2021-04-16,2
-Managed Isolation & Quarantine,2021-04-17,2
-Managed Isolation & Quarantine,2021-04-18,2
-Managed Isolation & Quarantine,2021-04-20,1
-Managed Isolation & Quarantine,2021-04-21,4
-Managed Isolation & Quarantine,2021-04-23,2
-Managed Isolation & Quarantine,2021-04-25,4
-Managed Isolation & Quarantine,2021-04-26,4
-Managed Isolation & Quarantine,2021-04-27,2
-Managed Isolation & Quarantine,2021-04-28,2
-Managed Isolation & Quarantine,2021-04-29,1
-Managed Isolation & Quarantine,2021-04-30,4
-Managed Isolation & Quarantine,2021-05-01,3
-Managed Isolation & Quarantine,2021-05-02,4
-Managed Isolation & Quarantine,2021-05-03,1
-Managed Isolation & Quarantine,2021-05-04,4
-Managed Isolation & Quarantine,2021-05-05,1
-Managed Isolation & Quarantine,2021-05-06,5
-Managed Isolation & Quarantine,2021-05-07,3
-Managed Isolation & Quarantine,2021-05-08,1
-Managed Isolation & Quarantine,2021-05-09,1
-Managed Isolation & Quarantine,2021-05-11,1
-Managed Isolation & Quarantine,2021-05-12,1
-Managed Isolation & Quarantine,2021-05-15,1
-Managed Isolation & Quarantine,2021-05-16,5
-Managed Isolation & Quarantine,2021-05-17,1
-Managed Isolation & Quarantine,2021-05-18,6
-Managed Isolation & Quarantine,2021-05-19,1
-Managed Isolation & Quarantine,2021-05-20,1
-Managed Isolation & Quarantine,2021-05-21,3
-Managed Isolation & Quarantine,2021-05-23,4
-Managed Isolation & Quarantine,2021-05-24,2
-Managed Isolation & Quarantine,2021-05-25,1
-Managed Isolation & Quarantine,2021-05-27,1
-Managed Isolation & Quarantine,2021-05-29,1
-Managed Isolation & Quarantine,2021-05-30,2
-Managed Isolation & Quarantine,2021-06-01,5
-Managed Isolation & Quarantine,2021-06-02,2
-Managed Isolation & Quarantine,2021-06-03,1
-Managed Isolation & Quarantine,2021-06-04,2
-Managed Isolation & Quarantine,2021-06-06,3
-Managed Isolation & Quarantine,2021-06-07,4
-Managed Isolation & Quarantine,2021-06-08,6
-Managed Isolation & Quarantine,2021-06-09,1
-Managed Isolation & Quarantine,2021-06-10,5
-Managed Isolation & Quarantine,2021-06-11,4
-Managed Isolation & Quarantine,2021-06-12,3
-Managed Isolation & Quarantine,2021-06-14,1
-Managed Isolation & Quarantine,2021-06-16,2
-Managed Isolation & Quarantine,2021-06-17,1
-Managed Isolation & Quarantine,2021-06-18,2
-Managed Isolation & Quarantine,2021-06-19,2
-Managed Isolation & Quarantine,2021-06-20,2
-Managed Isolation & Quarantine,2021-06-22,4
-Managed Isolation & Quarantine,2021-06-23,1
-Managed Isolation & Quarantine,2021-06-24,2
-Managed Isolation & Quarantine,2021-06-25,3
-Managed Isolation & Quarantine,2021-06-26,3
-Managed Isolation & Quarantine,2021-06-27,6
-Managed Isolation & Quarantine,2021-06-28,5
-Managed Isolation & Quarantine,2021-06-29,1
-Managed Isolation & Quarantine,2021-06-30,1
-Managed Isolation & Quarantine,2021-07-01,3
-Managed Isolation & Quarantine,2021-07-02,3
-Managed Isolation & Quarantine,2021-07-03,3
-Managed Isolation & Quarantine,2021-07-04,9
-Managed Isolation & Quarantine,2021-07-05,1
-Managed Isolation & Quarantine,2021-07-06,5
-Managed Isolation & Quarantine,2021-07-07,2
-Managed Isolation & Quarantine,2021-07-10,3
-Managed Isolation & Quarantine,2021-07-11,3
-Managed Isolation & Quarantine,2021-07-12,15
-Managed Isolation & Quarantine,2021-07-14,22
-Managed Isolation & Quarantine,2021-07-15,2
-Managed Isolation & Quarantine,2021-07-16,6
-Managed Isolation & Quarantine,2021-07-17,4
-Managed Isolation & Quarantine,2021-07-18,3
-Managed Isolation & Quarantine,2021-07-19,6
-Managed Isolation & Quarantine,2021-07-20,8
-Managed Isolation & Quarantine,2021-07-21,6
-Managed Isolation & Quarantine,2021-07-22,5
-Managed Isolation & Quarantine,2021-07-23,3
-Managed Isolation & Quarantine,2021-07-24,1
-Managed Isolation & Quarantine,2021-07-26,2
-Managed Isolation & Quarantine,2021-07-27,1
-Managed Isolation & Quarantine,2021-07-28,6
-Managed Isolation & Quarantine,2021-07-30,4
-Managed Isolation & Quarantine,2021-08-01,4
-Managed Isolation & Quarantine,2021-08-02,2
-Managed Isolation & Quarantine,2021-08-03,2
-Managed Isolation & Quarantine,2021-08-05,1
-Managed Isolation & Quarantine,2021-08-06,2
-Managed Isolation & Quarantine,2021-08-07,4
-Managed Isolation & Quarantine,2021-08-08,12
-Managed Isolation & Quarantine,2021-08-09,3
-Managed Isolation & Quarantine,2021-08-10,3
-Managed Isolation & Quarantine,2021-08-11,8
-Managed Isolation & Quarantine,2021-08-13,3
-Managed Isolation & Quarantine,2021-08-14,3
-Managed Isolation & Quarantine,2021-08-15,4
-Managed Isolation & Quarantine,2021-08-17,7
-Managed Isolation & Quarantine,2021-08-18,7
-Managed Isolation & Quarantine,2021-08-19,4
-Managed Isolation & Quarantine,2021-08-20,2
-Managed Isolation & Quarantine,2021-08-21,4
-Managed Isolation & Quarantine,2021-08-22,3
-Managed Isolation & Quarantine,2021-08-23,2
-Managed Isolation & Quarantine,2021-08-24,2
-Managed Isolation & Quarantine,2021-08-25,1
-Managed Isolation & Quarantine,2021-08-26,2
-Managed Isolation & Quarantine,2021-08-27,1
-Managed Isolation & Quarantine,2021-08-29,2
-Managed Isolation & Quarantine,2021-09-01,4
-Managed Isolation & Quarantine,2021-09-02,1
-Managed Isolation & Quarantine,2021-09-03,2
-Managed Isolation & Quarantine,2021-09-04,3
-Managed Isolation & Quarantine,2021-09-05,4
-Managed Isolation & Quarantine,2021-09-06,1
-Managed Isolation & Quarantine,2021-09-07,1
-Managed Isolation & Quarantine,2021-09-08,8
-Managed Isolation & Quarantine,2021-09-09,3
-Managed Isolation & Quarantine,2021-09-10,3
-Managed Isolation & Quarantine,2021-09-11,3
-Managed Isolation & Quarantine,2021-09-12,2
-Managed Isolation & Quarantine,2021-09-13,3
-Managed Isolation & Quarantine,2021-09-14,1
-Managed Isolation & Quarantine,2021-09-15,4
-Managed Isolation & Quarantine,2021-09-16,4
-Managed Isolation & Quarantine,2021-09-17,2
-Managed Isolation & Quarantine,2021-09-18,1
-Managed Isolation & Quarantine,2021-09-19,1
-Managed Isolation & Quarantine,2021-09-21,1
-Managed Isolation & Quarantine,2021-09-22,2
-Managed Isolation & Quarantine,2021-09-23,1
-Managed Isolation & Quarantine,2021-09-24,1
-Managed Isolation & Quarantine,2021-09-25,1
-Managed Isolation & Quarantine,2021-09-26,2
-Managed Isolation & Quarantine,2021-09-27,2
-Managed Isolation & Quarantine,2021-09-29,4
-Managed Isolation & Quarantine,2021-10-03,2
-Managed Isolation & Quarantine,2021-10-04,1
-Managed Isolation & Quarantine,2021-10-05,2
-Managed Isolation & Quarantine,2021-10-06,2
-Managed Isolation & Quarantine,2021-10-07,2
-Managed Isolation & Quarantine,2021-10-09,1
-Managed Isolation & Quarantine,2021-10-11,1
-Managed Isolation & Quarantine,2021-10-12,2
-Managed Isolation & Quarantine,2021-10-13,1
-Managed Isolation & Quarantine,2021-10-16,1
-Managed Isolation & Quarantine,2021-10-17,7
-Managed Isolation & Quarantine,2021-10-18,5
-Managed Isolation & Quarantine,2021-10-19,2
-Managed Isolation & Quarantine,2021-10-20,4
-Managed Isolation & Quarantine,2021-10-22,6
-Managed Isolation & Quarantine,2021-10-23,2
-Managed Isolation & Quarantine,2021-10-25,1
-Managed Isolation & Quarantine,2021-10-26,2
-Managed Isolation & Quarantine,2021-10-27,6
-Managed Isolation & Quarantine,2021-10-28,3
-Managed Isolation & Quarantine,2021-10-29,3
-Managed Isolation & Quarantine,2021-10-30,3
-Managed Isolation & Quarantine,2021-10-31,2
-Managed Isolation & Quarantine,2021-11-01,5
-Managed Isolation & Quarantine,2021-11-02,5
-Managed Isolation & Quarantine,2021-11-03,3
-Managed Isolation & Quarantine,2021-11-04,2
-Managed Isolation & Quarantine,2021-11-05,2
-Managed Isolation & Quarantine,2021-11-06,2
-Managed Isolation & Quarantine,2021-11-07,2
-Managed Isolation & Quarantine,2021-11-08,3
-Managed Isolation & Quarantine,2021-11-09,1
-Managed Isolation & Quarantine,2021-11-11,2
-Managed Isolation & Quarantine,2021-11-12,2
-Managed Isolation & Quarantine,2021-11-13,1
-Managed Isolation & Quarantine,2021-11-17,1
-Managed Isolation & Quarantine,2021-11-19,3
-Managed Isolation & Quarantine,2021-11-20,2
-Managed Isolation & Quarantine,2021-11-21,1
-Managed Isolation & Quarantine,2021-11-22,4
-Managed Isolation & Quarantine,2021-11-23,1
-Managed Isolation & Quarantine,2021-11-24,7
-Managed Isolation & Quarantine,2021-11-25,3
-Managed Isolation & Quarantine,2021-11-26,7
-Managed Isolation & Quarantine,2021-11-27,1
-Managed Isolation & Quarantine,2021-11-28,3
-Managed Isolation & Quarantine,2021-11-29,3
-Managed Isolation & Quarantine,2021-11-30,1
-Managed Isolation & Quarantine,2021-12-01,2
-Managed Isolation & Quarantine,2021-12-02,3
-Managed Isolation & Quarantine,2021-12-03,3
-Managed Isolation & Quarantine,2021-12-04,2
-Managed Isolation & Quarantine,2021-12-05,1
+Lakes,2022-03-28,479
+Managed Isolation & Quarantine,2020-10-23,1
+Managed Isolation & Quarantine,2020-11-02,1
+Managed Isolation & Quarantine,2020-11-04,1
+Managed Isolation & Quarantine,2021-01-09,1
+Managed Isolation & Quarantine,2021-01-14,1
+Managed Isolation & Quarantine,2021-01-20,1
 Managed Isolation & Quarantine,2021-12-06,1
-Managed Isolation & Quarantine,2021-12-07,2
-Managed Isolation & Quarantine,2021-12-08,1
-Managed Isolation & Quarantine,2021-12-09,2
-Managed Isolation & Quarantine,2021-12-10,2
-Managed Isolation & Quarantine,2021-12-11,2
-Managed Isolation & Quarantine,2021-12-13,1
-Managed Isolation & Quarantine,2021-12-14,2
-Managed Isolation & Quarantine,2021-12-15,4
-Managed Isolation & Quarantine,2021-12-16,4
-Managed Isolation & Quarantine,2021-12-17,9
-Managed Isolation & Quarantine,2021-12-18,5
-Managed Isolation & Quarantine,2021-12-19,2
-Managed Isolation & Quarantine,2021-12-20,10
-Managed Isolation & Quarantine,2021-12-21,3
-Managed Isolation & Quarantine,2021-12-22,8
-Managed Isolation & Quarantine,2021-12-23,5
-Managed Isolation & Quarantine,2021-12-24,6
-Managed Isolation & Quarantine,2021-12-25,3
-Managed Isolation & Quarantine,2021-12-26,12
-Managed Isolation & Quarantine,2021-12-27,13
-Managed Isolation & Quarantine,2021-12-28,10
-Managed Isolation & Quarantine,2021-12-29,10
-Managed Isolation & Quarantine,2021-12-30,13
-Managed Isolation & Quarantine,2021-12-31,18
-Managed Isolation & Quarantine,2022-01-01,19
-Managed Isolation & Quarantine,2022-01-02,31
-Managed Isolation & Quarantine,2022-01-03,19
-Managed Isolation & Quarantine,2022-01-04,24
-Managed Isolation & Quarantine,2022-01-05,41
-Managed Isolation & Quarantine,2022-01-06,26
-Managed Isolation & Quarantine,2022-01-07,31
-Managed Isolation & Quarantine,2022-01-08,31
-Managed Isolation & Quarantine,2022-01-09,29
-Managed Isolation & Quarantine,2022-01-10,35
-Managed Isolation & Quarantine,2022-01-11,43
-Managed Isolation & Quarantine,2022-01-12,29
-Managed Isolation & Quarantine,2022-01-13,26
-Managed Isolation & Quarantine,2022-01-14,29
-Managed Isolation & Quarantine,2022-01-15,63
-Managed Isolation & Quarantine,2022-01-16,21
-Managed Isolation & Quarantine,2022-01-17,66
-Managed Isolation & Quarantine,2022-01-18,28
-Managed Isolation & Quarantine,2022-01-19,32
-Managed Isolation & Quarantine,2022-01-20,48
-Managed Isolation & Quarantine,2022-01-21,38
-Managed Isolation & Quarantine,2022-01-22,47
-Managed Isolation & Quarantine,2022-01-23,57
-Managed Isolation & Quarantine,2022-01-24,39
-Managed Isolation & Quarantine,2022-01-25,30
-Managed Isolation & Quarantine,2022-01-26,61
-Managed Isolation & Quarantine,2022-01-27,49
-Managed Isolation & Quarantine,2022-01-28,64
-Managed Isolation & Quarantine,2022-01-29,46
-Managed Isolation & Quarantine,2022-01-30,43
-Managed Isolation & Quarantine,2022-01-31,61
-Managed Isolation & Quarantine,2022-02-01,52
-Managed Isolation & Quarantine,2022-02-02,50
-Managed Isolation & Quarantine,2022-02-03,45
-Managed Isolation & Quarantine,2022-02-04,48
-Managed Isolation & Quarantine,2022-02-05,33
-Managed Isolation & Quarantine,2022-02-06,22
-Managed Isolation & Quarantine,2022-02-07,64
-Managed Isolation & Quarantine,2022-02-08,26
-Managed Isolation & Quarantine,2022-02-09,30
-Managed Isolation & Quarantine,2022-02-10,21
-Managed Isolation & Quarantine,2022-02-11,19
-Managed Isolation & Quarantine,2022-02-12,17
+Managed Isolation & Quarantine,2021-12-18,1
+Managed Isolation & Quarantine,2021-12-20,1
+Managed Isolation & Quarantine,2021-12-28,1
+Managed Isolation & Quarantine,2021-12-29,1
+Managed Isolation & Quarantine,2022-01-02,2
+Managed Isolation & Quarantine,2022-01-05,3
+Managed Isolation & Quarantine,2022-01-06,2
+Managed Isolation & Quarantine,2022-01-07,3
+Managed Isolation & Quarantine,2022-01-08,1
+Managed Isolation & Quarantine,2022-01-10,1
+Managed Isolation & Quarantine,2022-01-11,4
+Managed Isolation & Quarantine,2022-01-12,2
+Managed Isolation & Quarantine,2022-01-13,1
+Managed Isolation & Quarantine,2022-01-15,2
+Managed Isolation & Quarantine,2022-01-16,1
+Managed Isolation & Quarantine,2022-01-17,2
+Managed Isolation & Quarantine,2022-01-18,1
+Managed Isolation & Quarantine,2022-01-19,4
+Managed Isolation & Quarantine,2022-01-20,4
+Managed Isolation & Quarantine,2022-01-21,2
+Managed Isolation & Quarantine,2022-01-22,1
+Managed Isolation & Quarantine,2022-01-24,1
+Managed Isolation & Quarantine,2022-01-25,3
+Managed Isolation & Quarantine,2022-01-26,3
+Managed Isolation & Quarantine,2022-01-27,1
+Managed Isolation & Quarantine,2022-01-28,2
+Managed Isolation & Quarantine,2022-01-29,2
+Managed Isolation & Quarantine,2022-02-01,1
+Managed Isolation & Quarantine,2022-02-03,2
+Managed Isolation & Quarantine,2022-02-04,3
+Managed Isolation & Quarantine,2022-02-06,2
+Managed Isolation & Quarantine,2022-02-07,1
+Managed Isolation & Quarantine,2022-02-09,1
+Managed Isolation & Quarantine,2022-02-10,2
+Managed Isolation & Quarantine,2022-02-11,3
+Managed Isolation & Quarantine,2022-02-12,15
 Managed Isolation & Quarantine,2022-02-13,11
-Managed Isolation & Quarantine,2022-02-14,11
-Managed Isolation & Quarantine,2022-02-15,28
-Managed Isolation & Quarantine,2022-02-16,4
-Managed Isolation & Quarantine,2022-02-17,12
-Managed Isolation & Quarantine,2022-02-18,10
+Managed Isolation & Quarantine,2022-02-14,9
+Managed Isolation & Quarantine,2022-02-15,23
+Managed Isolation & Quarantine,2022-02-16,5
+Managed Isolation & Quarantine,2022-02-17,17
+Managed Isolation & Quarantine,2022-02-18,11
 Managed Isolation & Quarantine,2022-02-19,23
 Managed Isolation & Quarantine,2022-02-20,12
 Managed Isolation & Quarantine,2022-02-21,19
-Managed Isolation & Quarantine,2022-02-22,27
+Managed Isolation & Quarantine,2022-02-22,32
 Managed Isolation & Quarantine,2022-02-23,12
 Managed Isolation & Quarantine,2022-02-24,3
 Managed Isolation & Quarantine,2022-02-25,5
 Managed Isolation & Quarantine,2022-02-26,10
-Managed Isolation & Quarantine,2022-02-27,9
+Managed Isolation & Quarantine,2022-02-27,10
 Managed Isolation & Quarantine,2022-02-28,8
 Managed Isolation & Quarantine,2022-03-01,7
 Managed Isolation & Quarantine,2022-03-02,9
@@ -1749,7 +1931,7 @@ Managed Isolation & Quarantine,2022-03-05,4
 Managed Isolation & Quarantine,2022-03-06,10
 Managed Isolation & Quarantine,2022-03-07,19
 Managed Isolation & Quarantine,2022-03-08,12
-Managed Isolation & Quarantine,2022-03-09,16
+Managed Isolation & Quarantine,2022-03-09,15
 Managed Isolation & Quarantine,2022-03-10,22
 Managed Isolation & Quarantine,2022-03-11,15
 Managed Isolation & Quarantine,2022-03-12,19
@@ -1760,14 +1942,15 @@ Managed Isolation & Quarantine,2022-03-16,26
 Managed Isolation & Quarantine,2022-03-17,19
 Managed Isolation & Quarantine,2022-03-18,39
 Managed Isolation & Quarantine,2022-03-19,32
-Managed Isolation & Quarantine,2022-03-20,31
-Managed Isolation & Quarantine,2022-03-21,33
+Managed Isolation & Quarantine,2022-03-20,32
+Managed Isolation & Quarantine,2022-03-21,32
 Managed Isolation & Quarantine,2022-03-22,44
-Managed Isolation & Quarantine,2022-03-23,47
+Managed Isolation & Quarantine,2022-03-23,46
 Managed Isolation & Quarantine,2022-03-24,29
-Managed Isolation & Quarantine,2022-03-25,38
+Managed Isolation & Quarantine,2022-03-25,39
 Managed Isolation & Quarantine,2022-03-26,36
-Managed Isolation & Quarantine,2022-03-27,50
+Managed Isolation & Quarantine,2022-03-27,52
+Managed Isolation & Quarantine,2022-03-28,45
 MidCentral,2020-03-19,3
 MidCentral,2020-03-21,1
 MidCentral,2020-03-23,1
@@ -1816,35 +1999,36 @@ MidCentral,2022-02-23,83
 MidCentral,2022-02-24,150
 MidCentral,2022-02-25,135
 MidCentral,2022-02-26,108
-MidCentral,2022-02-27,154
-MidCentral,2022-02-28,258
-MidCentral,2022-03-01,354
-MidCentral,2022-03-02,388
+MidCentral,2022-02-27,152
+MidCentral,2022-02-28,259
+MidCentral,2022-03-01,355
+MidCentral,2022-03-02,386
 MidCentral,2022-03-03,373
-MidCentral,2022-03-04,421
+MidCentral,2022-03-04,422
 MidCentral,2022-03-05,378
-MidCentral,2022-03-06,396
+MidCentral,2022-03-06,395
 MidCentral,2022-03-07,632
-MidCentral,2022-03-08,652
+MidCentral,2022-03-08,653
 MidCentral,2022-03-09,653
 MidCentral,2022-03-10,683
 MidCentral,2022-03-11,667
-MidCentral,2022-03-12,471
+MidCentral,2022-03-12,472
 MidCentral,2022-03-13,526
 MidCentral,2022-03-14,887
 MidCentral,2022-03-15,802
 MidCentral,2022-03-16,822
 MidCentral,2022-03-17,596
-MidCentral,2022-03-18,726
+MidCentral,2022-03-18,727
 MidCentral,2022-03-19,657
 MidCentral,2022-03-20,657
 MidCentral,2022-03-21,951
 MidCentral,2022-03-22,917
 MidCentral,2022-03-23,878
-MidCentral,2022-03-24,813
+MidCentral,2022-03-24,812
 MidCentral,2022-03-25,709
 MidCentral,2022-03-26,523
 MidCentral,2022-03-27,699
+MidCentral,2022-03-28,910
 Nelson Marlborough,2020-03-20,2
 Nelson Marlborough,2020-03-21,2
 Nelson Marlborough,2020-03-22,5
@@ -1863,7 +2047,10 @@ Nelson Marlborough,2020-04-05,5
 Nelson Marlborough,2020-04-06,2
 Nelson Marlborough,2020-04-07,2
 Nelson Marlborough,2020-04-29,1
+Nelson Marlborough,2020-10-31,1
+Nelson Marlborough,2021-04-30,1
 Nelson Marlborough,2021-10-22,1
+Nelson Marlborough,2021-11-20,1
 Nelson Marlborough,2021-11-29,2
 Nelson Marlborough,2021-11-30,2
 Nelson Marlborough,2021-12-01,9
@@ -1896,19 +2083,19 @@ Nelson Marlborough,2022-02-16,50
 Nelson Marlborough,2022-02-17,54
 Nelson Marlborough,2022-02-18,37
 Nelson Marlborough,2022-02-19,45
-Nelson Marlborough,2022-02-20,59
-Nelson Marlborough,2022-02-21,132
+Nelson Marlborough,2022-02-20,58
+Nelson Marlborough,2022-02-21,131
 Nelson Marlborough,2022-02-22,196
 Nelson Marlborough,2022-02-23,147
 Nelson Marlborough,2022-02-24,81
 Nelson Marlborough,2022-02-25,108
-Nelson Marlborough,2022-02-26,91
+Nelson Marlborough,2022-02-26,90
 Nelson Marlborough,2022-02-27,121
 Nelson Marlborough,2022-02-28,170
-Nelson Marlborough,2022-03-01,275
+Nelson Marlborough,2022-03-01,274
 Nelson Marlborough,2022-03-02,264
 Nelson Marlborough,2022-03-03,307
-Nelson Marlborough,2022-03-04,257
+Nelson Marlborough,2022-03-04,254
 Nelson Marlborough,2022-03-05,231
 Nelson Marlborough,2022-03-06,328
 Nelson Marlborough,2022-03-07,434
@@ -1922,16 +2109,17 @@ Nelson Marlborough,2022-03-14,521
 Nelson Marlborough,2022-03-15,486
 Nelson Marlborough,2022-03-16,522
 Nelson Marlborough,2022-03-17,419
-Nelson Marlborough,2022-03-18,405
+Nelson Marlborough,2022-03-18,404
 Nelson Marlborough,2022-03-19,359
 Nelson Marlborough,2022-03-20,401
 Nelson Marlborough,2022-03-21,683
-Nelson Marlborough,2022-03-22,584
+Nelson Marlborough,2022-03-22,585
 Nelson Marlborough,2022-03-23,706
 Nelson Marlborough,2022-03-24,520
 Nelson Marlborough,2022-03-25,599
 Nelson Marlborough,2022-03-26,417
 Nelson Marlborough,2022-03-27,494
+Nelson Marlborough,2022-03-28,690
 Northland,2020-03-17,1
 Northland,2020-03-22,1
 Northland,2020-03-24,2
@@ -1952,6 +2140,7 @@ Northland,2020-04-10,2
 Northland,2020-04-11,1
 Northland,2020-04-13,1
 Northland,2020-04-16,1
+Northland,2021-01-23,1
 Northland,2021-10-22,4
 Northland,2021-10-23,1
 Northland,2021-10-24,2
@@ -2032,16 +2221,16 @@ Northland,2022-02-21,42
 Northland,2022-02-22,133
 Northland,2022-02-23,108
 Northland,2022-02-24,113
-Northland,2022-02-25,194
-Northland,2022-02-26,144
-Northland,2022-02-27,183
+Northland,2022-02-25,193
+Northland,2022-02-26,145
+Northland,2022-02-27,182
 Northland,2022-02-28,299
 Northland,2022-03-01,379
-Northland,2022-03-02,516
-Northland,2022-03-03,526
-Northland,2022-03-04,486
+Northland,2022-03-02,517
+Northland,2022-03-03,527
+Northland,2022-03-04,487
 Northland,2022-03-05,379
-Northland,2022-03-06,509
+Northland,2022-03-06,508
 Northland,2022-03-07,719
 Northland,2022-03-08,712
 Northland,2022-03-09,689
@@ -2050,19 +2239,20 @@ Northland,2022-03-11,673
 Northland,2022-03-12,440
 Northland,2022-03-13,482
 Northland,2022-03-14,708
-Northland,2022-03-15,665
+Northland,2022-03-15,666
 Northland,2022-03-16,700
 Northland,2022-03-17,539
 Northland,2022-03-18,552
 Northland,2022-03-19,511
-Northland,2022-03-20,421
+Northland,2022-03-20,422
 Northland,2022-03-21,802
 Northland,2022-03-22,731
 Northland,2022-03-23,674
 Northland,2022-03-24,560
 Northland,2022-03-25,517
-Northland,2022-03-26,392
+Northland,2022-03-26,393
 Northland,2022-03-27,436
+Northland,2022-03-28,731
 South Canterbury,2020-03-23,2
 South Canterbury,2020-03-27,4
 South Canterbury,2020-03-28,1
@@ -2075,6 +2265,7 @@ South Canterbury,2020-04-15,1
 South Canterbury,2020-04-17,1
 South Canterbury,2020-04-19,1
 South Canterbury,2020-04-25,1
+South Canterbury,2021-07-19,1
 South Canterbury,2022-01-10,1
 South Canterbury,2022-02-11,1
 South Canterbury,2022-02-12,1
@@ -2083,7 +2274,7 @@ South Canterbury,2022-02-17,7
 South Canterbury,2022-02-18,2
 South Canterbury,2022-02-19,1
 South Canterbury,2022-02-21,2
-South Canterbury,2022-02-22,19
+South Canterbury,2022-02-22,18
 South Canterbury,2022-02-23,13
 South Canterbury,2022-02-24,22
 South Canterbury,2022-02-25,14
@@ -2096,7 +2287,7 @@ South Canterbury,2022-03-03,62
 South Canterbury,2022-03-04,61
 South Canterbury,2022-03-05,49
 South Canterbury,2022-03-06,84
-South Canterbury,2022-03-07,128
+South Canterbury,2022-03-07,127
 South Canterbury,2022-03-08,119
 South Canterbury,2022-03-09,109
 South Canterbury,2022-03-10,135
@@ -2117,6 +2308,7 @@ South Canterbury,2022-03-24,251
 South Canterbury,2022-03-25,216
 South Canterbury,2022-03-26,209
 South Canterbury,2022-03-27,225
+South Canterbury,2022-03-28,318
 Southern,2020-03-13,1
 Southern,2020-03-17,3
 Southern,2020-03-18,2
@@ -2149,6 +2341,11 @@ Southern,2020-04-15,1
 Southern,2020-04-16,1
 Southern,2020-04-17,2
 Southern,2021-03-19,1
+Southern,2021-06-07,1
+Southern,2021-07-19,3
+Southern,2021-07-20,6
+Southern,2021-07-21,3
+Southern,2021-07-22,3
 Southern,2022-02-09,1
 Southern,2022-02-10,10
 Southern,2022-02-11,5
@@ -2157,45 +2354,46 @@ Southern,2022-02-13,16
 Southern,2022-02-14,25
 Southern,2022-02-15,34
 Southern,2022-02-16,32
-Southern,2022-02-17,79
+Southern,2022-02-17,78
 Southern,2022-02-18,98
 Southern,2022-02-19,163
-Southern,2022-02-20,159
-Southern,2022-02-21,648
+Southern,2022-02-20,161
+Southern,2022-02-21,649
 Southern,2022-02-22,1093
 Southern,2022-02-23,411
-Southern,2022-02-24,475
-Southern,2022-02-25,487
-Southern,2022-02-26,415
-Southern,2022-02-27,428
-Southern,2022-02-28,513
+Southern,2022-02-24,477
+Southern,2022-02-25,489
+Southern,2022-02-26,420
+Southern,2022-02-27,430
+Southern,2022-02-28,514
 Southern,2022-03-01,614
-Southern,2022-03-02,628
-Southern,2022-03-03,653
-Southern,2022-03-04,563
-Southern,2022-03-05,445
+Southern,2022-03-02,629
+Southern,2022-03-03,656
+Southern,2022-03-04,564
+Southern,2022-03-05,444
 Southern,2022-03-06,505
 Southern,2022-03-07,923
 Southern,2022-03-08,845
-Southern,2022-03-09,912
-Southern,2022-03-10,871
-Southern,2022-03-11,851
-Southern,2022-03-12,701
-Southern,2022-03-13,793
+Southern,2022-03-09,911
+Southern,2022-03-10,872
+Southern,2022-03-11,853
+Southern,2022-03-12,700
+Southern,2022-03-13,792
 Southern,2022-03-14,1246
 Southern,2022-03-15,1203
 Southern,2022-03-16,1224
 Southern,2022-03-17,890
 Southern,2022-03-18,1053
-Southern,2022-03-19,1026
+Southern,2022-03-19,1027
 Southern,2022-03-20,950
-Southern,2022-03-21,1440
-Southern,2022-03-22,1634
-Southern,2022-03-23,1461
+Southern,2022-03-21,1441
+Southern,2022-03-22,1635
+Southern,2022-03-23,1460
 Southern,2022-03-24,1245
 Southern,2022-03-25,1102
-Southern,2022-03-26,803
+Southern,2022-03-26,802
 Southern,2022-03-27,937
+Southern,2022-03-28,1404
 Tairawhiti,2020-03-26,1
 Tairawhiti,2020-04-11,1
 Tairawhiti,2020-04-14,2
@@ -2228,16 +2426,16 @@ Tairawhiti,2022-02-26,43
 Tairawhiti,2022-02-27,50
 Tairawhiti,2022-02-28,78
 Tairawhiti,2022-03-01,136
-Tairawhiti,2022-03-02,136
+Tairawhiti,2022-03-02,137
 Tairawhiti,2022-03-03,159
 Tairawhiti,2022-03-04,155
 Tairawhiti,2022-03-05,171
-Tairawhiti,2022-03-06,214
+Tairawhiti,2022-03-06,215
 Tairawhiti,2022-03-07,365
 Tairawhiti,2022-03-08,375
 Tairawhiti,2022-03-09,352
 Tairawhiti,2022-03-10,329
-Tairawhiti,2022-03-11,381
+Tairawhiti,2022-03-11,382
 Tairawhiti,2022-03-12,289
 Tairawhiti,2022-03-13,263
 Tairawhiti,2022-03-14,448
@@ -2254,6 +2452,7 @@ Tairawhiti,2022-03-24,224
 Tairawhiti,2022-03-25,196
 Tairawhiti,2022-03-26,141
 Tairawhiti,2022-03-27,174
+Tairawhiti,2022-03-28,250
 Taranaki,2020-03-16,2
 Taranaki,2020-03-21,2
 Taranaki,2020-03-25,1
@@ -2295,7 +2494,7 @@ Taranaki,2022-02-15,9
 Taranaki,2022-02-16,8
 Taranaki,2022-02-17,11
 Taranaki,2022-02-18,9
-Taranaki,2022-02-19,8
+Taranaki,2022-02-19,9
 Taranaki,2022-02-20,3
 Taranaki,2022-02-21,23
 Taranaki,2022-02-22,45
@@ -2303,7 +2502,7 @@ Taranaki,2022-02-23,46
 Taranaki,2022-02-24,41
 Taranaki,2022-02-25,74
 Taranaki,2022-02-26,47
-Taranaki,2022-02-27,85
+Taranaki,2022-02-27,84
 Taranaki,2022-02-28,129
 Taranaki,2022-03-01,252
 Taranaki,2022-03-02,283
@@ -2321,8 +2520,8 @@ Taranaki,2022-03-13,343
 Taranaki,2022-03-14,509
 Taranaki,2022-03-15,661
 Taranaki,2022-03-16,662
-Taranaki,2022-03-17,470
-Taranaki,2022-03-18,516
+Taranaki,2022-03-17,471
+Taranaki,2022-03-18,515
 Taranaki,2022-03-19,457
 Taranaki,2022-03-20,473
 Taranaki,2022-03-21,638
@@ -2331,7 +2530,8 @@ Taranaki,2022-03-23,660
 Taranaki,2022-03-24,594
 Taranaki,2022-03-25,514
 Taranaki,2022-03-26,449
-Taranaki,2022-03-27,527
+Taranaki,2022-03-27,525
+Taranaki,2022-03-28,706
 Unknown,2022-02-13,1
 Unknown,2022-02-15,1
 Unknown,2022-02-18,1
@@ -2340,13 +2540,13 @@ Unknown,2022-02-20,1
 Unknown,2022-02-22,3
 Unknown,2022-02-23,3
 Unknown,2022-02-24,8
-Unknown,2022-02-25,4
+Unknown,2022-02-25,3
 Unknown,2022-02-26,2
 Unknown,2022-02-27,7
 Unknown,2022-02-28,7
 Unknown,2022-03-01,7
 Unknown,2022-03-02,16
-Unknown,2022-03-03,14
+Unknown,2022-03-03,13
 Unknown,2022-03-04,6
 Unknown,2022-03-05,9
 Unknown,2022-03-06,8
@@ -2355,22 +2555,23 @@ Unknown,2022-03-08,6
 Unknown,2022-03-09,13
 Unknown,2022-03-10,5
 Unknown,2022-03-11,8
-Unknown,2022-03-12,4
+Unknown,2022-03-12,3
 Unknown,2022-03-13,10
 Unknown,2022-03-14,9
 Unknown,2022-03-15,7
 Unknown,2022-03-16,8
 Unknown,2022-03-17,7
-Unknown,2022-03-18,11
+Unknown,2022-03-18,12
 Unknown,2022-03-19,11
 Unknown,2022-03-20,9
-Unknown,2022-03-21,18
+Unknown,2022-03-21,17
 Unknown,2022-03-22,15
 Unknown,2022-03-23,12
 Unknown,2022-03-24,9
 Unknown,2022-03-25,15
 Unknown,2022-03-26,2
 Unknown,2022-03-27,5
+Unknown,2022-03-28,10
 Waikato,2020-03-16,2
 Waikato,2020-03-19,2
 Waikato,2020-03-20,1
@@ -2409,7 +2610,22 @@ Waikato,2020-05-10,1
 Waikato,2020-08-19,1
 Waikato,2020-09-14,1
 Waikato,2020-09-16,5
+Waikato,2020-11-30,1
+Waikato,2020-12-02,1
+Waikato,2021-01-01,2
+Waikato,2021-01-05,1
+Waikato,2021-01-08,1
+Waikato,2021-02-05,1
 Waikato,2021-03-20,1
+Waikato,2021-05-04,2
+Waikato,2021-06-26,1
+Waikato,2021-06-27,1
+Waikato,2021-06-28,1
+Waikato,2021-07-07,1
+Waikato,2021-07-14,1
+Waikato,2021-07-26,1
+Waikato,2021-08-29,1
+Waikato,2021-09-27,1
 Waikato,2021-10-02,1
 Waikato,2021-10-03,5
 Waikato,2021-10-04,2
@@ -2476,7 +2692,7 @@ Waikato,2021-12-05,7
 Waikato,2021-12-06,8
 Waikato,2021-12-07,9
 Waikato,2021-12-08,9
-Waikato,2021-12-09,11
+Waikato,2021-12-09,12
 Waikato,2021-12-10,3
 Waikato,2021-12-11,8
 Waikato,2021-12-12,11
@@ -2517,12 +2733,13 @@ Waikato,2022-01-20,1
 Waikato,2022-01-21,4
 Waikato,2022-01-22,2
 Waikato,2022-01-23,3
+Waikato,2022-01-24,1
 Waikato,2022-01-25,3
-Waikato,2022-01-26,2
+Waikato,2022-01-26,5
 Waikato,2022-01-27,16
 Waikato,2022-01-28,13
 Waikato,2022-01-29,14
-Waikato,2022-01-30,18
+Waikato,2022-01-30,19
 Waikato,2022-01-31,15
 Waikato,2022-02-01,13
 Waikato,2022-02-02,8
@@ -2537,48 +2754,49 @@ Waikato,2022-02-10,54
 Waikato,2022-02-11,51
 Waikato,2022-02-12,80
 Waikato,2022-02-13,81
-Waikato,2022-02-14,71
-Waikato,2022-02-15,74
-Waikato,2022-02-16,147
+Waikato,2022-02-14,73
+Waikato,2022-02-15,75
+Waikato,2022-02-16,146
 Waikato,2022-02-17,164
-Waikato,2022-02-18,248
-Waikato,2022-02-19,373
-Waikato,2022-02-20,374
+Waikato,2022-02-18,249
+Waikato,2022-02-19,372
+Waikato,2022-02-20,375
 Waikato,2022-02-21,640
-Waikato,2022-02-22,845
-Waikato,2022-02-23,1084
+Waikato,2022-02-22,843
+Waikato,2022-02-23,1083
 Waikato,2022-02-24,818
-Waikato,2022-02-25,942
+Waikato,2022-02-25,943
 Waikato,2022-02-26,747
-Waikato,2022-02-27,870
+Waikato,2022-02-27,869
 Waikato,2022-02-28,1430
 Waikato,2022-03-01,2069
-Waikato,2022-03-02,1998
-Waikato,2022-03-03,1749
+Waikato,2022-03-02,1996
+Waikato,2022-03-03,1748
 Waikato,2022-03-04,1581
-Waikato,2022-03-05,1337
+Waikato,2022-03-05,1336
 Waikato,2022-03-06,1529
-Waikato,2022-03-07,2144
-Waikato,2022-03-08,2106
-Waikato,2022-03-09,2017
+Waikato,2022-03-07,2143
+Waikato,2022-03-08,2105
+Waikato,2022-03-09,2020
 Waikato,2022-03-10,1943
-Waikato,2022-03-11,1710
+Waikato,2022-03-11,1709
 Waikato,2022-03-12,1408
 Waikato,2022-03-13,1532
-Waikato,2022-03-14,2069
+Waikato,2022-03-14,2067
 Waikato,2022-03-15,1837
 Waikato,2022-03-16,1826
-Waikato,2022-03-17,1335
-Waikato,2022-03-18,1485
+Waikato,2022-03-17,1337
+Waikato,2022-03-18,1486
 Waikato,2022-03-19,1334
-Waikato,2022-03-20,1403
-Waikato,2022-03-21,1882
-Waikato,2022-03-22,1734
-Waikato,2022-03-23,1648
+Waikato,2022-03-20,1404
+Waikato,2022-03-21,1883
+Waikato,2022-03-22,1735
+Waikato,2022-03-23,1649
 Waikato,2022-03-24,1433
-Waikato,2022-03-25,1305
-Waikato,2022-03-26,961
-Waikato,2022-03-27,1169
+Waikato,2022-03-25,1304
+Waikato,2022-03-26,960
+Waikato,2022-03-27,1170
+Waikato,2022-03-28,1567
 Wairarapa,2020-03-19,1
 Wairarapa,2020-03-21,2
 Wairarapa,2020-03-24,2
@@ -2625,13 +2843,14 @@ Wairarapa,2022-03-17,164
 Wairarapa,2022-03-18,230
 Wairarapa,2022-03-19,181
 Wairarapa,2022-03-20,220
-Wairarapa,2022-03-21,324
+Wairarapa,2022-03-21,325
 Wairarapa,2022-03-22,276
 Wairarapa,2022-03-23,249
 Wairarapa,2022-03-24,251
 Wairarapa,2022-03-25,196
 Wairarapa,2022-03-26,108
 Wairarapa,2022-03-27,173
+Wairarapa,2022-03-28,210
 Waitemata,2020-03-02,1
 Waitemata,2020-03-04,1
 Waitemata,2020-03-05,1
@@ -2712,14 +2931,15 @@ Waitemata,2020-10-21,1
 Waitemata,2020-10-22,1
 Waitemata,2021-01-27,2
 Waitemata,2021-02-04,1
+Waitemata,2021-03-10,2
 Waitemata,2021-08-17,5
 Waitemata,2021-08-18,3
 Waitemata,2021-08-19,9
 Waitemata,2021-08-20,4
-Waitemata,2021-08-21,5
+Waitemata,2021-08-21,6
 Waitemata,2021-08-22,11
 Waitemata,2021-08-23,7
-Waitemata,2021-08-24,22
+Waitemata,2021-08-24,23
 Waitemata,2021-08-25,5
 Waitemata,2021-08-26,14
 Waitemata,2021-08-27,13
@@ -2773,7 +2993,7 @@ Waitemata,2021-10-23,31
 Waitemata,2021-10-24,42
 Waitemata,2021-10-25,24
 Waitemata,2021-10-26,41
-Waitemata,2021-10-27,42
+Waitemata,2021-10-27,43
 Waitemata,2021-10-28,54
 Waitemata,2021-10-29,42
 Waitemata,2021-10-30,57
@@ -2823,7 +3043,7 @@ Waitemata,2021-12-12,13
 Waitemata,2021-12-13,6
 Waitemata,2021-12-14,10
 Waitemata,2021-12-15,11
-Waitemata,2021-12-16,7
+Waitemata,2021-12-16,8
 Waitemata,2021-12-17,1
 Waitemata,2021-12-18,3
 Waitemata,2021-12-19,6
@@ -2832,96 +3052,98 @@ Waitemata,2021-12-21,3
 Waitemata,2021-12-22,7
 Waitemata,2021-12-23,2
 Waitemata,2021-12-24,10
-Waitemata,2021-12-25,4
-Waitemata,2021-12-27,4
+Waitemata,2021-12-25,5
+Waitemata,2021-12-27,5
 Waitemata,2021-12-28,5
 Waitemata,2021-12-29,2
 Waitemata,2021-12-30,3
 Waitemata,2021-12-31,4
 Waitemata,2022-01-01,5
-Waitemata,2022-01-03,7
+Waitemata,2022-01-03,8
 Waitemata,2022-01-04,2
-Waitemata,2022-01-05,4
-Waitemata,2022-01-06,4
+Waitemata,2022-01-05,6
+Waitemata,2022-01-06,6
 Waitemata,2022-01-07,5
-Waitemata,2022-01-08,4
+Waitemata,2022-01-08,5
 Waitemata,2022-01-09,4
 Waitemata,2022-01-10,1
-Waitemata,2022-01-11,2
+Waitemata,2022-01-11,7
 Waitemata,2022-01-12,6
-Waitemata,2022-01-13,4
+Waitemata,2022-01-13,5
 Waitemata,2022-01-14,6
-Waitemata,2022-01-15,8
+Waitemata,2022-01-15,9
 Waitemata,2022-01-16,2
-Waitemata,2022-01-17,2
+Waitemata,2022-01-17,3
 Waitemata,2022-01-18,5
-Waitemata,2022-01-19,7
-Waitemata,2022-01-20,3
-Waitemata,2022-01-21,5
-Waitemata,2022-01-22,2
+Waitemata,2022-01-19,8
+Waitemata,2022-01-20,4
+Waitemata,2022-01-21,6
+Waitemata,2022-01-22,3
 Waitemata,2022-01-23,6
 Waitemata,2022-01-24,6
+Waitemata,2022-01-25,1
 Waitemata,2022-01-26,10
 Waitemata,2022-01-27,11
 Waitemata,2022-01-28,16
 Waitemata,2022-01-29,18
 Waitemata,2022-01-30,5
-Waitemata,2022-01-31,10
+Waitemata,2022-01-31,12
 Waitemata,2022-02-01,7
-Waitemata,2022-02-02,11
-Waitemata,2022-02-03,19
+Waitemata,2022-02-02,14
+Waitemata,2022-02-03,20
 Waitemata,2022-02-04,19
 Waitemata,2022-02-05,17
 Waitemata,2022-02-06,26
 Waitemata,2022-02-07,16
 Waitemata,2022-02-08,10
 Waitemata,2022-02-09,29
-Waitemata,2022-02-10,49
+Waitemata,2022-02-10,52
 Waitemata,2022-02-11,71
 Waitemata,2022-02-12,67
 Waitemata,2022-02-13,49
 Waitemata,2022-02-14,124
 Waitemata,2022-02-15,99
-Waitemata,2022-02-16,195
+Waitemata,2022-02-16,196
 Waitemata,2022-02-17,226
-Waitemata,2022-02-18,305
+Waitemata,2022-02-18,304
 Waitemata,2022-02-19,391
 Waitemata,2022-02-20,411
-Waitemata,2022-02-21,941
-Waitemata,2022-02-22,976
-Waitemata,2022-02-23,1261
-Waitemata,2022-02-24,1943
-Waitemata,2022-02-25,2261
+Waitemata,2022-02-21,942
+Waitemata,2022-02-22,973
+Waitemata,2022-02-23,1262
+Waitemata,2022-02-24,1942
+Waitemata,2022-02-25,2263
 Waitemata,2022-02-26,1605
 Waitemata,2022-02-27,1826
-Waitemata,2022-02-28,2685
-Waitemata,2022-03-01,3390
+Waitemata,2022-02-28,2684
+Waitemata,2022-03-01,3392
 Waitemata,2022-03-02,3337
 Waitemata,2022-03-03,3543
 Waitemata,2022-03-04,2631
 Waitemata,2022-03-05,2071
 Waitemata,2022-03-06,2262
-Waitemata,2022-03-07,2827
+Waitemata,2022-03-07,2828
 Waitemata,2022-03-08,2611
-Waitemata,2022-03-09,2321
-Waitemata,2022-03-10,2231
-Waitemata,2022-03-11,1946
-Waitemata,2022-03-12,1515
-Waitemata,2022-03-13,1574
-Waitemata,2022-03-14,1987
+Waitemata,2022-03-09,2323
+Waitemata,2022-03-10,2232
+Waitemata,2022-03-11,1945
+Waitemata,2022-03-12,1516
+Waitemata,2022-03-13,1575
+Waitemata,2022-03-14,1988
 Waitemata,2022-03-15,1804
-Waitemata,2022-03-16,1651
-Waitemata,2022-03-17,1231
-Waitemata,2022-03-18,1317
-Waitemata,2022-03-19,1231
+Waitemata,2022-03-16,1652
+Waitemata,2022-03-17,1229
+Waitemata,2022-03-18,1316
+Waitemata,2022-03-19,1230
 Waitemata,2022-03-20,1174
 Waitemata,2022-03-21,1600
-Waitemata,2022-03-22,1552
-Waitemata,2022-03-23,1292
-Waitemata,2022-03-24,1094
-Waitemata,2022-03-25,1041
-Waitemata,2022-03-26,791
+Waitemata,2022-03-22,1551
+Waitemata,2022-03-23,1293
+Waitemata,2022-03-24,1095
+Waitemata,2022-03-25,1040
+Waitemata,2022-03-26,788
 Waitemata,2022-03-27,889
+Waitemata,2022-03-28,1137
 West Coast,2020-03-22,1
 West Coast,2020-03-26,2
 West Coast,2020-04-01,1
@@ -2963,6 +3185,7 @@ West Coast,2022-03-24,59
 West Coast,2022-03-25,51
 West Coast,2022-03-26,36
 West Coast,2022-03-27,32
+West Coast,2022-03-28,79
 Whanganui,2020-03-27,3
 Whanganui,2020-04-01,2
 Whanganui,2020-04-02,2
@@ -2981,23 +3204,23 @@ Whanganui,2022-02-21,21
 Whanganui,2022-02-22,11
 Whanganui,2022-02-23,14
 Whanganui,2022-02-24,18
-Whanganui,2022-02-25,21
+Whanganui,2022-02-25,20
 Whanganui,2022-02-26,14
 Whanganui,2022-02-27,31
 Whanganui,2022-02-28,42
 Whanganui,2022-03-01,52
 Whanganui,2022-03-02,82
 Whanganui,2022-03-03,79
-Whanganui,2022-03-04,93
+Whanganui,2022-03-04,92
 Whanganui,2022-03-05,57
-Whanganui,2022-03-06,94
+Whanganui,2022-03-06,93
 Whanganui,2022-03-07,167
 Whanganui,2022-03-08,201
 Whanganui,2022-03-09,156
 Whanganui,2022-03-10,189
 Whanganui,2022-03-11,163
 Whanganui,2022-03-12,136
-Whanganui,2022-03-13,161
+Whanganui,2022-03-13,162
 Whanganui,2022-03-14,274
 Whanganui,2022-03-15,231
 Whanganui,2022-03-16,268
@@ -3005,10 +3228,11 @@ Whanganui,2022-03-17,205
 Whanganui,2022-03-18,237
 Whanganui,2022-03-19,206
 Whanganui,2022-03-20,209
-Whanganui,2022-03-21,401
-Whanganui,2022-03-22,388
+Whanganui,2022-03-21,400
+Whanganui,2022-03-22,387
 Whanganui,2022-03-23,312
-Whanganui,2022-03-24,330
+Whanganui,2022-03-24,331
 Whanganui,2022-03-25,322
 Whanganui,2022-03-26,226
 Whanganui,2022-03-27,288
+Whanganui,2022-03-28,447
