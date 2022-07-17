@@ -381,10 +381,11 @@ Auckland,2022-07-08,981
 Auckland,2022-07-09,823
 Auckland,2022-07-10,842
 Auckland,2022-07-11,1112
-Auckland,2022-07-12,1088
-Auckland,2022-07-13,1000
-Auckland,2022-07-14,963
-Auckland,2022-07-15,861
+Auckland,2022-07-12,1089
+Auckland,2022-07-13,999
+Auckland,2022-07-14,964
+Auckland,2022-07-15,862
+Auckland,2022-07-16,589
 Bay of Plenty,2020-03-24,3
 Bay of Plenty,2020-03-26,1
 Bay of Plenty,2020-03-27,2
@@ -629,6 +630,7 @@ Bay of Plenty,2022-07-12,539
 Bay of Plenty,2022-07-13,462
 Bay of Plenty,2022-07-14,448
 Bay of Plenty,2022-07-15,375
+Bay of Plenty,2022-07-16,266
 Canterbury/West Coast,2020-03-21,2
 Canterbury/West Coast,2020-03-22,2
 Canterbury/West Coast,2020-03-23,3
@@ -772,7 +774,7 @@ Canterbury/West Coast,2022-04-22,1411
 Canterbury/West Coast,2022-04-23,1073
 Canterbury/West Coast,2022-04-24,1089
 Canterbury/West Coast,2022-04-25,1183
-Canterbury/West Coast,2022-04-26,1856
+Canterbury/West Coast,2022-04-26,1855
 Canterbury/West Coast,2022-04-27,1639
 Canterbury/West Coast,2022-04-28,1574
 Canterbury/West Coast,2022-04-29,1300
@@ -852,7 +854,8 @@ Canterbury/West Coast,2022-07-11,1723
 Canterbury/West Coast,2022-07-12,1757
 Canterbury/West Coast,2022-07-13,1736
 Canterbury/West Coast,2022-07-14,1549
-Canterbury/West Coast,2022-07-15,1389
+Canterbury/West Coast,2022-07-15,1393
+Canterbury/West Coast,2022-07-16,1001
 Capital & Coast/Hutt,2020-03-21,1
 Capital & Coast/Hutt,2020-03-22,5
 Capital & Coast/Hutt,2020-03-23,2
@@ -1061,10 +1064,11 @@ Capital & Coast/Hutt,2022-07-08,1027
 Capital & Coast/Hutt,2022-07-09,860
 Capital & Coast/Hutt,2022-07-10,1014
 Capital & Coast/Hutt,2022-07-11,1259
-Capital & Coast/Hutt,2022-07-12,1220
+Capital & Coast/Hutt,2022-07-12,1219
 Capital & Coast/Hutt,2022-07-13,1282
 Capital & Coast/Hutt,2022-07-14,1177
 Capital & Coast/Hutt,2022-07-15,980
+Capital & Coast/Hutt,2022-07-16,701
 Counties Manukau,2020-03-04,1
 Counties Manukau,2020-03-06,1
 Counties Manukau,2020-03-19,1
@@ -1467,10 +1471,11 @@ Counties Manukau,2022-07-08,863
 Counties Manukau,2022-07-09,711
 Counties Manukau,2022-07-10,825
 Counties Manukau,2022-07-11,1069
-Counties Manukau,2022-07-12,1039
-Counties Manukau,2022-07-13,1030
-Counties Manukau,2022-07-14,969
+Counties Manukau,2022-07-12,1038
+Counties Manukau,2022-07-13,1032
+Counties Manukau,2022-07-14,966
 Counties Manukau,2022-07-15,844
+Counties Manukau,2022-07-16,552
 Hawke's Bay,2020-03-25,1
 Hawke's Bay,2020-03-26,1
 Hawke's Bay,2020-03-28,1
@@ -1666,6 +1671,7 @@ Hawke's Bay,2022-07-12,547
 Hawke's Bay,2022-07-13,527
 Hawke's Bay,2022-07-14,519
 Hawke's Bay,2022-07-15,426
+Hawke's Bay,2022-07-16,277
 Lakes,2020-03-30,2
 Lakes,2020-04-04,1
 Lakes,2020-04-17,1
@@ -1895,7 +1901,8 @@ Lakes,2022-07-11,215
 Lakes,2022-07-12,243
 Lakes,2022-07-13,253
 Lakes,2022-07-14,218
-Lakes,2022-07-15,182
+Lakes,2022-07-15,183
+Lakes,2022-07-16,127
 Managed Isolation & Quarantine,2020-02-26,1
 Managed Isolation & Quarantine,2020-03-02,1
 Managed Isolation & Quarantine,2020-03-04,1
@@ -2526,7 +2533,7 @@ Managed Isolation & Quarantine,2022-04-22,54
 Managed Isolation & Quarantine,2022-04-23,49
 Managed Isolation & Quarantine,2022-04-24,66
 Managed Isolation & Quarantine,2022-04-25,66
-Managed Isolation & Quarantine,2022-04-26,81
+Managed Isolation & Quarantine,2022-04-26,82
 Managed Isolation & Quarantine,2022-04-27,88
 Managed Isolation & Quarantine,2022-04-28,79
 Managed Isolation & Quarantine,2022-04-29,82
@@ -2600,13 +2607,14 @@ Managed Isolation & Quarantine,2022-07-05,242
 Managed Isolation & Quarantine,2022-07-06,378
 Managed Isolation & Quarantine,2022-07-07,278
 Managed Isolation & Quarantine,2022-07-08,262
-Managed Isolation & Quarantine,2022-07-09,295
+Managed Isolation & Quarantine,2022-07-09,294
 Managed Isolation & Quarantine,2022-07-10,283
 Managed Isolation & Quarantine,2022-07-11,308
 Managed Isolation & Quarantine,2022-07-12,351
 Managed Isolation & Quarantine,2022-07-13,332
 Managed Isolation & Quarantine,2022-07-14,335
-Managed Isolation & Quarantine,2022-07-15,307
+Managed Isolation & Quarantine,2022-07-15,309
+Managed Isolation & Quarantine,2022-07-16,269
 MidCentral,2020-03-19,2
 MidCentral,2020-03-25,1
 MidCentral,2020-03-27,1
@@ -2779,11 +2787,12 @@ MidCentral,2022-07-07,335
 MidCentral,2022-07-08,341
 MidCentral,2022-07-09,276
 MidCentral,2022-07-10,316
-MidCentral,2022-07-11,457
+MidCentral,2022-07-11,458
 MidCentral,2022-07-12,425
-MidCentral,2022-07-13,468
+MidCentral,2022-07-13,467
 MidCentral,2022-07-14,433
 MidCentral,2022-07-15,420
+MidCentral,2022-07-16,247
 Nelson Marlborough,2020-03-20,1
 Nelson Marlborough,2020-03-21,1
 Nelson Marlborough,2020-03-22,1
@@ -2976,8 +2985,9 @@ Nelson Marlborough,2022-07-10,234
 Nelson Marlborough,2022-07-11,336
 Nelson Marlborough,2022-07-12,364
 Nelson Marlborough,2022-07-13,319
-Nelson Marlborough,2022-07-14,356
-Nelson Marlborough,2022-07-15,254
+Nelson Marlborough,2022-07-14,363
+Nelson Marlborough,2022-07-15,247
+Nelson Marlborough,2022-07-16,196
 Northland,2020-03-31,1
 Northland,2020-04-01,1
 Northland,2020-04-02,1
@@ -3209,8 +3219,9 @@ Northland,2022-07-10,170
 Northland,2022-07-11,279
 Northland,2022-07-12,264
 Northland,2022-07-13,280
-Northland,2022-07-14,220
-Northland,2022-07-15,204
+Northland,2022-07-14,219
+Northland,2022-07-15,202
+Northland,2022-07-16,127
 South Canterbury,2020-03-23,1
 South Canterbury,2020-03-27,2
 South Canterbury,2020-03-29,2
@@ -3374,7 +3385,8 @@ South Canterbury,2022-07-11,140
 South Canterbury,2022-07-12,127
 South Canterbury,2022-07-13,147
 South Canterbury,2022-07-14,144
-South Canterbury,2022-07-15,153
+South Canterbury,2022-07-15,152
+South Canterbury,2022-07-16,98
 Southern,2020-03-17,2
 Southern,2020-03-22,1
 Southern,2020-03-23,3
@@ -3555,11 +3567,12 @@ Southern,2022-07-07,655
 Southern,2022-07-08,651
 Southern,2022-07-09,503
 Southern,2022-07-10,584
-Southern,2022-07-11,949
-Southern,2022-07-12,907
-Southern,2022-07-13,1043
-Southern,2022-07-14,893
+Southern,2022-07-11,948
+Southern,2022-07-12,908
+Southern,2022-07-13,1042
+Southern,2022-07-14,892
 Southern,2022-07-15,878
+Southern,2022-07-16,576
 Tairawhiti,2020-04-14,2
 Tairawhiti,2021-12-24,2
 Tairawhiti,2021-12-29,1
@@ -3727,6 +3740,7 @@ Tairawhiti,2022-07-12,82
 Tairawhiti,2022-07-13,87
 Tairawhiti,2022-07-14,74
 Tairawhiti,2022-07-15,80
+Tairawhiti,2022-07-16,31
 Taranaki,2020-03-26,1
 Taranaki,2020-04-26,1
 Taranaki,2021-11-11,6
@@ -3906,7 +3920,8 @@ Taranaki,2022-07-11,252
 Taranaki,2022-07-12,192
 Taranaki,2022-07-13,246
 Taranaki,2022-07-14,225
-Taranaki,2022-07-15,242
+Taranaki,2022-07-15,244
+Taranaki,2022-07-16,122
 Unknown,2022-02-02,1
 Unknown,2022-02-15,2
 Unknown,2022-02-18,2
@@ -4049,6 +4064,7 @@ Unknown,2022-07-12,5
 Unknown,2022-07-13,6
 Unknown,2022-07-14,5
 Unknown,2022-07-15,5
+Unknown,2022-07-16,1
 Waikato,2020-03-21,1
 Waikato,2020-03-22,1
 Waikato,2020-03-23,1
@@ -4357,9 +4373,10 @@ Waikato,2022-07-09,465
 Waikato,2022-07-10,542
 Waikato,2022-07-11,763
 Waikato,2022-07-12,776
-Waikato,2022-07-13,756
+Waikato,2022-07-13,757
 Waikato,2022-07-14,634
-Waikato,2022-07-15,568
+Waikato,2022-07-15,570
+Waikato,2022-07-16,398
 Wairarapa,2020-03-19,1
 Wairarapa,2020-03-24,1
 Wairarapa,2020-04-02,2
@@ -4521,6 +4538,7 @@ Wairarapa,2022-07-12,138
 Wairarapa,2022-07-13,148
 Wairarapa,2022-07-14,138
 Wairarapa,2022-07-15,113
+Wairarapa,2022-07-16,82
 Waitemata,2020-03-20,1
 Waitemata,2020-03-21,1
 Waitemata,2020-03-22,1
@@ -4909,12 +4927,13 @@ Waitemata,2022-07-06,1431
 Waitemata,2022-07-07,1318
 Waitemata,2022-07-08,1387
 Waitemata,2022-07-09,1067
-Waitemata,2022-07-10,1106
+Waitemata,2022-07-10,1107
 Waitemata,2022-07-11,1502
 Waitemata,2022-07-12,1510
-Waitemata,2022-07-13,1410
-Waitemata,2022-07-14,1330
-Waitemata,2022-07-15,1076
+Waitemata,2022-07-13,1408
+Waitemata,2022-07-14,1331
+Waitemata,2022-07-15,1074
+Waitemata,2022-07-16,716
 Whanganui,2020-04-17,1
 Whanganui,2020-04-19,1
 Whanganui,2021-12-04,1
@@ -5073,4 +5092,5 @@ Whanganui,2022-07-11,193
 Whanganui,2022-07-12,201
 Whanganui,2022-07-13,177
 Whanganui,2022-07-14,161
-Whanganui,2022-07-15,158
+Whanganui,2022-07-15,160
+Whanganui,2022-07-16,102
