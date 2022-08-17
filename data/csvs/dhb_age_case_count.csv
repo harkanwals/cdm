@@ -2570,7 +2570,7 @@ Auckland,2022-07-21,20 to 29,126
 Auckland,2022-07-21,30 to 39,147
 Auckland,2022-07-21,40 to 49,101
 Auckland,2022-07-21,50 to 59,126
-Auckland,2022-07-21,60 to 69,87
+Auckland,2022-07-21,60 to 69,86
 Auckland,2022-07-21,70 to 79,43
 Auckland,2022-07-21,80 to 89,28
 Auckland,2022-07-21,90+,7
@@ -2798,7 +2798,7 @@ Auckland,2022-08-13,10 to 19,32
 Auckland,2022-08-13,20 to 29,55
 Auckland,2022-08-13,30 to 39,66
 Auckland,2022-08-13,40 to 49,36
-Auckland,2022-08-13,50 to 59,35
+Auckland,2022-08-13,50 to 59,34
 Auckland,2022-08-13,60 to 69,28
 Auckland,2022-08-13,70 to 79,7
 Auckland,2022-08-13,80 to 89,9
@@ -2806,23 +2806,32 @@ Auckland,2022-08-13,90+,2
 Auckland,2022-08-14,0 to 9,34
 Auckland,2022-08-14,10 to 19,40
 Auckland,2022-08-14,20 to 29,42
-Auckland,2022-08-14,30 to 39,82
+Auckland,2022-08-14,30 to 39,81
 Auckland,2022-08-14,40 to 49,56
 Auckland,2022-08-14,50 to 59,40
 Auckland,2022-08-14,60 to 69,32
 Auckland,2022-08-14,70 to 79,14
 Auckland,2022-08-14,80 to 89,8
 Auckland,2022-08-14,90+,5
-Auckland,2022-08-15,0 to 9,30
-Auckland,2022-08-15,10 to 19,60
-Auckland,2022-08-15,20 to 29,85
+Auckland,2022-08-15,0 to 9,29
+Auckland,2022-08-15,10 to 19,61
+Auckland,2022-08-15,20 to 29,83
 Auckland,2022-08-15,30 to 39,111
 Auckland,2022-08-15,40 to 49,73
-Auckland,2022-08-15,50 to 59,69
+Auckland,2022-08-15,50 to 59,68
 Auckland,2022-08-15,60 to 69,48
-Auckland,2022-08-15,70 to 79,22
+Auckland,2022-08-15,70 to 79,23
 Auckland,2022-08-15,80 to 89,13
 Auckland,2022-08-15,90+,4
+Auckland,2022-08-16,0 to 9,33
+Auckland,2022-08-16,10 to 19,61
+Auckland,2022-08-16,20 to 29,95
+Auckland,2022-08-16,30 to 39,119
+Auckland,2022-08-16,40 to 49,67
+Auckland,2022-08-16,50 to 59,61
+Auckland,2022-08-16,60 to 69,38
+Auckland,2022-08-16,70 to 79,19
+Auckland,2022-08-16,80 to 89,6
 Bay of Plenty,2020-03-24,20 to 29,1
 Bay of Plenty,2020-03-24,30 to 39,1
 Bay of Plenty,2020-03-24,40 to 49,1
@@ -4890,14 +4899,24 @@ Bay of Plenty,2022-08-14,80 to 89,4
 Bay of Plenty,2022-08-14,90+,1
 Bay of Plenty,2022-08-15,0 to 9,14
 Bay of Plenty,2022-08-15,10 to 19,25
-Bay of Plenty,2022-08-15,20 to 29,27
+Bay of Plenty,2022-08-15,20 to 29,26
 Bay of Plenty,2022-08-15,30 to 39,24
 Bay of Plenty,2022-08-15,40 to 49,29
 Bay of Plenty,2022-08-15,50 to 59,34
 Bay of Plenty,2022-08-15,60 to 69,34
-Bay of Plenty,2022-08-15,70 to 79,15
+Bay of Plenty,2022-08-15,70 to 79,14
 Bay of Plenty,2022-08-15,80 to 89,9
 Bay of Plenty,2022-08-15,90+,6
+Bay of Plenty,2022-08-16,0 to 9,9
+Bay of Plenty,2022-08-16,10 to 19,20
+Bay of Plenty,2022-08-16,20 to 29,28
+Bay of Plenty,2022-08-16,30 to 39,25
+Bay of Plenty,2022-08-16,40 to 49,24
+Bay of Plenty,2022-08-16,50 to 59,30
+Bay of Plenty,2022-08-16,60 to 69,21
+Bay of Plenty,2022-08-16,70 to 79,26
+Bay of Plenty,2022-08-16,80 to 89,13
+Bay of Plenty,2022-08-16,90+,2
 Canterbury/West Coast,2020-03-21,60 to 69,2
 Canterbury/West Coast,2020-03-22,10 to 19,1
 Canterbury/West Coast,2020-03-22,60 to 69,1
@@ -6762,10 +6781,10 @@ Canterbury/West Coast,2022-08-10,80 to 89,33
 Canterbury/West Coast,2022-08-10,90+,5
 Canterbury/West Coast,2022-08-11,0 to 9,38
 Canterbury/West Coast,2022-08-11,10 to 19,59
-Canterbury/West Coast,2022-08-11,20 to 29,96
+Canterbury/West Coast,2022-08-11,20 to 29,97
 Canterbury/West Coast,2022-08-11,30 to 39,70
 Canterbury/West Coast,2022-08-11,40 to 49,74
-Canterbury/West Coast,2022-08-11,50 to 59,69
+Canterbury/West Coast,2022-08-11,50 to 59,68
 Canterbury/West Coast,2022-08-11,60 to 69,46
 Canterbury/West Coast,2022-08-11,70 to 79,47
 Canterbury/West Coast,2022-08-11,80 to 89,15
@@ -6782,7 +6801,7 @@ Canterbury/West Coast,2022-08-12,80 to 89,12
 Canterbury/West Coast,2022-08-12,90+,8
 Canterbury/West Coast,2022-08-13,0 to 9,25
 Canterbury/West Coast,2022-08-13,10 to 19,29
-Canterbury/West Coast,2022-08-13,20 to 29,49
+Canterbury/West Coast,2022-08-13,20 to 29,46
 Canterbury/West Coast,2022-08-13,30 to 39,55
 Canterbury/West Coast,2022-08-13,40 to 49,45
 Canterbury/West Coast,2022-08-13,50 to 59,45
@@ -6810,6 +6829,16 @@ Canterbury/West Coast,2022-08-15,60 to 69,55
 Canterbury/West Coast,2022-08-15,70 to 79,48
 Canterbury/West Coast,2022-08-15,80 to 89,28
 Canterbury/West Coast,2022-08-15,90+,4
+Canterbury/West Coast,2022-08-16,0 to 9,27
+Canterbury/West Coast,2022-08-16,10 to 19,35
+Canterbury/West Coast,2022-08-16,20 to 29,92
+Canterbury/West Coast,2022-08-16,30 to 39,107
+Canterbury/West Coast,2022-08-16,40 to 49,93
+Canterbury/West Coast,2022-08-16,50 to 59,93
+Canterbury/West Coast,2022-08-16,60 to 69,75
+Canterbury/West Coast,2022-08-16,70 to 79,26
+Canterbury/West Coast,2022-08-16,80 to 89,22
+Canterbury/West Coast,2022-08-16,90+,6
 Capital & Coast/Hutt,2020-03-21,60 to 69,1
 Capital & Coast/Hutt,2020-03-22,20 to 29,1
 Capital & Coast/Hutt,2020-03-22,40 to 49,1
@@ -8706,7 +8735,7 @@ Capital & Coast/Hutt,2022-08-14,80 to 89,2
 Capital & Coast/Hutt,2022-08-14,90+,1
 Capital & Coast/Hutt,2022-08-15,0 to 9,22
 Capital & Coast/Hutt,2022-08-15,10 to 19,50
-Capital & Coast/Hutt,2022-08-15,20 to 29,54
+Capital & Coast/Hutt,2022-08-15,20 to 29,53
 Capital & Coast/Hutt,2022-08-15,30 to 39,54
 Capital & Coast/Hutt,2022-08-15,40 to 49,55
 Capital & Coast/Hutt,2022-08-15,50 to 59,57
@@ -8714,6 +8743,16 @@ Capital & Coast/Hutt,2022-08-15,60 to 69,34
 Capital & Coast/Hutt,2022-08-15,70 to 79,26
 Capital & Coast/Hutt,2022-08-15,80 to 89,7
 Capital & Coast/Hutt,2022-08-15,90+,3
+Capital & Coast/Hutt,2022-08-16,0 to 9,11
+Capital & Coast/Hutt,2022-08-16,10 to 19,26
+Capital & Coast/Hutt,2022-08-16,20 to 29,58
+Capital & Coast/Hutt,2022-08-16,30 to 39,63
+Capital & Coast/Hutt,2022-08-16,40 to 49,66
+Capital & Coast/Hutt,2022-08-16,50 to 59,52
+Capital & Coast/Hutt,2022-08-16,60 to 69,33
+Capital & Coast/Hutt,2022-08-16,70 to 79,22
+Capital & Coast/Hutt,2022-08-16,80 to 89,6
+Capital & Coast/Hutt,2022-08-16,90+,4
 Counties Manukau,2020-03-04,40 to 49,1
 Counties Manukau,2020-03-06,40 to 49,1
 Counties Manukau,2020-03-19,40 to 49,1
@@ -11144,7 +11183,7 @@ Counties Manukau,2022-06-13,80 to 89,7
 Counties Manukau,2022-06-13,90+,2
 Counties Manukau,2022-06-14,0 to 9,40
 Counties Manukau,2022-06-14,10 to 19,63
-Counties Manukau,2022-06-14,20 to 29,86
+Counties Manukau,2022-06-14,20 to 29,85
 Counties Manukau,2022-06-14,30 to 39,72
 Counties Manukau,2022-06-14,40 to 49,87
 Counties Manukau,2022-06-14,50 to 59,50
@@ -11734,10 +11773,10 @@ Counties Manukau,2022-08-12,80 to 89,10
 Counties Manukau,2022-08-12,90+,2
 Counties Manukau,2022-08-13,0 to 9,29
 Counties Manukau,2022-08-13,10 to 19,41
-Counties Manukau,2022-08-13,20 to 29,39
+Counties Manukau,2022-08-13,20 to 29,41
 Counties Manukau,2022-08-13,30 to 39,50
 Counties Manukau,2022-08-13,40 to 49,55
-Counties Manukau,2022-08-13,50 to 59,49
+Counties Manukau,2022-08-13,50 to 59,50
 Counties Manukau,2022-08-13,60 to 69,21
 Counties Manukau,2022-08-13,70 to 79,10
 Counties Manukau,2022-08-13,80 to 89,6
@@ -11753,15 +11792,25 @@ Counties Manukau,2022-08-14,70 to 79,15
 Counties Manukau,2022-08-14,80 to 89,3
 Counties Manukau,2022-08-14,90+,3
 Counties Manukau,2022-08-15,0 to 9,55
-Counties Manukau,2022-08-15,10 to 19,77
-Counties Manukau,2022-08-15,20 to 29,77
+Counties Manukau,2022-08-15,10 to 19,76
+Counties Manukau,2022-08-15,20 to 29,80
 Counties Manukau,2022-08-15,30 to 39,101
 Counties Manukau,2022-08-15,40 to 49,88
-Counties Manukau,2022-08-15,50 to 59,81
+Counties Manukau,2022-08-15,50 to 59,82
 Counties Manukau,2022-08-15,60 to 69,47
 Counties Manukau,2022-08-15,70 to 79,27
 Counties Manukau,2022-08-15,80 to 89,10
 Counties Manukau,2022-08-15,90+,1
+Counties Manukau,2022-08-16,0 to 9,51
+Counties Manukau,2022-08-16,10 to 19,87
+Counties Manukau,2022-08-16,20 to 29,86
+Counties Manukau,2022-08-16,30 to 39,100
+Counties Manukau,2022-08-16,40 to 49,77
+Counties Manukau,2022-08-16,50 to 59,81
+Counties Manukau,2022-08-16,60 to 69,53
+Counties Manukau,2022-08-16,70 to 79,24
+Counties Manukau,2022-08-16,80 to 89,14
+Counties Manukau,2022-08-16,90+,4
 Hawke's Bay,2020-03-25,50 to 59,1
 Hawke's Bay,2020-03-26,70 to 79,1
 Hawke's Bay,2020-03-28,70 to 79,1
@@ -13533,7 +13582,7 @@ Hawke's Bay,2022-08-13,10 to 19,7
 Hawke's Bay,2022-08-13,20 to 29,10
 Hawke's Bay,2022-08-13,30 to 39,11
 Hawke's Bay,2022-08-13,40 to 49,9
-Hawke's Bay,2022-08-13,50 to 59,12
+Hawke's Bay,2022-08-13,50 to 59,11
 Hawke's Bay,2022-08-13,60 to 69,7
 Hawke's Bay,2022-08-13,70 to 79,3
 Hawke's Bay,2022-08-13,80 to 89,2
@@ -13548,14 +13597,23 @@ Hawke's Bay,2022-08-14,70 to 79,3
 Hawke's Bay,2022-08-14,80 to 89,1
 Hawke's Bay,2022-08-15,0 to 9,10
 Hawke's Bay,2022-08-15,10 to 19,12
-Hawke's Bay,2022-08-15,20 to 29,20
+Hawke's Bay,2022-08-15,20 to 29,21
 Hawke's Bay,2022-08-15,30 to 39,7
 Hawke's Bay,2022-08-15,40 to 49,16
 Hawke's Bay,2022-08-15,50 to 59,16
 Hawke's Bay,2022-08-15,60 to 69,9
 Hawke's Bay,2022-08-15,70 to 79,9
-Hawke's Bay,2022-08-15,80 to 89,14
+Hawke's Bay,2022-08-15,80 to 89,15
 Hawke's Bay,2022-08-15,90+,5
+Hawke's Bay,2022-08-16,0 to 9,6
+Hawke's Bay,2022-08-16,10 to 19,9
+Hawke's Bay,2022-08-16,20 to 29,14
+Hawke's Bay,2022-08-16,30 to 39,19
+Hawke's Bay,2022-08-16,40 to 49,18
+Hawke's Bay,2022-08-16,50 to 59,18
+Hawke's Bay,2022-08-16,60 to 69,15
+Hawke's Bay,2022-08-16,70 to 79,8
+Hawke's Bay,2022-08-16,80 to 89,1
 Lakes,2020-03-30,30 to 39,2
 Lakes,2020-04-04,50 to 59,1
 Lakes,2020-04-17,40 to 49,1
@@ -15426,6 +15484,15 @@ Lakes,2022-08-15,50 to 59,14
 Lakes,2022-08-15,60 to 69,9
 Lakes,2022-08-15,70 to 79,3
 Lakes,2022-08-15,80 to 89,5
+Lakes,2022-08-16,0 to 9,6
+Lakes,2022-08-16,10 to 19,6
+Lakes,2022-08-16,20 to 29,18
+Lakes,2022-08-16,30 to 39,15
+Lakes,2022-08-16,40 to 49,10
+Lakes,2022-08-16,50 to 59,12
+Lakes,2022-08-16,60 to 69,8
+Lakes,2022-08-16,70 to 79,5
+Lakes,2022-08-16,80 to 89,2
 Managed Isolation & Quarantine,2020-02-26,60 to 69,1
 Managed Isolation & Quarantine,2020-03-02,30 to 39,1
 Managed Isolation & Quarantine,2020-03-04,40 to 49,1
@@ -16609,7 +16676,7 @@ Managed Isolation & Quarantine,2021-11-28,20 to 29,1
 Managed Isolation & Quarantine,2021-11-28,40 to 49,1
 Managed Isolation & Quarantine,2021-11-28,50 to 59,1
 Managed Isolation & Quarantine,2021-11-29,20 to 29,2
-Managed Isolation & Quarantine,2021-11-29,40 to 49,2
+Managed Isolation & Quarantine,2021-11-29,40 to 49,1
 Managed Isolation & Quarantine,2021-11-30,20 to 29,1
 Managed Isolation & Quarantine,2021-12-01,10 to 19,1
 Managed Isolation & Quarantine,2021-12-01,30 to 39,1
@@ -17862,7 +17929,7 @@ Managed Isolation & Quarantine,2022-06-13,70 to 79,6
 Managed Isolation & Quarantine,2022-06-13,80 to 89,1
 Managed Isolation & Quarantine,2022-06-14,0 to 9,2
 Managed Isolation & Quarantine,2022-06-14,10 to 19,1
-Managed Isolation & Quarantine,2022-06-14,20 to 29,13
+Managed Isolation & Quarantine,2022-06-14,20 to 29,14
 Managed Isolation & Quarantine,2022-06-14,30 to 39,12
 Managed Isolation & Quarantine,2022-06-14,40 to 49,8
 Managed Isolation & Quarantine,2022-06-14,50 to 59,18
@@ -18197,7 +18264,7 @@ Managed Isolation & Quarantine,2022-07-21,20 to 29,36
 Managed Isolation & Quarantine,2022-07-21,30 to 39,62
 Managed Isolation & Quarantine,2022-07-21,40 to 49,65
 Managed Isolation & Quarantine,2022-07-21,50 to 59,74
-Managed Isolation & Quarantine,2022-07-21,60 to 69,57
+Managed Isolation & Quarantine,2022-07-21,60 to 69,58
 Managed Isolation & Quarantine,2022-07-21,70 to 79,27
 Managed Isolation & Quarantine,2022-07-21,80 to 89,1
 Managed Isolation & Quarantine,2022-07-22,0 to 9,16
@@ -18219,7 +18286,7 @@ Managed Isolation & Quarantine,2022-07-23,60 to 69,63
 Managed Isolation & Quarantine,2022-07-23,70 to 79,23
 Managed Isolation & Quarantine,2022-07-23,80 to 89,2
 Managed Isolation & Quarantine,2022-07-24,0 to 9,20
-Managed Isolation & Quarantine,2022-07-24,10 to 19,47
+Managed Isolation & Quarantine,2022-07-24,10 to 19,48
 Managed Isolation & Quarantine,2022-07-24,20 to 29,29
 Managed Isolation & Quarantine,2022-07-24,30 to 39,64
 Managed Isolation & Quarantine,2022-07-24,40 to 49,67
@@ -18366,7 +18433,7 @@ Managed Isolation & Quarantine,2022-08-09,10 to 19,10
 Managed Isolation & Quarantine,2022-08-09,20 to 29,21
 Managed Isolation & Quarantine,2022-08-09,30 to 39,46
 Managed Isolation & Quarantine,2022-08-09,40 to 49,32
-Managed Isolation & Quarantine,2022-08-09,50 to 59,44
+Managed Isolation & Quarantine,2022-08-09,50 to 59,45
 Managed Isolation & Quarantine,2022-08-09,60 to 69,36
 Managed Isolation & Quarantine,2022-08-09,70 to 79,27
 Managed Isolation & Quarantine,2022-08-09,80 to 89,4
@@ -18385,7 +18452,7 @@ Managed Isolation & Quarantine,2022-08-11,10 to 19,5
 Managed Isolation & Quarantine,2022-08-11,20 to 29,7
 Managed Isolation & Quarantine,2022-08-11,30 to 39,27
 Managed Isolation & Quarantine,2022-08-11,40 to 49,22
-Managed Isolation & Quarantine,2022-08-11,50 to 59,38
+Managed Isolation & Quarantine,2022-08-11,50 to 59,37
 Managed Isolation & Quarantine,2022-08-11,60 to 69,32
 Managed Isolation & Quarantine,2022-08-11,70 to 79,16
 Managed Isolation & Quarantine,2022-08-11,80 to 89,4
@@ -18393,7 +18460,7 @@ Managed Isolation & Quarantine,2022-08-12,0 to 9,4
 Managed Isolation & Quarantine,2022-08-12,10 to 19,1
 Managed Isolation & Quarantine,2022-08-12,20 to 29,13
 Managed Isolation & Quarantine,2022-08-12,30 to 39,17
-Managed Isolation & Quarantine,2022-08-12,40 to 49,19
+Managed Isolation & Quarantine,2022-08-12,40 to 49,18
 Managed Isolation & Quarantine,2022-08-12,50 to 59,15
 Managed Isolation & Quarantine,2022-08-12,60 to 69,12
 Managed Isolation & Quarantine,2022-08-12,70 to 79,9
@@ -18403,7 +18470,7 @@ Managed Isolation & Quarantine,2022-08-13,10 to 19,4
 Managed Isolation & Quarantine,2022-08-13,20 to 29,17
 Managed Isolation & Quarantine,2022-08-13,30 to 39,22
 Managed Isolation & Quarantine,2022-08-13,40 to 49,17
-Managed Isolation & Quarantine,2022-08-13,50 to 59,41
+Managed Isolation & Quarantine,2022-08-13,50 to 59,40
 Managed Isolation & Quarantine,2022-08-13,60 to 69,23
 Managed Isolation & Quarantine,2022-08-13,70 to 79,20
 Managed Isolation & Quarantine,2022-08-13,80 to 89,2
@@ -18421,10 +18488,18 @@ Managed Isolation & Quarantine,2022-08-15,10 to 19,12
 Managed Isolation & Quarantine,2022-08-15,20 to 29,20
 Managed Isolation & Quarantine,2022-08-15,30 to 39,31
 Managed Isolation & Quarantine,2022-08-15,40 to 49,34
-Managed Isolation & Quarantine,2022-08-15,50 to 59,29
+Managed Isolation & Quarantine,2022-08-15,50 to 59,30
 Managed Isolation & Quarantine,2022-08-15,60 to 69,18
 Managed Isolation & Quarantine,2022-08-15,70 to 79,11
 Managed Isolation & Quarantine,2022-08-15,80 to 89,1
+Managed Isolation & Quarantine,2022-08-16,0 to 9,6
+Managed Isolation & Quarantine,2022-08-16,10 to 19,5
+Managed Isolation & Quarantine,2022-08-16,20 to 29,20
+Managed Isolation & Quarantine,2022-08-16,30 to 39,34
+Managed Isolation & Quarantine,2022-08-16,40 to 49,43
+Managed Isolation & Quarantine,2022-08-16,50 to 59,34
+Managed Isolation & Quarantine,2022-08-16,60 to 69,26
+Managed Isolation & Quarantine,2022-08-16,70 to 79,15
 MidCentral,2020-03-19,30 to 39,1
 MidCentral,2020-03-19,40 to 49,1
 MidCentral,2020-03-25,20 to 29,1
@@ -20179,7 +20254,7 @@ MidCentral,2022-08-13,10 to 19,16
 MidCentral,2022-08-13,20 to 29,11
 MidCentral,2022-08-13,30 to 39,15
 MidCentral,2022-08-13,40 to 49,19
-MidCentral,2022-08-13,50 to 59,5
+MidCentral,2022-08-13,50 to 59,6
 MidCentral,2022-08-13,60 to 69,14
 MidCentral,2022-08-13,70 to 79,5
 MidCentral,2022-08-13,80 to 89,2
@@ -20204,6 +20279,16 @@ MidCentral,2022-08-15,60 to 69,30
 MidCentral,2022-08-15,70 to 79,11
 MidCentral,2022-08-15,80 to 89,8
 MidCentral,2022-08-15,90+,1
+MidCentral,2022-08-16,0 to 9,16
+MidCentral,2022-08-16,10 to 19,13
+MidCentral,2022-08-16,20 to 29,20
+MidCentral,2022-08-16,30 to 39,33
+MidCentral,2022-08-16,40 to 49,18
+MidCentral,2022-08-16,50 to 59,22
+MidCentral,2022-08-16,60 to 69,23
+MidCentral,2022-08-16,70 to 79,11
+MidCentral,2022-08-16,80 to 89,2
+MidCentral,2022-08-16,90+,2
 Nelson Marlborough,2020-03-20,60 to 69,1
 Nelson Marlborough,2020-03-21,30 to 39,1
 Nelson Marlborough,2020-03-22,50 to 59,1
@@ -22001,6 +22086,16 @@ Nelson Marlborough,2022-08-15,50 to 59,34
 Nelson Marlborough,2022-08-15,60 to 69,10
 Nelson Marlborough,2022-08-15,70 to 79,5
 Nelson Marlborough,2022-08-15,80 to 89,1
+Nelson Marlborough,2022-08-16,0 to 9,5
+Nelson Marlborough,2022-08-16,10 to 19,13
+Nelson Marlborough,2022-08-16,20 to 29,7
+Nelson Marlborough,2022-08-16,30 to 39,17
+Nelson Marlborough,2022-08-16,40 to 49,23
+Nelson Marlborough,2022-08-16,50 to 59,24
+Nelson Marlborough,2022-08-16,60 to 69,20
+Nelson Marlborough,2022-08-16,70 to 79,9
+Nelson Marlborough,2022-08-16,80 to 89,3
+Nelson Marlborough,2022-08-16,90+,1
 Northland,2020-03-31,30 to 39,1
 Northland,2020-04-01,40 to 49,1
 Northland,2020-04-02,50 to 59,1
@@ -22080,6 +22175,7 @@ Northland,2021-11-26,0 to 9,1
 Northland,2021-11-26,10 to 19,1
 Northland,2021-11-27,0 to 9,1
 Northland,2021-11-27,30 to 39,2
+Northland,2021-11-29,40 to 49,1
 Northland,2021-11-30,20 to 29,1
 Northland,2021-12-01,10 to 19,1
 Northland,2021-12-01,30 to 39,1
@@ -23901,7 +23997,7 @@ Northland,2022-08-11,20 to 29,14
 Northland,2022-08-11,30 to 39,15
 Northland,2022-08-11,40 to 49,20
 Northland,2022-08-11,50 to 59,26
-Northland,2022-08-11,60 to 69,16
+Northland,2022-08-11,60 to 69,15
 Northland,2022-08-11,70 to 79,8
 Northland,2022-08-11,80 to 89,4
 Northland,2022-08-11,90+,4
@@ -23911,7 +24007,7 @@ Northland,2022-08-12,20 to 29,14
 Northland,2022-08-12,30 to 39,22
 Northland,2022-08-12,40 to 49,11
 Northland,2022-08-12,50 to 59,24
-Northland,2022-08-12,60 to 69,24
+Northland,2022-08-12,60 to 69,23
 Northland,2022-08-12,70 to 79,6
 Northland,2022-08-12,80 to 89,7
 Northland,2022-08-12,90+,2
@@ -23944,6 +24040,16 @@ Northland,2022-08-15,60 to 69,28
 Northland,2022-08-15,70 to 79,15
 Northland,2022-08-15,80 to 89,2
 Northland,2022-08-15,90+,1
+Northland,2022-08-16,0 to 9,8
+Northland,2022-08-16,10 to 19,12
+Northland,2022-08-16,20 to 29,18
+Northland,2022-08-16,30 to 39,10
+Northland,2022-08-16,40 to 49,26
+Northland,2022-08-16,50 to 59,21
+Northland,2022-08-16,60 to 69,17
+Northland,2022-08-16,70 to 79,10
+Northland,2022-08-16,80 to 89,4
+Northland,2022-08-16,90+,1
 South Canterbury,2020-03-23,20 to 29,1
 South Canterbury,2020-03-27,0 to 9,1
 South Canterbury,2020-03-27,40 to 49,1
@@ -25576,6 +25682,16 @@ South Canterbury,2022-08-15,50 to 59,17
 South Canterbury,2022-08-15,60 to 69,8
 South Canterbury,2022-08-15,70 to 79,8
 South Canterbury,2022-08-15,80 to 89,1
+South Canterbury,2022-08-16,0 to 9,1
+South Canterbury,2022-08-16,10 to 19,2
+South Canterbury,2022-08-16,20 to 29,7
+South Canterbury,2022-08-16,30 to 39,11
+South Canterbury,2022-08-16,40 to 49,4
+South Canterbury,2022-08-16,50 to 59,13
+South Canterbury,2022-08-16,60 to 69,9
+South Canterbury,2022-08-16,70 to 79,2
+South Canterbury,2022-08-16,80 to 89,3
+South Canterbury,2022-08-16,90+,1
 Southern,2020-03-17,10 to 19,1
 Southern,2020-03-17,50 to 59,1
 Southern,2020-03-22,50 to 59,1
@@ -26330,7 +26446,7 @@ Southern,2022-04-26,10 to 19,142
 Southern,2022-04-26,20 to 29,280
 Southern,2022-04-26,30 to 39,222
 Southern,2022-04-26,40 to 49,161
-Southern,2022-04-26,50 to 59,161
+Southern,2022-04-26,50 to 59,160
 Southern,2022-04-26,60 to 69,115
 Southern,2022-04-26,70 to 79,59
 Southern,2022-04-26,80 to 89,30
@@ -27247,7 +27363,7 @@ Southern,2022-07-27,50 to 59,95
 Southern,2022-07-27,60 to 69,82
 Southern,2022-07-27,70 to 79,53
 Southern,2022-07-27,80 to 89,32
-Southern,2022-07-27,90+,13
+Southern,2022-07-27,90+,12
 Southern,2022-07-28,0 to 9,37
 Southern,2022-07-28,10 to 19,59
 Southern,2022-07-28,20 to 29,88
@@ -27429,14 +27545,24 @@ Southern,2022-08-14,80 to 89,6
 Southern,2022-08-14,90+,1
 Southern,2022-08-15,0 to 9,27
 Southern,2022-08-15,10 to 19,41
-Southern,2022-08-15,20 to 29,42
+Southern,2022-08-15,20 to 29,43
 Southern,2022-08-15,30 to 39,56
 Southern,2022-08-15,40 to 49,43
-Southern,2022-08-15,50 to 59,47
-Southern,2022-08-15,60 to 69,36
-Southern,2022-08-15,70 to 79,23
+Southern,2022-08-15,50 to 59,48
+Southern,2022-08-15,60 to 69,37
+Southern,2022-08-15,70 to 79,24
 Southern,2022-08-15,80 to 89,7
 Southern,2022-08-15,90+,4
+Southern,2022-08-16,0 to 9,14
+Southern,2022-08-16,10 to 19,24
+Southern,2022-08-16,20 to 29,45
+Southern,2022-08-16,30 to 39,38
+Southern,2022-08-16,40 to 49,31
+Southern,2022-08-16,50 to 59,40
+Southern,2022-08-16,60 to 69,44
+Southern,2022-08-16,70 to 79,9
+Southern,2022-08-16,80 to 89,18
+Southern,2022-08-16,90+,4
 Tairawhiti,2020-04-14,40 to 49,1
 Tairawhiti,2020-04-14,50 to 59,1
 Tairawhiti,2021-12-24,20 to 29,2
@@ -29030,14 +29156,22 @@ Tairawhiti,2022-08-14,60 to 69,5
 Tairawhiti,2022-08-14,70 to 79,2
 Tairawhiti,2022-08-14,80 to 89,1
 Tairawhiti,2022-08-15,0 to 9,3
-Tairawhiti,2022-08-15,10 to 19,4
+Tairawhiti,2022-08-15,10 to 19,5
 Tairawhiti,2022-08-15,20 to 29,11
 Tairawhiti,2022-08-15,30 to 39,2
-Tairawhiti,2022-08-15,40 to 49,11
+Tairawhiti,2022-08-15,40 to 49,12
 Tairawhiti,2022-08-15,50 to 59,9
 Tairawhiti,2022-08-15,60 to 69,4
 Tairawhiti,2022-08-15,70 to 79,1
 Tairawhiti,2022-08-15,80 to 89,2
+Tairawhiti,2022-08-16,0 to 9,3
+Tairawhiti,2022-08-16,10 to 19,5
+Tairawhiti,2022-08-16,20 to 29,2
+Tairawhiti,2022-08-16,30 to 39,6
+Tairawhiti,2022-08-16,40 to 49,7
+Tairawhiti,2022-08-16,50 to 59,7
+Tairawhiti,2022-08-16,60 to 69,6
+Tairawhiti,2022-08-16,70 to 79,4
 Taranaki,2020-03-26,50 to 59,1
 Taranaki,2020-04-26,50 to 59,1
 Taranaki,2021-11-11,0 to 9,3
@@ -30781,7 +30915,7 @@ Taranaki,2022-08-14,60 to 69,13
 Taranaki,2022-08-14,70 to 79,8
 Taranaki,2022-08-14,80 to 89,3
 Taranaki,2022-08-15,0 to 9,9
-Taranaki,2022-08-15,10 to 19,14
+Taranaki,2022-08-15,10 to 19,13
 Taranaki,2022-08-15,20 to 29,15
 Taranaki,2022-08-15,30 to 39,15
 Taranaki,2022-08-15,40 to 49,20
@@ -30790,6 +30924,16 @@ Taranaki,2022-08-15,60 to 69,18
 Taranaki,2022-08-15,70 to 79,9
 Taranaki,2022-08-15,80 to 89,1
 Taranaki,2022-08-15,90+,3
+Taranaki,2022-08-16,0 to 9,11
+Taranaki,2022-08-16,10 to 19,12
+Taranaki,2022-08-16,20 to 29,21
+Taranaki,2022-08-16,30 to 39,19
+Taranaki,2022-08-16,40 to 49,25
+Taranaki,2022-08-16,50 to 59,21
+Taranaki,2022-08-16,60 to 69,16
+Taranaki,2022-08-16,70 to 79,6
+Taranaki,2022-08-16,80 to 89,10
+Taranaki,2022-08-16,90+,1
 Unknown,2022-02-02,40 to 49,1
 Unknown,2022-02-15,20 to 29,2
 Unknown,2022-02-18,20 to 29,1
@@ -31271,7 +31415,6 @@ Unknown,2022-07-23,20 to 29,3
 Unknown,2022-07-23,40 to 49,1
 Unknown,2022-07-23,60 to 69,2
 Unknown,2022-07-24,0 to 9,1
-Unknown,2022-07-24,10 to 19,1
 Unknown,2022-07-24,20 to 29,2
 Unknown,2022-07-24,30 to 39,2
 Unknown,2022-07-24,40 to 49,2
@@ -31347,6 +31490,9 @@ Unknown,2022-08-14,30 to 39,1
 Unknown,2022-08-14,Unknown,1
 Unknown,2022-08-15,60 to 69,1
 Unknown,2022-08-15,80 to 89,1
+Unknown,2022-08-16,20 to 29,1
+Unknown,2022-08-16,60 to 69,2
+Unknown,2022-08-16,Unknown,1
 Waikato,2020-03-21,40 to 49,1
 Waikato,2020-03-22,70 to 79,1
 Waikato,2020-03-23,50 to 59,1
@@ -32803,7 +32949,7 @@ Waikato,2022-05-13,0 to 9,48
 Waikato,2022-05-13,10 to 19,82
 Waikato,2022-05-13,20 to 29,75
 Waikato,2022-05-13,30 to 39,69
-Waikato,2022-05-13,40 to 49,88
+Waikato,2022-05-13,40 to 49,87
 Waikato,2022-05-13,50 to 59,72
 Waikato,2022-05-13,60 to 69,47
 Waikato,2022-05-13,70 to 79,26
@@ -33700,7 +33846,7 @@ Waikato,2022-08-11,0 to 9,31
 Waikato,2022-08-11,10 to 19,43
 Waikato,2022-08-11,20 to 29,41
 Waikato,2022-08-11,30 to 39,58
-Waikato,2022-08-11,40 to 49,50
+Waikato,2022-08-11,40 to 49,49
 Waikato,2022-08-11,50 to 59,49
 Waikato,2022-08-11,60 to 69,40
 Waikato,2022-08-11,70 to 79,23
@@ -33745,6 +33891,16 @@ Waikato,2022-08-15,60 to 69,47
 Waikato,2022-08-15,70 to 79,26
 Waikato,2022-08-15,80 to 89,15
 Waikato,2022-08-15,90+,4
+Waikato,2022-08-16,0 to 9,33
+Waikato,2022-08-16,10 to 19,29
+Waikato,2022-08-16,20 to 29,62
+Waikato,2022-08-16,30 to 39,71
+Waikato,2022-08-16,40 to 49,64
+Waikato,2022-08-16,50 to 59,71
+Waikato,2022-08-16,60 to 69,46
+Waikato,2022-08-16,70 to 79,29
+Waikato,2022-08-16,80 to 89,14
+Waikato,2022-08-16,90+,3
 Wairarapa,2020-03-19,30 to 39,1
 Wairarapa,2020-03-24,50 to 59,1
 Wairarapa,2020-04-02,40 to 49,1
@@ -35316,7 +35472,7 @@ Wairarapa,2022-08-11,0 to 9,4
 Wairarapa,2022-08-11,10 to 19,5
 Wairarapa,2022-08-11,20 to 29,10
 Wairarapa,2022-08-11,30 to 39,4
-Wairarapa,2022-08-11,40 to 49,11
+Wairarapa,2022-08-11,40 to 49,12
 Wairarapa,2022-08-11,50 to 59,8
 Wairarapa,2022-08-11,60 to 69,8
 Wairarapa,2022-08-11,70 to 79,3
@@ -35357,6 +35513,15 @@ Wairarapa,2022-08-15,40 to 49,5
 Wairarapa,2022-08-15,50 to 59,9
 Wairarapa,2022-08-15,60 to 69,8
 Wairarapa,2022-08-15,70 to 79,4
+Wairarapa,2022-08-16,0 to 9,4
+Wairarapa,2022-08-16,10 to 19,5
+Wairarapa,2022-08-16,30 to 39,6
+Wairarapa,2022-08-16,40 to 49,2
+Wairarapa,2022-08-16,50 to 59,6
+Wairarapa,2022-08-16,60 to 69,7
+Wairarapa,2022-08-16,70 to 79,8
+Wairarapa,2022-08-16,80 to 89,8
+Wairarapa,2022-08-16,90+,6
 Waitemata,2020-03-20,70 to 79,1
 Waitemata,2020-03-21,60 to 69,1
 Waitemata,2020-03-22,40 to 49,1
@@ -37964,7 +38129,7 @@ Waitemata,2022-07-26,10 to 19,110
 Waitemata,2022-07-26,20 to 29,174
 Waitemata,2022-07-26,30 to 39,187
 Waitemata,2022-07-26,40 to 49,153
-Waitemata,2022-07-26,50 to 59,167
+Waitemata,2022-07-26,50 to 59,166
 Waitemata,2022-07-26,60 to 69,98
 Waitemata,2022-07-26,70 to 79,80
 Waitemata,2022-07-26,80 to 89,33
@@ -38124,7 +38289,7 @@ Waitemata,2022-08-11,20 to 29,79
 Waitemata,2022-08-11,30 to 39,106
 Waitemata,2022-08-11,40 to 49,119
 Waitemata,2022-08-11,50 to 59,94
-Waitemata,2022-08-11,60 to 69,53
+Waitemata,2022-08-11,60 to 69,54
 Waitemata,2022-08-11,70 to 79,29
 Waitemata,2022-08-11,80 to 89,14
 Waitemata,2022-08-11,90+,4
@@ -38139,7 +38304,7 @@ Waitemata,2022-08-12,70 to 79,32
 Waitemata,2022-08-12,80 to 89,8
 Waitemata,2022-08-12,90+,7
 Waitemata,2022-08-13,0 to 9,48
-Waitemata,2022-08-13,10 to 19,38
+Waitemata,2022-08-13,10 to 19,37
 Waitemata,2022-08-13,20 to 29,69
 Waitemata,2022-08-13,30 to 39,78
 Waitemata,2022-08-13,40 to 49,71
@@ -38158,16 +38323,26 @@ Waitemata,2022-08-14,60 to 69,48
 Waitemata,2022-08-14,70 to 79,22
 Waitemata,2022-08-14,80 to 89,6
 Waitemata,2022-08-14,90+,1
-Waitemata,2022-08-15,0 to 9,62
+Waitemata,2022-08-15,0 to 9,63
 Waitemata,2022-08-15,10 to 19,79
-Waitemata,2022-08-15,20 to 29,89
+Waitemata,2022-08-15,20 to 29,91
 Waitemata,2022-08-15,30 to 39,146
 Waitemata,2022-08-15,40 to 49,128
-Waitemata,2022-08-15,50 to 59,106
+Waitemata,2022-08-15,50 to 59,105
 Waitemata,2022-08-15,60 to 69,55
 Waitemata,2022-08-15,70 to 79,36
 Waitemata,2022-08-15,80 to 89,21
 Waitemata,2022-08-15,90+,4
+Waitemata,2022-08-16,0 to 9,60
+Waitemata,2022-08-16,10 to 19,72
+Waitemata,2022-08-16,20 to 29,87
+Waitemata,2022-08-16,30 to 39,132
+Waitemata,2022-08-16,40 to 49,106
+Waitemata,2022-08-16,50 to 59,83
+Waitemata,2022-08-16,60 to 69,60
+Waitemata,2022-08-16,70 to 79,28
+Waitemata,2022-08-16,80 to 89,20
+Waitemata,2022-08-16,90+,2
 Whanganui,2020-04-17,20 to 29,1
 Whanganui,2020-04-19,20 to 29,1
 Whanganui,2021-12-04,30 to 39,1
@@ -39809,3 +39984,13 @@ Whanganui,2022-08-15,60 to 69,8
 Whanganui,2022-08-15,70 to 79,4
 Whanganui,2022-08-15,80 to 89,1
 Whanganui,2022-08-15,90+,1
+Whanganui,2022-08-16,0 to 9,3
+Whanganui,2022-08-16,10 to 19,2
+Whanganui,2022-08-16,20 to 29,9
+Whanganui,2022-08-16,30 to 39,7
+Whanganui,2022-08-16,40 to 49,11
+Whanganui,2022-08-16,50 to 59,9
+Whanganui,2022-08-16,60 to 69,9
+Whanganui,2022-08-16,70 to 79,6
+Whanganui,2022-08-16,80 to 89,3
+Whanganui,2022-08-16,90+,1
