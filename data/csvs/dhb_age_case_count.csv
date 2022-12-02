@@ -1133,7 +1133,7 @@ Auckland,2022-02-24,70 to 79,11
 Auckland,2022-02-24,80 to 89,3
 Auckland,2022-02-24,90+,1
 Auckland,2022-02-25,0 to 9,324
-Auckland,2022-02-25,10 to 19,858
+Auckland,2022-02-25,10 to 19,859
 Auckland,2022-02-25,20 to 29,1501
 Auckland,2022-02-25,30 to 39,1012
 Auckland,2022-02-25,40 to 49,541
@@ -3857,16 +3857,26 @@ Auckland,2022-11-30,60 to 69,55
 Auckland,2022-11-30,70 to 79,42
 Auckland,2022-11-30,80 to 89,19
 Auckland,2022-11-30,90+,2
-Auckland,2022-12-01,0 to 9,19
+Auckland,2022-12-01,0 to 9,20
 Auckland,2022-12-01,10 to 19,42
 Auckland,2022-12-01,20 to 29,106
 Auckland,2022-12-01,30 to 39,113
 Auckland,2022-12-01,40 to 49,66
 Auckland,2022-12-01,50 to 59,69
 Auckland,2022-12-01,60 to 69,62
-Auckland,2022-12-01,70 to 79,27
+Auckland,2022-12-01,70 to 79,28
 Auckland,2022-12-01,80 to 89,10
-Auckland,2022-12-01,90+,3
+Auckland,2022-12-01,90+,2
+Auckland,2022-12-02,0 to 9,26
+Auckland,2022-12-02,10 to 19,28
+Auckland,2022-12-02,20 to 29,77
+Auckland,2022-12-02,30 to 39,88
+Auckland,2022-12-02,40 to 49,58
+Auckland,2022-12-02,50 to 59,53
+Auckland,2022-12-02,60 to 69,47
+Auckland,2022-12-02,70 to 79,32
+Auckland,2022-12-02,80 to 89,14
+Auckland,2022-12-02,90+,4
 Bay of Plenty,2020-03-24,20 to 29,1
 Bay of Plenty,2020-03-24,30 to 39,1
 Bay of Plenty,2020-03-24,40 to 49,1
@@ -6953,6 +6963,15 @@ Bay of Plenty,2022-12-01,50 to 59,15
 Bay of Plenty,2022-12-01,60 to 69,22
 Bay of Plenty,2022-12-01,70 to 79,15
 Bay of Plenty,2022-12-01,80 to 89,6
+Bay of Plenty,2022-12-02,0 to 9,8
+Bay of Plenty,2022-12-02,10 to 19,14
+Bay of Plenty,2022-12-02,20 to 29,27
+Bay of Plenty,2022-12-02,30 to 39,18
+Bay of Plenty,2022-12-02,40 to 49,11
+Bay of Plenty,2022-12-02,50 to 59,23
+Bay of Plenty,2022-12-02,60 to 69,26
+Bay of Plenty,2022-12-02,70 to 79,34
+Bay of Plenty,2022-12-02,80 to 89,9
 Canterbury/West Coast,2020-03-21,60 to 69,2
 Canterbury/West Coast,2020-03-22,10 to 19,1
 Canterbury/West Coast,2020-03-22,60 to 69,1
@@ -9898,7 +9917,7 @@ Canterbury/West Coast,2022-11-28,80 to 89,13
 Canterbury/West Coast,2022-11-28,90+,4
 Canterbury/West Coast,2022-11-29,0 to 9,39
 Canterbury/West Coast,2022-11-29,10 to 19,74
-Canterbury/West Coast,2022-11-29,20 to 29,131
+Canterbury/West Coast,2022-11-29,20 to 29,132
 Canterbury/West Coast,2022-11-29,30 to 39,115
 Canterbury/West Coast,2022-11-29,40 to 49,102
 Canterbury/West Coast,2022-11-29,50 to 59,108
@@ -9925,6 +9944,15 @@ Canterbury/West Coast,2022-12-01,60 to 69,79
 Canterbury/West Coast,2022-12-01,70 to 79,60
 Canterbury/West Coast,2022-12-01,80 to 89,17
 Canterbury/West Coast,2022-12-01,90+,2
+Canterbury/West Coast,2022-12-02,0 to 9,32
+Canterbury/West Coast,2022-12-02,10 to 19,57
+Canterbury/West Coast,2022-12-02,20 to 29,103
+Canterbury/West Coast,2022-12-02,30 to 39,85
+Canterbury/West Coast,2022-12-02,40 to 49,75
+Canterbury/West Coast,2022-12-02,50 to 59,83
+Canterbury/West Coast,2022-12-02,60 to 69,76
+Canterbury/West Coast,2022-12-02,70 to 79,39
+Canterbury/West Coast,2022-12-02,80 to 89,23
 Capital & Coast/Hutt,2020-03-21,60 to 69,1
 Capital & Coast/Hutt,2020-03-22,20 to 29,1
 Capital & Coast/Hutt,2020-03-22,40 to 49,1
@@ -12842,7 +12870,7 @@ Capital & Coast/Hutt,2022-11-28,80 to 89,16
 Capital & Coast/Hutt,2022-11-28,90+,2
 Capital & Coast/Hutt,2022-11-29,0 to 9,34
 Capital & Coast/Hutt,2022-11-29,10 to 19,61
-Capital & Coast/Hutt,2022-11-29,20 to 29,145
+Capital & Coast/Hutt,2022-11-29,20 to 29,144
 Capital & Coast/Hutt,2022-11-29,30 to 39,124
 Capital & Coast/Hutt,2022-11-29,40 to 49,122
 Capital & Coast/Hutt,2022-11-29,50 to 59,99
@@ -12863,12 +12891,22 @@ Capital & Coast/Hutt,2022-11-30,90+,2
 Capital & Coast/Hutt,2022-12-01,0 to 9,27
 Capital & Coast/Hutt,2022-12-01,10 to 19,47
 Capital & Coast/Hutt,2022-12-01,20 to 29,95
-Capital & Coast/Hutt,2022-12-01,30 to 39,107
+Capital & Coast/Hutt,2022-12-01,30 to 39,106
 Capital & Coast/Hutt,2022-12-01,40 to 49,87
 Capital & Coast/Hutt,2022-12-01,50 to 59,83
 Capital & Coast/Hutt,2022-12-01,60 to 69,71
 Capital & Coast/Hutt,2022-12-01,70 to 79,33
 Capital & Coast/Hutt,2022-12-01,80 to 89,20
+Capital & Coast/Hutt,2022-12-02,0 to 9,23
+Capital & Coast/Hutt,2022-12-02,10 to 19,51
+Capital & Coast/Hutt,2022-12-02,20 to 29,93
+Capital & Coast/Hutt,2022-12-02,30 to 39,90
+Capital & Coast/Hutt,2022-12-02,40 to 49,67
+Capital & Coast/Hutt,2022-12-02,50 to 59,73
+Capital & Coast/Hutt,2022-12-02,60 to 69,62
+Capital & Coast/Hutt,2022-12-02,70 to 79,42
+Capital & Coast/Hutt,2022-12-02,80 to 89,11
+Capital & Coast/Hutt,2022-12-02,90+,1
 Counties Manukau,2020-03-04,40 to 49,1
 Counties Manukau,2020-03-06,40 to 49,1
 Counties Manukau,2020-03-19,40 to 49,1
@@ -16927,7 +16965,7 @@ Counties Manukau,2022-11-28,60 to 69,61
 Counties Manukau,2022-11-28,70 to 79,39
 Counties Manukau,2022-11-28,80 to 89,10
 Counties Manukau,2022-11-28,90+,2
-Counties Manukau,2022-11-29,0 to 9,50
+Counties Manukau,2022-11-29,0 to 9,49
 Counties Manukau,2022-11-29,10 to 19,56
 Counties Manukau,2022-11-29,20 to 29,144
 Counties Manukau,2022-11-29,30 to 39,157
@@ -16957,6 +16995,16 @@ Counties Manukau,2022-12-01,60 to 69,63
 Counties Manukau,2022-12-01,70 to 79,39
 Counties Manukau,2022-12-01,80 to 89,13
 Counties Manukau,2022-12-01,90+,1
+Counties Manukau,2022-12-02,0 to 9,37
+Counties Manukau,2022-12-02,10 to 19,67
+Counties Manukau,2022-12-02,20 to 29,104
+Counties Manukau,2022-12-02,30 to 39,127
+Counties Manukau,2022-12-02,40 to 49,97
+Counties Manukau,2022-12-02,50 to 59,73
+Counties Manukau,2022-12-02,60 to 69,63
+Counties Manukau,2022-12-02,70 to 79,46
+Counties Manukau,2022-12-02,80 to 89,16
+Counties Manukau,2022-12-02,90+,4
 Hawke's Bay,2020-03-25,50 to 59,1
 Hawke's Bay,2020-03-26,70 to 79,1
 Hawke's Bay,2020-03-28,70 to 79,1
@@ -19696,6 +19744,15 @@ Hawke's Bay,2022-12-01,60 to 69,24
 Hawke's Bay,2022-12-01,70 to 79,12
 Hawke's Bay,2022-12-01,80 to 89,5
 Hawke's Bay,2022-12-01,90+,3
+Hawke's Bay,2022-12-02,0 to 9,10
+Hawke's Bay,2022-12-02,10 to 19,10
+Hawke's Bay,2022-12-02,20 to 29,20
+Hawke's Bay,2022-12-02,30 to 39,15
+Hawke's Bay,2022-12-02,40 to 49,11
+Hawke's Bay,2022-12-02,50 to 59,20
+Hawke's Bay,2022-12-02,60 to 69,21
+Hawke's Bay,2022-12-02,70 to 79,9
+Hawke's Bay,2022-12-02,80 to 89,5
 Lakes,2020-03-30,30 to 39,2
 Lakes,2020-04-04,50 to 59,1
 Lakes,2020-04-17,40 to 49,1
@@ -22481,6 +22538,16 @@ Lakes,2022-12-01,50 to 59,17
 Lakes,2022-12-01,60 to 69,16
 Lakes,2022-12-01,70 to 79,11
 Lakes,2022-12-01,80 to 89,1
+Lakes,2022-12-02,0 to 9,11
+Lakes,2022-12-02,10 to 19,9
+Lakes,2022-12-02,20 to 29,14
+Lakes,2022-12-02,30 to 39,8
+Lakes,2022-12-02,40 to 49,15
+Lakes,2022-12-02,50 to 59,6
+Lakes,2022-12-02,60 to 69,6
+Lakes,2022-12-02,70 to 79,9
+Lakes,2022-12-02,80 to 89,1
+Lakes,2022-12-02,90+,1
 Managed Isolation & Quarantine,2020-02-26,60 to 69,1
 Managed Isolation & Quarantine,2020-03-02,30 to 39,1
 Managed Isolation & Quarantine,2020-03-04,40 to 49,1
@@ -28566,6 +28633,16 @@ MidCentral,2022-12-01,50 to 59,32
 MidCentral,2022-12-01,60 to 69,31
 MidCentral,2022-12-01,70 to 79,18
 MidCentral,2022-12-01,80 to 89,5
+MidCentral,2022-12-02,0 to 9,19
+MidCentral,2022-12-02,10 to 19,16
+MidCentral,2022-12-02,20 to 29,23
+MidCentral,2022-12-02,30 to 39,39
+MidCentral,2022-12-02,40 to 49,25
+MidCentral,2022-12-02,50 to 59,25
+MidCentral,2022-12-02,60 to 69,32
+MidCentral,2022-12-02,70 to 79,23
+MidCentral,2022-12-02,80 to 89,7
+MidCentral,2022-12-02,90+,1
 Nelson Marlborough,2020-03-20,60 to 69,1
 Nelson Marlborough,2020-03-21,30 to 39,1
 Nelson Marlborough,2020-03-22,50 to 59,1
@@ -31073,7 +31150,7 @@ Nelson Marlborough,2022-10-31,30 to 39,8
 Nelson Marlborough,2022-10-31,40 to 49,10
 Nelson Marlborough,2022-10-31,50 to 59,13
 Nelson Marlborough,2022-10-31,60 to 69,20
-Nelson Marlborough,2022-10-31,70 to 79,12
+Nelson Marlborough,2022-10-31,70 to 79,13
 Nelson Marlborough,2022-10-31,80 to 89,5
 Nelson Marlborough,2022-10-31,90+,2
 Nelson Marlborough,2022-11-01,0 to 9,7
@@ -31352,9 +31429,9 @@ Nelson Marlborough,2022-11-30,0 to 9,10
 Nelson Marlborough,2022-11-30,10 to 19,13
 Nelson Marlborough,2022-11-30,20 to 29,14
 Nelson Marlborough,2022-11-30,30 to 39,22
-Nelson Marlborough,2022-11-30,40 to 49,20
+Nelson Marlborough,2022-11-30,40 to 49,21
 Nelson Marlborough,2022-11-30,50 to 59,23
-Nelson Marlborough,2022-11-30,60 to 69,38
+Nelson Marlborough,2022-11-30,60 to 69,39
 Nelson Marlborough,2022-11-30,70 to 79,20
 Nelson Marlborough,2022-11-30,80 to 89,7
 Nelson Marlborough,2022-11-30,90+,2
@@ -31362,12 +31439,22 @@ Nelson Marlborough,2022-12-01,0 to 9,8
 Nelson Marlborough,2022-12-01,10 to 19,4
 Nelson Marlborough,2022-12-01,20 to 29,16
 Nelson Marlborough,2022-12-01,30 to 39,25
-Nelson Marlborough,2022-12-01,40 to 49,27
+Nelson Marlborough,2022-12-01,40 to 49,26
 Nelson Marlborough,2022-12-01,50 to 59,18
 Nelson Marlborough,2022-12-01,60 to 69,22
-Nelson Marlborough,2022-12-01,70 to 79,10
+Nelson Marlborough,2022-12-01,70 to 79,9
 Nelson Marlborough,2022-12-01,80 to 89,4
 Nelson Marlborough,2022-12-01,90+,2
+Nelson Marlborough,2022-12-02,0 to 9,6
+Nelson Marlborough,2022-12-02,10 to 19,10
+Nelson Marlborough,2022-12-02,20 to 29,21
+Nelson Marlborough,2022-12-02,30 to 39,9
+Nelson Marlborough,2022-12-02,40 to 49,17
+Nelson Marlborough,2022-12-02,50 to 59,20
+Nelson Marlborough,2022-12-02,60 to 69,22
+Nelson Marlborough,2022-12-02,70 to 79,18
+Nelson Marlborough,2022-12-02,80 to 89,7
+Nelson Marlborough,2022-12-02,90+,3
 Northland,2020-03-31,30 to 39,1
 Northland,2020-04-01,40 to 49,1
 Northland,2020-04-02,50 to 59,1
@@ -34319,9 +34406,18 @@ Northland,2022-12-01,20 to 29,25
 Northland,2022-12-01,30 to 39,22
 Northland,2022-12-01,40 to 49,15
 Northland,2022-12-01,50 to 59,16
-Northland,2022-12-01,60 to 69,31
-Northland,2022-12-01,70 to 79,23
+Northland,2022-12-01,60 to 69,30
+Northland,2022-12-01,70 to 79,22
 Northland,2022-12-01,80 to 89,7
+Northland,2022-12-02,0 to 9,8
+Northland,2022-12-02,10 to 19,8
+Northland,2022-12-02,20 to 29,14
+Northland,2022-12-02,30 to 39,15
+Northland,2022-12-02,40 to 49,12
+Northland,2022-12-02,50 to 59,26
+Northland,2022-12-02,60 to 69,17
+Northland,2022-12-02,70 to 79,28
+Northland,2022-12-02,80 to 89,9
 South Canterbury,2020-03-23,20 to 29,1
 South Canterbury,2020-03-27,0 to 9,1
 South Canterbury,2020-03-27,40 to 49,1
@@ -36803,6 +36899,15 @@ South Canterbury,2022-12-01,60 to 69,7
 South Canterbury,2022-12-01,70 to 79,6
 South Canterbury,2022-12-01,80 to 89,7
 South Canterbury,2022-12-01,90+,1
+South Canterbury,2022-12-02,0 to 9,5
+South Canterbury,2022-12-02,10 to 19,4
+South Canterbury,2022-12-02,20 to 29,9
+South Canterbury,2022-12-02,30 to 39,4
+South Canterbury,2022-12-02,40 to 49,8
+South Canterbury,2022-12-02,50 to 59,6
+South Canterbury,2022-12-02,60 to 69,3
+South Canterbury,2022-12-02,70 to 79,5
+South Canterbury,2022-12-02,80 to 89,5
 Southern,2020-03-17,10 to 19,1
 Southern,2020-03-17,50 to 59,1
 Southern,2020-03-22,50 to 59,1
@@ -39700,6 +39805,16 @@ Southern,2022-12-01,60 to 69,48
 Southern,2022-12-01,70 to 79,30
 Southern,2022-12-01,80 to 89,11
 Southern,2022-12-01,90+,1
+Southern,2022-12-02,0 to 9,20
+Southern,2022-12-02,10 to 19,25
+Southern,2022-12-02,20 to 29,55
+Southern,2022-12-02,30 to 39,54
+Southern,2022-12-02,40 to 49,37
+Southern,2022-12-02,50 to 59,44
+Southern,2022-12-02,60 to 69,51
+Southern,2022-12-02,70 to 79,32
+Southern,2022-12-02,80 to 89,16
+Southern,2022-12-02,90+,5
 Tairawhiti,2020-04-14,40 to 49,1
 Tairawhiti,2020-04-14,50 to 59,1
 Tairawhiti,2021-12-24,20 to 29,2
@@ -42104,6 +42219,14 @@ Tairawhiti,2022-12-01,40 to 49,4
 Tairawhiti,2022-12-01,50 to 59,7
 Tairawhiti,2022-12-01,60 to 69,2
 Tairawhiti,2022-12-01,70 to 79,1
+Tairawhiti,2022-12-02,0 to 9,3
+Tairawhiti,2022-12-02,10 to 19,2
+Tairawhiti,2022-12-02,20 to 29,5
+Tairawhiti,2022-12-02,30 to 39,4
+Tairawhiti,2022-12-02,40 to 49,7
+Tairawhiti,2022-12-02,50 to 59,5
+Tairawhiti,2022-12-02,60 to 69,6
+Tairawhiti,2022-12-02,70 to 79,3
 Taranaki,2020-03-26,50 to 59,1
 Taranaki,2020-04-26,50 to 59,1
 Taranaki,2021-11-11,0 to 9,3
@@ -44820,6 +44943,16 @@ Taranaki,2022-12-01,60 to 69,13
 Taranaki,2022-12-01,70 to 79,2
 Taranaki,2022-12-01,80 to 89,1
 Taranaki,2022-12-01,90+,1
+Taranaki,2022-12-02,0 to 9,7
+Taranaki,2022-12-02,10 to 19,4
+Taranaki,2022-12-02,20 to 29,7
+Taranaki,2022-12-02,30 to 39,11
+Taranaki,2022-12-02,40 to 49,14
+Taranaki,2022-12-02,50 to 59,8
+Taranaki,2022-12-02,60 to 69,10
+Taranaki,2022-12-02,70 to 79,12
+Taranaki,2022-12-02,80 to 89,2
+Taranaki,2022-12-02,90+,1
 Unknown,2022-02-02,40 to 49,1
 Unknown,2022-02-15,20 to 29,2
 Unknown,2022-02-18,20 to 29,1
@@ -45528,7 +45661,7 @@ Unknown,2022-10-30,20 to 29,1
 Unknown,2022-10-30,70 to 79,1
 Unknown,2022-10-31,20 to 29,2
 Unknown,2022-10-31,30 to 39,3
-Unknown,2022-10-31,70 to 79,4
+Unknown,2022-10-31,70 to 79,3
 Unknown,2022-11-01,60 to 69,2
 Unknown,2022-11-01,70 to 79,2
 Unknown,2022-11-02,20 to 29,1
@@ -45634,11 +45767,14 @@ Unknown,2022-11-30,70 to 79,4
 Unknown,2022-11-30,80 to 89,1
 Unknown,2022-11-30,90+,1
 Unknown,2022-12-01,10 to 19,1
-Unknown,2022-12-01,20 to 29,1
+Unknown,2022-12-01,20 to 29,2
 Unknown,2022-12-01,50 to 59,1
 Unknown,2022-12-01,60 to 69,2
 Unknown,2022-12-01,70 to 79,2
 Unknown,2022-12-01,80 to 89,1
+Unknown,2022-12-02,20 to 29,1
+Unknown,2022-12-02,50 to 59,1
+Unknown,2022-12-02,60 to 69,1
 Waikato,2020-03-21,40 to 49,1
 Waikato,2020-03-22,70 to 79,1
 Waikato,2020-03-23,50 to 59,1
@@ -49065,7 +49201,7 @@ Waikato,2022-11-29,10 to 19,65
 Waikato,2022-11-29,20 to 29,79
 Waikato,2022-11-29,30 to 39,70
 Waikato,2022-11-29,40 to 49,74
-Waikato,2022-11-29,50 to 59,74
+Waikato,2022-11-29,50 to 59,73
 Waikato,2022-11-29,60 to 69,54
 Waikato,2022-11-29,70 to 79,38
 Waikato,2022-11-29,80 to 89,16
@@ -49090,6 +49226,16 @@ Waikato,2022-12-01,60 to 69,33
 Waikato,2022-12-01,70 to 79,32
 Waikato,2022-12-01,80 to 89,7
 Waikato,2022-12-01,90+,2
+Waikato,2022-12-02,0 to 9,13
+Waikato,2022-12-02,10 to 19,38
+Waikato,2022-12-02,20 to 29,51
+Waikato,2022-12-02,30 to 39,39
+Waikato,2022-12-02,40 to 49,40
+Waikato,2022-12-02,50 to 59,46
+Waikato,2022-12-02,60 to 69,36
+Waikato,2022-12-02,70 to 79,28
+Waikato,2022-12-02,80 to 89,5
+Waikato,2022-12-02,90+,1
 Wairarapa,2020-03-19,30 to 39,1
 Wairarapa,2020-03-24,50 to 59,1
 Wairarapa,2020-04-02,40 to 49,1
@@ -51497,6 +51643,15 @@ Wairarapa,2022-12-01,60 to 69,5
 Wairarapa,2022-12-01,70 to 79,4
 Wairarapa,2022-12-01,80 to 89,8
 Wairarapa,2022-12-01,90+,2
+Wairarapa,2022-12-02,0 to 9,2
+Wairarapa,2022-12-02,20 to 29,8
+Wairarapa,2022-12-02,30 to 39,5
+Wairarapa,2022-12-02,40 to 49,7
+Wairarapa,2022-12-02,50 to 59,8
+Wairarapa,2022-12-02,60 to 69,9
+Wairarapa,2022-12-02,70 to 79,7
+Wairarapa,2022-12-02,80 to 89,2
+Wairarapa,2022-12-02,90+,2
 Waitemata,2020-03-20,70 to 79,1
 Waitemata,2020-03-21,60 to 69,1
 Waitemata,2020-03-22,40 to 49,1
@@ -52607,7 +52762,7 @@ Waitemata,2022-02-24,70 to 79,11
 Waitemata,2022-02-24,80 to 89,3
 Waitemata,2022-02-24,90+,1
 Waitemata,2022-02-25,0 to 9,367
-Waitemata,2022-02-25,10 to 19,1005
+Waitemata,2022-02-25,10 to 19,1004
 Waitemata,2022-02-25,20 to 29,1227
 Waitemata,2022-02-25,30 to 39,848
 Waitemata,2022-02-25,40 to 49,597
@@ -55373,6 +55528,16 @@ Waitemata,2022-12-01,60 to 69,75
 Waitemata,2022-12-01,70 to 79,44
 Waitemata,2022-12-01,80 to 89,24
 Waitemata,2022-12-01,90+,5
+Waitemata,2022-12-02,0 to 9,53
+Waitemata,2022-12-02,10 to 19,53
+Waitemata,2022-12-02,20 to 29,80
+Waitemata,2022-12-02,30 to 39,124
+Waitemata,2022-12-02,40 to 49,85
+Waitemata,2022-12-02,50 to 59,76
+Waitemata,2022-12-02,60 to 69,67
+Waitemata,2022-12-02,70 to 79,43
+Waitemata,2022-12-02,80 to 89,36
+Waitemata,2022-12-02,90+,10
 Whanganui,2020-04-17,20 to 29,1
 Whanganui,2020-04-19,20 to 29,1
 Whanganui,2021-12-04,30 to 39,1
@@ -57855,3 +58020,12 @@ Whanganui,2022-12-01,60 to 69,10
 Whanganui,2022-12-01,70 to 79,4
 Whanganui,2022-12-01,80 to 89,5
 Whanganui,2022-12-01,90+,1
+Whanganui,2022-12-02,0 to 9,4
+Whanganui,2022-12-02,10 to 19,2
+Whanganui,2022-12-02,20 to 29,14
+Whanganui,2022-12-02,30 to 39,9
+Whanganui,2022-12-02,40 to 49,10
+Whanganui,2022-12-02,50 to 59,13
+Whanganui,2022-12-02,60 to 69,4
+Whanganui,2022-12-02,70 to 79,3
+Whanganui,2022-12-02,80 to 89,4
